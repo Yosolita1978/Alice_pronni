@@ -1,0 +1,123 @@
+{
+    "title": "The focus rectangle is supposed to help the user observe that the click was effective and thereby prevent him from accidentally clicking twice.",
+    "questions": [
+        {
+            "kind": "dropdown",
+            "header_img": "http://placeimg.com/900/480/arch",
+            "question": "Objects appear to have color because they __ some kinds of light and __ other kinds of light. We only see the light that is __ off the object's surface.",
+            "answers": [
+              {
+                "options": ["emit", "absorb", "reflect", "refract"],
+                "correct": 0,
+                "type": "dropdown"
+              },
+              {
+                "correct": "absorb",
+                "type": "text"
+              },
+              {
+                "options": ["emmited", "absorbed", "reflected", "refracted"],
+                "correct": 0,
+                "type": "dropdown"
+              }
+            ]
+        },
+        {
+            "kind": "list",
+            "question": "Selecciona la respuesta correcta.",
+            "header_img": "http://placeimg.com/900/480/arch",
+            "multiple": true,
+            "answers": [
+              {
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "image": "http://placeimg.com/640/450/nature",
+                "correct": false
+              },
+              {
+                "content": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+                "image": "http://placeimg.com/640/450/nature",
+                "correct": true
+              },
+              {
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "image": "http://placeimg.com/640/450/nature",
+                "correct": true
+              }
+            ]
+        },
+        {
+            "kind": "dragndrop",
+            "header_img": "http://placeimg.com/900/480/arch",
+            "questions": [
+            {
+                "text": "blue+yellow",
+                "image": "https://confident-sinoussi-093cdb.netlify.app/images/blue_plus_yellow.jpg",
+                "answer": {
+                  "text": "green",
+                  "image": "https://confident-sinoussi-093cdb.netlify.app/images/green.jpg"
+                }
+            },
+            {
+                "text": "red+blue",
+                "image": "https://confident-sinoussi-093cdb.netlify.app/images/red_plus_blue.jpg",
+                "answer": {
+                  "text": "purple",
+                  "image": "https://confident-sinoussi-093cdb.netlify.app/images/purple.jpg"
+                }
+            },
+            {
+                "text": "yellow+red",
+                "image": "https://confident-sinoussi-093cdb.netlify.app/images/yellow_plus_red.jpg",
+                "answer": {
+                  "text": "orange",
+                  "image": "https://confident-sinoussi-093cdb.netlify.app/images/orange.jpg"
+                }
+            }
+            ]
+        },
+        {
+            "kind": "open",
+            "title": "Answer this questions please.",
+            "header_img": "http://placeimg.com/900/480/arch",
+            "questions": [
+              {
+                "content": "We / see / a rabbit in the yard",
+                "answer": "We see a rabbit in the yard",
+                "image": "http://placeimg.com/640/450/nature"
+              },
+              {
+                "content": "We / see / a rabbit in the corridor",
+                "answer": "We see a rabbit in the corridor",
+                "image": "http://placeimg.com/640/450/nature"
+              },
+              {
+                "content": "We / see / a rabbit in the basement",
+                "answer": "We see a rabbit in the basement",
+                "image": "http://placeimg.com/640/450/nature"
+              }
+            ]
+        },
+        {
+            "kind": "fillblanks",
+            "title": "¿Puedes escribir el nombre?",
+            "header_img": "http://placeimg.com/900/480/arch",
+            "questions": [
+              {
+                "content": "ainmal",
+                "answer": "animal",
+                "image": "http://placeimg.com/400/400/animals"
+              },
+              {
+                "content": "ainmal",
+                "answer": "animal",
+                "image": "http://placeimg.com/400/400/animals"
+              },
+              {
+                "content": "ainmal",
+                "answer": "animal",
+                "image": "http://placeimg.com/400/400/animals"
+              }
+            ]
+          }
+    ]
+}
