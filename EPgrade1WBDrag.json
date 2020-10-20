@@ -1,9 +1,9 @@
 {
+    "kind": "dragndrop",
     "title": "EPgrade1WBDrag.csv",
     "questions": [
         {
-            "kind": "dragndrop",
-            "title": "Match the words ",
+            "Instruccion": "Match the words ",
             "questions": [
                 {
                     "text": "orange",
@@ -50,8 +50,7 @@
             ]
         },
         {
-            "kind": "dragndrop",
-            "title": "Read and match",
+            "Instruccion": "Read and match",
             "questions": [
                 {
                     "text": "a) They aren't hotcakes. They're eggs",
@@ -80,8 +79,7 @@
             ]
         },
         {
-            "kind": "dragndrop",
-            "title": "Match the words",
+            "Instruccion": "Match the words",
             "questions": [
                 {
                     "text": "get",
@@ -122,8 +120,7 @@
             ]
         },
         {
-            "kind": "dragndrop",
-            "title": "Match the words to the pictures",
+            "Instruccion": "Match the words to the pictures",
             "questions": [
                 {
                     "text": "turtle",
@@ -164,8 +161,7 @@
             ]
         },
         {
-            "kind": "dragndrop",
-            "title": "Match the words to the pictures",
+            "Instruccion": "Match the words to the pictures",
             "questions": [
                 {
                     "text": "desert",

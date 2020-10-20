@@ -51,9 +51,8 @@ with open(input_csv_file_path) as csv_file:
     for csv_row in csv_reader:
         #print(csv_row)
         if csv_row["Instruccion"]:
-                activities.append({"kind": "dragndrop",
-                            "title": csv_row["Instruccion"],
-                            "questions": []
+                activities.append({"Instruccion": csv_row["Instruccion"],
+                                    "questions": []
                 })
 
 
@@ -65,7 +64,8 @@ with open(input_csv_file_path) as csv_file:
             activities[-1]["questions"].append(question)
 
 #Write the data in a json files
-root = {"title": file,
+root = {"kind": "dragndrop",
+        "title": file,
         "questions": activities
 }
 
