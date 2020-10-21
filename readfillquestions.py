@@ -3,17 +3,16 @@ import csv
 import json
 import pandas as pd
 
-
 PATH = '/Users/cristina/src/Alice_proni/Excel_files/'
-file = 'EPgrade1WBDrag.csv'
+file = 'EPgrade1WBFill.csv'
 input_csv_file_path = os.path.join(PATH, file)
 activities = []
 
 
-#Drag and Drop
+#Fill the blanks
 with open(input_csv_file_path) as csv_file:
     csv_reader = csv.DictReader(csv_file)
-    activity = None
+
 
     for csv_row in csv_reader:
         #print(csv_row)
@@ -22,20 +21,19 @@ with open(input_csv_file_path) as csv_file:
                                     "questions": []
                 })
 
-
         else:
-            question = {"text": csv_row["opciones"],
-            "answer":{
-                "text": csv_row["Respuesta "]
-            }}
+            question = {"content": csv_row["Pregunta 1"],
+                        "answer": csv_row["Respuesta 1"]}
+
             activities[-1]["questions"].append(question)
 
+
 #Write the data in a json files
-root = {"kind": "dragndrop",
+root = {"kind": "fillblanks",
         "title": file,
         "questions": activities
 }
 
-json_file_path = "EPgrade1WBDrag.json"
+json_file_path = "EPgrade1WBFill.json"
 with open(json_file_path, "w") as json_file:
     json_file.write(json.dumps(root,indent=4))
