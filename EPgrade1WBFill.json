@@ -15,11 +15,11 @@
             "title": "Read and complete.",
             "questions": [
                 {
-                    "content": "1,2, 4,5,6",
+                    "content": "1,2, ___, 4,5,6",
                     "answer": "3"
                 },
                 {
-                    "content": "8,10",
+                    "content": "8, ___, 10",
                     "answer": "9"
                 }
             ]
@@ -53,19 +53,19 @@
             "title": "Read and complete.",
             "questions": [
                 {
-                    "content": "pencil.",
+                    "content": "___ pencil.",
                     "answer": "It's a"
                 },
                 {
-                    "content": "ruler.",
+                    "content": "___ ruler.",
                     "answer": "It's a"
                 },
                 {
-                    "content": "crayon.",
+                    "content": "___ crayon.",
                     "answer": "It's a"
                 },
                 {
-                    "content": "notebook.",
+                    "content": "___ notebook.",
                     "answer": "It's a"
                 }
             ]
@@ -74,12 +74,8 @@
             "title": "Invent and complete the conversations.",
             "questions": [
                 {
-                    "content": "And what's?",
+                    "content": "And what's ___ ?",
                     "answer": "this?"
-                },
-                {
-                    "content": "",
-                    "answer": ""
                 }
             ]
         },
@@ -87,15 +83,15 @@
             "title": "Read, look and write",
             "questions": [
                 {
-                    "content": "What's this? It's a",
+                    "content": "What's this? It's a ___",
                     "answer": "ruler"
                 },
                 {
-                    "content": "What's this? It's a",
+                    "content": "What's this? It's a ___",
                     "answer": "pencil"
                 },
                 {
-                    "content": "What's this? It's a",
+                    "content": "What's this? It's a ___",
                     "answer": "book"
                 }
             ]
@@ -104,11 +100,11 @@
             "title": "Write This is or that's",
             "questions": [
                 {
-                    "content": "the playground.",
+                    "content": "___ the playground.",
                     "answer": "This is"
                 },
                 {
-                    "content": "the bathroom.",
+                    "content": "___ the bathroom.",
                     "answer": "That's"
                 }
             ]
@@ -142,19 +138,19 @@
             "title": "Look at the pictures and complete the expressions",
             "questions": [
                 {
-                    "content": "Marie Lou",
+                    "content": "____. Marie Lou",
                     "answer": "What's your name?"
                 },
                 {
-                    "content": "This is for you",
+                    "content": "This is for you. ____",
                     "answer": "Thank you!"
                 },
                 {
-                    "content": "careful!",
+                    "content": "____ careful!",
                     "answer": "Be"
                 },
                 {
-                    "content": "Good ",
+                    "content": "Good ___",
                     "answer": "night"
                 }
             ]
@@ -163,23 +159,23 @@
             "title": "Write the missing letters",
             "questions": [
                 {
-                    "content": "a,b,c,e,f,g",
+                    "content": "a, b, c, ___, e, f, g",
                     "answer": "d"
                 },
                 {
-                    "content": "h, i, j, k,m",
+                    "content": "h, i, j, k, ___, m",
                     "answer": "l"
                 },
                 {
-                    "content": "n,o,",
+                    "content": "n, ___, o,",
                     "answer": "p"
                 },
                 {
-                    "content": "q,s,t",
+                    "content": "q, ___, s, t",
                     "answer": "r"
                 },
                 {
-                    "content": "u,v,w,x,z",
+                    "content": "u, v, w, x, ___, z",
                     "answer": "y"
                 }
             ]
@@ -188,23 +184,23 @@
             "title": "Write isn't o aren't",
             "questions": [
                 {
-                    "content": "They hotcakes",
+                    "content": "They ___ hotcakes",
                     "answer": "aren't"
                 },
                 {
-                    "content": "It milk",
+                    "content": "It ____ milk",
                     "answer": "isn't"
                 },
                 {
-                    "content": "They eggs",
+                    "content": "They ___ eggs",
                     "answer": "aren't"
                 },
                 {
-                    "content": "It juice",
+                    "content": "It ___ juice",
                     "answer": "isn't"
                 },
                 {
-                    "content": "They tacos",
+                    "content": "They ___ tacos",
                     "answer": "aren't"
                 }
             ]
@@ -242,27 +238,27 @@
             "title": "Read and complete with this or these. ",
             "questions": [
                 {
-                    "content": "are my arms.",
+                    "content": "___ are my arms.",
                     "answer": "These"
                 },
                 {
-                    "content": "is my head.",
+                    "content": "___ is my head.",
                     "answer": "This"
                 },
                 {
-                    "content": "is my body.",
+                    "content": "___ is my body.",
                     "answer": "This"
                 },
                 {
-                    "content": "are my legs.",
+                    "content": "___ are my legs.",
                     "answer": "These"
                 },
                 {
-                    "content": "are my hands.",
+                    "content": "___ are my hands.",
                     "answer": "These"
                 },
                 {
-                    "content": "are my feet.",
+                    "content": "___ are my feet.",
                     "answer": "These"
                 }
             ]
@@ -300,23 +296,23 @@
             "title": "Write has or have",
             "questions": [
                 {
-                    "content": "The classroom tables",
+                    "content": "The classroom ___ tables",
                     "answer": "has"
                 },
                 {
-                    "content": "It a window",
+                    "content": "It ___ a window",
                     "answer": "has"
                 },
                 {
-                    "content": "The children in the middle row black hair",
+                    "content": "The children in the middle row ___ black hair",
                     "answer": "have"
                 },
                 {
-                    "content": "The girl in the front a pencil case, too",
+                    "content": "The girl in the front ___ a pencil case, too",
                     "answer": "has"
                 },
                 {
-                    "content": "The girl in the back curly hair",
+                    "content": "The girl in the back ___ curly hair",
                     "answer": "has"
                 }
             ]
@@ -325,15 +321,15 @@
             "title": "Write a or an",
             "questions": [
                 {
-                    "content": "Jilly has pencil case and eraser",
+                    "content": "Jilly has ___ pencil case and ___ eraser",
                     "answer": "a an"
                 },
                 {
-                    "content": "Ben has orange cupcake and cookie.",
+                    "content": "Ben has ___ orange cupcake and ___ cookie.",
                     "answer": "an a "
                 },
                 {
-                    "content": "Dany has sandwich and egg",
+                    "content": "Dany has ___ sandwich and ___ egg",
                     "answer": "a an"
                 }
             ]
@@ -342,31 +338,31 @@
             "title": "Complete the story with the verbs",
             "questions": [
                 {
-                    "content": "Donny up at 7. He dressed.",
+                    "content": "Donny ___ up at 7. He ___ dressed.",
                     "answer": "wakes, gets"
                 },
                 {
-                    "content": "He oatmeal for breakfast.",
+                    "content": "He ___ oatmeal for breakfast.",
                     "answer": "eats"
                 },
                 {
-                    "content": "He to school on the school bus. School is fun.",
+                    "content": "He ___ to school on the school bus. School is fun.",
                     "answer": "goes"
                 },
                 {
-                    "content": "In the afternoon Donny his homework.",
+                    "content": "In the afternoon Donny ___ his homework.",
                     "answer": "does"
                 },
                 {
-                    "content": "He television.",
+                    "content": "He ___ television.",
                     "answer": "watches"
                 },
                 {
-                    "content": "Then he to bed.",
+                    "content": "Then he ___ to bed.",
                     "answer": "goes"
                 },
                 {
-                    "content": "He a book in bed. ",
+                    "content": "He ___ a book in bed. ",
                     "answer": "reads"
                 }
             ]
@@ -375,27 +371,27 @@
             "title": "Write them in the order you do the actions.",
             "questions": [
                 {
-                    "content": "a",
+                    "content": "a. ___",
                     "answer": "I get up"
                 },
                 {
-                    "content": "b",
+                    "content": "b. ___",
                     "answer": ""
                 },
                 {
-                    "content": "c",
+                    "content": "c. ___",
                     "answer": ""
                 },
                 {
-                    "content": "d",
+                    "content": "d. ___",
                     "answer": ""
                 },
                 {
-                    "content": "e",
+                    "content": "e. ___",
                     "answer": ""
                 },
                 {
-                    "content": "f",
+                    "content": "f. ___",
                     "answer": ""
                 }
             ]
@@ -404,27 +400,27 @@
             "title": "Write there is or there are",
             "questions": [
                 {
-                    "content": "Party hats.",
+                    "content": "___ party hats.",
                     "answer": "There are"
                 },
                 {
-                    "content": "a clown.",
+                    "content": "___ a clown.",
                     "answer": "There is"
                 },
                 {
-                    "content": "a gift.",
+                    "content": "___ a gift.",
                     "answer": "There is"
                 },
                 {
-                    "content": "cookies.",
+                    "content": "___ cookies.",
                     "answer": "There are"
                 },
                 {
-                    "content": "a cake. ",
+                    "content": "___ a cake. ",
                     "answer": "There is"
                 },
                 {
-                    "content": "children.",
+                    "content": "___ children.",
                     "answer": "There are"
                 }
             ]
@@ -433,27 +429,27 @@
             "title": "Complete the words. Look at the pictures",
             "questions": [
                 {
-                    "content": "b",
+                    "content": "b___",
                     "answer": "alloon"
                 },
                 {
-                    "content": "a c",
+                    "content": "a c___",
                     "answer": "lown"
                 },
                 {
-                    "content": "c",
+                    "content": "c___",
                     "answer": "andles"
                 },
                 {
-                    "content": "a g",
+                    "content": "a g___",
                     "answer": "gifts"
                 },
                 {
-                    "content": "a m",
+                    "content": "a m___",
                     "answer": "agician"
                 },
                 {
-                    "content": "party h",
+                    "content": "party h___",
                     "answer": "ats"
                 }
             ]
@@ -495,19 +491,19 @@
                     "answer": ""
                 },
                 {
-                    "content": "Yes,",
+                    "content": "Yes, ___",
                     "answer": "it is."
                 },
                 {
-                    "content": "Are they pigs? ",
+                    "content": "Are they pigs? ___",
                     "answer": "No, they aren't."
                 },
                 {
-                    "content": "Is it a horse? ",
+                    "content": "Is it a horse? ___",
                     "answer": "No, it isn't "
                 },
                 {
-                    "content": "Are they horses?",
+                    "content": "Are they horses? ___",
                     "answer": "Yes, they are."
                 }
             ]
@@ -516,11 +512,11 @@
             "title": "Complete the questions.",
             "questions": [
                 {
-                    "content": "ducks? Yes, they are.",
+                    "content": "___ ducks? Yes, they are.",
                     "answer": "Are they"
                 },
                 {
-                    "content": "a cow? Yes, It is.",
+                    "content": "___ a cow? Yes, It is.",
                     "answer": "Is it"
                 },
                 {
@@ -533,23 +529,23 @@
             "title": "Look and complete the words.",
             "questions": [
                 {
-                    "content": "h",
+                    "content": "h___",
                     "answer": "orse"
                 },
                 {
-                    "content": "h",
+                    "content": "h___",
                     "answer": "en"
                 },
                 {
-                    "content": "s",
+                    "content": "s___",
                     "answer": "heep"
                 },
                 {
-                    "content": "p",
+                    "content": "p___",
                     "answer": "ig"
                 },
                 {
-                    "content": "c",
+                    "content": "c___",
                     "answer": "ow"
                 }
             ]
@@ -558,35 +554,35 @@
             "title": "Complete the questions with do or does.",
             "questions": [
                 {
-                    "content": "How many rabbits you have? ",
+                    "content": "How many rabbits ___ you have? ",
                     "answer": "do"
                 },
                 {
-                    "content": "I have",
+                    "content": "I have ___",
                     "answer": "three"
                 },
                 {
-                    "content": "How many she have?",
+                    "content": "How many ___ she have?",
                     "answer": "dogs"
                 },
                 {
-                    "content": "She has",
+                    "content": "She has ___",
                     "answer": "four"
                 },
                 {
-                    "content": "How many goldfish they have?",
+                    "content": "How many goldfish ___ they have?",
                     "answer": "do"
                 },
                 {
-                    "content": "They have",
+                    "content": "They have ___",
                     "answer": "ten"
                 },
                 {
-                    "content": "How many cats you have?",
+                    "content": "How many cats ___ you have?",
                     "answer": "do"
                 },
                 {
-                    "content": "We have",
+                    "content": "We have ___",
                     "answer": "two"
                 }
             ]
@@ -595,19 +591,19 @@
             "title": "Write the numbers",
             "questions": [
                 {
-                    "content": "1",
+                    "content": "1. ___",
                     "answer": "one"
                 },
                 {
-                    "content": "5",
+                    "content": "5. ___",
                     "answer": "five"
                 },
                 {
-                    "content": "7",
+                    "content": "7. ___",
                     "answer": "seven"
                 },
                 {
-                    "content": "9",
+                    "content": "9. ___",
                     "answer": "nine"
                 }
             ]
@@ -616,35 +612,35 @@
             "title": "Complete the questions, and complete the answers for Millie.",
             "questions": [
                 {
-                    "content": "your play in the yard?",
+                    "content": "___ your ___ play in the yard?",
                     "answer": "Does, dog"
                 },
                 {
-                    "content": "Yes, he",
+                    "content": "Yes, he ___",
                     "answer": "does."
                 },
                 {
-                    "content": "your drink milk?",
+                    "content": "___ your ___ drink milk?",
                     "answer": "Does, cat"
                 },
                 {
-                    "content": "Yes, she",
+                    "content": "Yes, she ___",
                     "answer": "does."
                 },
                 {
-                    "content": "your eat cupcakes?",
+                    "content": "___ your ___ eat cupcakes?",
                     "answer": "Does, rabbit"
                 },
                 {
-                    "content": "No, she",
+                    "content": "No, she ___",
                     "answer": "doesn't."
                 },
                 {
-                    "content": "your sleep in your bedroom?",
+                    "content": "___ your ___ sleep in your bedroom?",
                     "answer": "Does, dog"
                 },
                 {
-                    "content": "No, he",
+                    "content": "No, he ___",
                     "answer": "doesn't."
                 }
             ]
@@ -653,11 +649,11 @@
             "title": "Look at the picture. Complete the question. Then answer it.",
             "questions": [
                 {
-                    "content": "his hamster have a hamster ball?",
+                    "content": "___ his hamster have a hamster ball?",
                     "answer": "Does"
                 },
                 {
-                    "content": "Yes, he ",
+                    "content": "Yes, he ___",
                     "answer": "does"
                 }
             ]
@@ -666,23 +662,23 @@
             "title": "Find 5 verbs. Write them. Use the verbs to complete the sentences.",
             "questions": [
                 {
-                    "content": "My dog and I in the park.",
+                    "content": "My dog and I ___ in the park.",
                     "answer": "run"
                 },
                 {
-                    "content": "I with my hamster every day.",
+                    "content": "I ___ with my hamster every day.",
                     "answer": "play"
                 },
                 {
-                    "content": "Goldfish fish food",
+                    "content": "Goldfish ___ fish food",
                     "answer": "eat"
                 },
                 {
-                    "content": "My cats milk every day.",
+                    "content": "My cats ___ milk every day.",
                     "answer": "drink"
                 },
                 {
-                    "content": "My tortoises in the yard.",
+                    "content": "My tortoises ___ in the yard.",
                     "answer": "sleep"
                 }
             ]
