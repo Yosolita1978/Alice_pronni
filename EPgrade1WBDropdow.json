@@ -20,7 +20,7 @@
       "title": "Choose that or those.",
       "activity": [
         {
-          "question": "What are ___ ",
+          "question": "What are ___ ?",
           "options": [
             "that",
             "those"
@@ -29,7 +29,7 @@
           "type": "text"
         },
         {
-          "question": "What's ___",
+          "question": "What's ___ ?",
           "options": [
             "that",
             "those"
@@ -38,7 +38,7 @@
           "type": "text"
         },
         {
-          "question": "What's ___",
+          "question": "What's ___ ?",
           "options": [
             "that",
             "those"
@@ -47,7 +47,7 @@
           "type": "text"
         },
         {
-          "question": "What are ___ ",
+          "question": "What are ___  ?",
           "options": [
             "that",
             "those"
@@ -56,7 +56,7 @@
           "type": "text"
         },
         {
-          "question": "What's ___ ",
+          "question": "What's ___ ?",
           "options": [
             "that",
             "those"
