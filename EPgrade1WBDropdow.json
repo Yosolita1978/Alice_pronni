@@ -1,0 +1,129 @@
+{
+  "kind": "dropdown",
+  "title": "EPgrade1WBDropdown.csv",
+  "questions": [
+    {
+      "title": "Choose the correct question",
+      "activity": [
+        {
+          "question": "___",
+          "options": [
+            "What your name?",
+            "What's your name?"
+          ],
+          "correct": "What's your name?",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "title": "Choose that or those.",
+      "activity": [
+        {
+          "question": "What are ___ ",
+          "options": [
+            "that",
+            "those"
+          ],
+          "correct": "those",
+          "type": "text"
+        },
+        {
+          "question": "What's ___",
+          "options": [
+            "that",
+            "those"
+          ],
+          "correct": "that",
+          "type": "text"
+        },
+        {
+          "question": "What's ___",
+          "options": [
+            "that",
+            "those"
+          ],
+          "correct": "that",
+          "type": "text"
+        },
+        {
+          "question": "What are ___ ",
+          "options": [
+            "that",
+            "those"
+          ],
+          "correct": "those",
+          "type": "text"
+        },
+        {
+          "question": "What's ___ ",
+          "options": [
+            "that",
+            "those"
+          ],
+          "correct": "that",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "title": "Choose the correct word.",
+      "activity": [
+        {
+          "question": "___ is a zebra.",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correct": "This",
+          "type": "text"
+        },
+        {
+          "question": "___ are lions.",
+          "options": [
+            "These",
+            "Those"
+          ],
+          "correct": "These",
+          "type": "text"
+        },
+        {
+          "question": "___ are zebras.",
+          "options": [
+            "These ",
+            "Those"
+          ],
+          "correct": "Those",
+          "type": "text"
+        },
+        {
+          "question": "___ is a zebra.",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correct": "That",
+          "type": "text"
+        },
+        {
+          "question": "___ a gorilla",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correct": "That",
+          "type": "text"
+        },
+        {
+          "question": "___ an elephant.",
+          "options": [
+            "This",
+            "That's"
+          ],
+          "correct": "That's",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "title": "Question from the workbook 3.",
+  "questions": [
+    {
+      "kind": "fillblanks",
+      "title": "Complete the table of tenses used in Reported Speech",
+      "questions": [
+        {
+          "content": "Present simple",
+          "answer": "Past simple"
+        },
+        {
+          "content": "Present continuous",
+          "answer": "Past continuous"
+        },
+        {
+          "content": "Past simple",
+          "answer": "Past perfect"
+        },
+        {
+          "content": "Present perfect",
+          "answer": "Past perfect"
+        },
+        {
+          "content": "Will",
+          "answer": "Would"
+        },
+        {
+          "content": "Can",
+          "answer": "Could"
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Which word? Write the correct homophone to complete the sentences.",
+      "question": "I told __ several times not to go to that party. __ __ is blue. (her / hair). Timmy is sick. He __ __ slices of pizza (eight / ate). Look at the __, my __. Beautiful! (son / sun). The __ met every __ with King Arthur. (night, knights). __ brother is very nice. __ not! (you're / your)",
+      "answers": [
+        { "correct": "her", "type": "text" },
+        { "correct": "her", "type": "text" },
+        { "correct": "hair", "type": "text" },
+        { "correct": "ate", "type": "text" },
+        { "correct": "eight", "type": "text" },
+        { "correct": "sun", "type": "text" },
+        { "correct": "son", "type": "text" },
+        { "correct": "knights", "type": "text" },
+        { "correct": "night", "type": "text" },
+        { "correct": "your", "type": "text" },
+        { "correct": "you're", "type": "text" }
+      ]
+    },
+    {
+      "kind": "fillblanks",
+      "title": "Complete the table of tenses used in Reported Speech",
+      "questions": [
+        {
+          "content": "today",
+          "answer": "that day"
+        },
+        {
+          "content": "now",
+          "answer": "then"
+        },
+        {
+          "content": "days ago",
+          "answer": "days before"
+        },
+        {
+          "content": "last week",
+          "answer": "the week before"
+        },
+        {
+          "content": "next year",
+          "answer": "the following year"
+        },
+        {
+          "content": "tomorrow",
+          "answer": "the following day"
+        },
+        {
+          "content": "this",
+          "answer": "that"
+        },
+        {
+          "content": "these",
+          "answer": "those"
+        },
+        {
+          "content": "here",
+          "answer": "there"
+        }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "Complete the reported questions.",
+      "questions": [
+        {
+          "content": "'Did you like the documentary on plastic in the oceans?'. He asked the students...",
+          "answer": "if they had liked the documentary on plastic in the oceans."
+        },
+        {
+          "content": "'Have you ever swum in the Pacific?'. She asked..",
+          "answer": "if they had ever swum in the Pacific."
+        },
+        {
+          "content": "'Who is your favorite science teacher?'. My mom asked...",
+          "answer": "who my favorite science teacher was."
+        },
+        {
+          "content": "'Are you going to participate in the plastic recycling campaign next month?'. The teacher asked...",
+          "answer": "if we were going to participate in the recycling campaign next month."
+        },
+        {
+          "content": "'How many straws do you use a month?'. We asked...",
+          "answer": "how many straws we used a month."
+        }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "Change these sentences to Reported Speech. Use the information in parenthesis.",
+      "questions": [
+        {
+          "content": "'Don't move.' (tell / police officer to the criminals)",
+          "answer": "The police officer told the criminals not to move."
+        },
+        {
+          "content": "'Please, write your name on this line.' (ask / teacher to the students)",
+          "answer": "The teacher asked the students to write their name on that line."
+        },
+        {
+          "content": "'Do not litter in public places.' (ask / police officer to beach goers)",
+          "answer": "The police asked the beach goers not to litter in public places."
+        },
+        {
+          "content": "'Help me with my Math homework, please.' (ask / my brother to me)",
+          "answer": "My brother asked me to help him with his Math homework."
+        },
+        {
+          "content": "'Write a 2-page composition about 'Gyres in the Pacific' for Monday.' (asked / English teacher to students)",
+          "answer": "The English teacher asked the students to write a 2-page composition about  'Gyres in the Pacific' for Monday."
+        }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "Read the questions and provide an answer.",
+      "questions": [
+        {
+          "content": "What's the past tense of the verb LEAK?",
+          "answer": "leaked"
+        },
+        {
+          "content": "What's the noun of the verb \"pollute\"?",
+          "answer": "pollution"
+        },
+        {
+          "content": "What's the adjective of the verb \"renew\"?",
+          "answer": "Renewable"
+        },
+        {
+          "content": "What's the adjective of the noun \"resources\"?",
+          "answer": "Resourceful"
+        },
+        {
+          "content": "Is CONSERVATIONIST an adjective or a noun?",
+          "answer": "a noun"
+        },
+        {
+          "content": "Do we say 'polluted water' or 'pollut water' to refer to dirty water?",
+          "answer": "Polluted water"
+        },
+        {
+          "content": "If \"consumption\" is a noun, CONSUME is a verb or an adjective?",
+          "answer": "a verb"
+        },
+        {
+          "content": "\"Electricity bill\" refers to one item, when you refer to 3 or 4 of them, do we say \"Electricities bill\" or \"Electricity bills\"?",
+          "answer": "Electricity bills"
+        },
+        {
+          "content": "Is \"SPEND\" regular or irregular verb?",
+          "answer": "regular"
+        },
+        {
+          "content": "What verb would you use with the adjective \"efficient\", 'to be' or 'to eat'?",
+          "answer": "to be"
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete the sentences. Choose the correct adverb.",
+      "question": "Have you had dinner __? We __ did our homework. We started early and only took us an hour. Let's have some ice cream. No, thanks. I __ had some. People are __ talking about the concert. It was great. If there's a lot of traffic, Mary won't be home __",
+      "answers": [
+        { "options": ["already", "just", "yet", "still"],
+          "correct": 2,"type": "dropdown" },
+        { "options": ["already", "just", "yet", "still"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["already", "just", "yet", "still"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["already", "just", "yet", "still"],
+          "correct": 3,"type": "dropdown" },
+        { "options": ["already", "just", "yet", "still"],
+          "correct": 2,"type": "dropdown" }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "Answer the questions. Use the words in parentheses.",
+      "questions": [
+        {
+          "content": "When are you gang to buy those shoes you wanted? (already)",
+          "answer": "I already bought them."
+        },
+        {
+          "content": "Did you read that book I lent you last month? (Yes, just)",
+          "answer": "Yes, I just finished it."
+        },
+        {
+          "content": "Did Susan win any prizes? (No, yet)",
+          "answer": "No, she hasn't won any yet."
+        },
+        {
+          "content": "Your mother is very upset. What's wrong? (just heard some bad news)",
+          "answer": "She's just heard some bad news."
+        },
+        {
+          "content": "Did you see that movie everybody is talking about? (No, yet)",
+          "answer": "No, I haven't seen it yet."
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete the paragraph. Use 'already', 'just', 'yet' or 'still'. You may use these adverbs more than once.",
+      "question": "We've __ heard that the new project to help save 'vaquita porpoise' started two days ago. Environmentalists are __ working with authorities in order to regulate fishing in that area of the Gulf of California. There have __ been meetings to discuss such regulations; however they haven't come to any conclusion __. Have you over seen pictures of this animal? It is a small species and delicate as well. It seems that people haven't understood __ how important to respect habitats is and what is worse the major damage caused to Nature. The problem is __ here, what are you doing to help?",
+      "answers": [
+        { "correct": "just", "type": "text" },
+        { "correct": "still", "type": "text" },
+        { "correct": "already", "type": "text" },
+        { "correct": "already", "type": "text" },
+        { "correct": "yet", "type": "text" },
+        { "correct": "already", "type": "text" }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "Rewrite the sentences",
+      "questions": [
+        {
+          "content": "The students not have researched this topic before.",
+          "answer": "The students haven't researched this tonic before."
+        },
+        {
+          "content": "Have you never swum in the ocean?",
+          "answer": "Have you ever swum in the ocean?"
+        },
+        {
+          "content": "We have collect big variety of coffee mugs.",
+          "answer": "We have collected a big variety of coffee mugs."
+        },
+        {
+          "content": "Maria and Paul hasn't finished the project yet.",
+          "answer": "Maria and Paul haven't finished the project yet."
+        },
+        {
+          "content": "She have be a vegetarian since 2015.",
+          "answer": "She has been a vegetarian since 2015."
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete the sentences. Use the Simple Past or the Present Perfect of the verbs in parentheses.",
+      "question": "Three months ago John __ (move) to a bigger apartment. Dr. Smith has __ (work) with the same team of doctors for over three years. My cousins __ (live) in Paris for 10 years. They are back in Mexico. __ you __ (go) to Mary's party last night? Mr. Sanchez __ (be) an English teacher for 20 years.",
+      "answers": [
+        { "correct": "moved", "type": "text" },
+        { "correct": "has worked", "type": "text" },
+        { "correct": "lived", "type": "text" },
+        { "correct": "did", "type": "text" },
+        { "correct": "go", "type": "text" },
+        { "correct": "has been", "type": "text" }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete the sentences with since or for.",
+      "question": "Jacob has been in Japan __ March. I have known Sebastian __ many years. He loves fruit. We have been friends __ kindergarden. I haven't seen Susy __ a while. She hasn't visited her parents in Germany __ 2016.",
+      "answers": [
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Choose the past perfect from these sentences.",
+      "question": "We drink red wine. __. It is complicated. __. Tom studies French. __",
+      "answers": [
+        { "options": ["We've drank red wine.", "We'd drink red wine.", "We had drank red wine."],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["It's complicated.", "It had been complicated.", "It'd be complicated."],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["Tom had studied French.", "Tom's studied French", "Tom was studying French"],
+          "correct": 0,"type": "dropdown" }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Write numbers 1 or 2 to Indicate which action happened first or second in each sentence",
+      "question": "After she had eaten dinner __ she did her homework. __.\nWhen she had finished the laundry __ she called her friend. __\nThey went shopping __ after they had been paid. __\nBy the time we showed up __ everybody had already left. __\nThey didn't go to the picnic __ because they had been sick. __",
+      "answers": [
+        { "correct": "1", "type": "text" },
+        { "correct": "2", "type": "text" },
+        { "correct": "1", "type": "text" },
+        { "correct": "2", "type": "text" },
+        { "correct": "2", "type": "text" },
+        { "correct": "1", "type": "text" },
+        { "correct": "2", "type": "text" },
+        { "correct": "1", "type": "text" },
+        { "correct": "2", "type": "text" },
+        { "correct": "1", "type": "text" }
+      ]
+    },
+    {
+      "kind": "dragndrop",
+      "title": "Match the clauses to form sentences.",
+      "questions": [
+        {
+          "text": "Sam started to work for a company",
+          "answer": {
+            "text": "after he had finished college in 2011."
+          }
+        },
+        {
+          "text": "They spoke Russian fluently",
+          "answer": {
+            "text": "after they had spent 2 years in Moscow."
+          }
+        },
+        {
+          "text": "After I had worked out",
+          "answer": {
+            "text": "I had breakfast."
+          }
+        },
+        {
+          "text": "When my cousins arrived",
+          "answer": {
+            "text": "it had started to rain."
+          }
+        },
+        {
+          "text": "Charles went to bed",
+          "answer": {
+            "text": "when he finished his report."
+          }
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Write numbers 1 or 2 to Indicate which action happened first or second in each sentence",
+      "question": "A fully grown human or animal: __. A band wore around the waist to hold clothing to one's body: __. A defect __. A consequence from acts, combination of circumstances: __. Hard, not easy: __. To behave in an obnoxious manner: __. A substance consisting mainly of sodium: __. A bed covering: __. A member of one of the ancient peoples in Western Europe: __. A chemical element: __.",
+      "answers": [
+        { "correct": "adult", "type": "text" },
+        { "correct": "belt", "type": "text" },
+        { "correct": "fault", "type": "text" },
+        { "correct": "result", "type": "text" },
+        { "correct": "difficult", "type": "text" },
+        { "correct": "insult", "type": "text" },
+        { "correct": "salt", "type": "text" },
+        { "correct": "quilt", "type": "text" },
+        { "correct": "celt", "type": "text" },
+        { "correct": "cobalt", "type": "text" }
+      ]
+    },
+    {
+      "kind": "fillblanks",
+      "title": "Unscramble the words. Then, write them on the lines.",
+      "questions": [
+        { "content": "jknu", "answer": "junk" },
+        { "content": "hetiwg", "answer": "weight" },
+        { "content": "rsopecdse", "answer": "processed" },
+        { "content": "galsevteeb", "answer": "vegetables" },
+        { "content": "utrfi", "answer": "fruit" },
+        { "content": "lesma", "answer": "meals" },
+        { "content": "tunrnioit", "answer": "nutrition" },
+        { "content": "lesciaor", "answer": "calories" },
+        { "content": "usdtrtaea", "answer": "saturated" },
+        { "content": "edit", "answer": "diet" }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete the sentences with since or for.",
+      "question": "__  I was a student. __  a couple of days. __ a year. __ October. __ half an hour. __ ages. __ 2013. __ 3 o'clock. __ months. __ my parents got married.",
+      "answers": [
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["since", "for"],
+          "correct": 0,"type": "dropdown" }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete the sentences with words from the dropdown.",
+      "question": "The __ was __ playing with her __. To give __ to someone because you owe it is to __. We use __ to talk about something what is __ to happen. Tom is so __ that he never makes his bed in the mornings. An event to enjoy ourselves on the day we were born is a __ __",
+      "answers": [
+        { "options": ["baby", "lazy", "toy", "happily", "baby"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["baby", "lazy", "toy", "happily", "baby"],
+          "correct": 3,"type": "dropdown" },
+        { "options": ["baby", "lazy", "toy", "happily", "baby"],
+          "correct": 2,"type": "dropdown" },
+        { "options": ["pay", "electricity", "mommy", "money", "paying"],
+          "correct": 3,"type": "dropdown" },
+        { "options": ["pay", "electricity", "mommy", "money", "paying"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["lazy", "may", "ivy", "possibly", "money"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["lazy", "may", "ivy", "possibly", "money"],
+          "correct": 2,"type": "dropdown" },
+        { "options": ["happy", "toy", "lazy", "crazy", "easy"],
+          "correct": 2,"type": "dropdown" },
+        { "options": ["may", "party", "birthday", "possibly", "happy"],
+          "correct": 2,"type": "dropdown" },
+        { "options": ["may", "party", "birthday", "possibly", "happy"],  "correct": 1,"type": "dropdown" }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "Read the sentences and write if they are requesting (R) , permission (PE), expressing possibility (P) and expressing doubt (D).",
+      "questions": [
+        {
+          "content": "I may go to Panama but I am not sure",
+          "answer": "P"
+        },
+        {
+          "content": "Do you think we may see you soon?",
+          "answer": "P"
+        },
+        {
+          "content": "You may go home now.",
+          "answer": "PE"
+        },
+        {
+          "content": "May I have some more coffee, please?",
+          "answer": "R"
+        },
+        {
+          "content": "Karla my not arrive in time. She left work just 20 minutes ago.",
+          "answer": "DP"
+        },
+        {
+          "content": "You may eat whatever you want. You finished your treatment.",
+          "answer": "PE"
+        },
+        {
+          "content": "It may rain tonight. It's cloudy, look!",
+          "answer": "P"
+        },
+        {
+          "content": "May we show you what we did for homework?",
+          "answer": "PE"
+        },
+        {
+          "content": "Josh and I may take a few days off after we finish the project.",
+          "answer": "P"
+        },
+        {
+          "content": "My mom may not eat that much. Remember she's watching her portions.",
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Complete with MAY or MIGHT according to the information.",
+      "question": "My teacher said that I __ go to Summer school if my grades do not improve. It __ be lovely, but it is very expensive. Yes, you __ go when you finish your dinner. My boss didn't feel ok today. He __ not come tomorrow. I cannot remember who lent my dictionary to. I think Ivanna __ have it. No, you __ stay up that late. School starts at 8 am. __ I borrow your lap top for a couple of hours? It is an emergency. If George doesn't finish the presentation he __ not be ready for his exam tomorrow.",
+      "answers": [
+        { "correct": "might", "type": "text" },
+        { "correct": "may", "type": "text" },
+        { "correct": "may", "type": "text" },
+        { "correct": "might not", "type": "text" },
+        { "correct": "might", "type": "text" },
+        { "correct": "may not", "type": "text" },
+        { "correct": "may", "type": "text" },
+        { "correct": "might not", "type": "text" }
+      ]
+    },
+    {
+      "kind": "open",
+      "title": "These are some abbreviations used with text messaging. Write their meanings.",
+      "questions": [
+        {
+          "content": "BFF",
+          "answer": "Best Friends Forever"
+        },
+        {
+          "content": "XOXO",
+          "answer": "Hugs and Kisses"
+        },
+        {
+          "content": "IDK",
+          "answer": "I Don't Know"
+        },
+        {
+          "content": "CUS",
+          "answer": "See You Soon"
+        },
+        {
+          "content": "BRB",
+          "answer": "Be right Back"
+        },
+        {
+          "content": "CYT",
+          "answer": "See You Tomorrow"
+        }
+      ]
+    },
+    {
+      "kind": "dropdown",
+      "title": "Read the sentences. Select the right option to complete the phrases.",
+      "question": "If I had passed the English test, my parents __ me that special gift. We __ by if we __ the time. Really! If __ before, I could have helped you. If the plane __ time, we __ missed our connection. Would you __ me if you'd known the truth? ",
+      "answers": [
+        { "options": ["would have given", "would had given"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["would stop", "would have stopped"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["would have had", "have had"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["would known", "had known"],
+          "correct": 1,"type": "dropdown" },
+        { "options": ["had taken off", "would take off"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["wouldn't have", "would haven't"],
+          "correct": 0,"type": "dropdown" },
+        { "options": ["had told", "have told"],
+          "correct": 1,"type": "dropdown" }
+      ]
+    },
+    {
+      "kind": "fillblanks",
+      "title": "Read the words. Write the ed pronunciation of the verbs in past tense on the lines (id / d / t).",
+      "questions": [
+        {
+          "content": "We invited Mary to the movies.",
+          "answer": "id"
+        },
+        {
+          "content": "She accepted.",
+          "answer": "id"
+        },
+        {
+          "content": "We enjoyed the show.",
+          "answer": "d"
+        },
+        {
+          "content": "We decided to invite mom.",
+          "answer": "d"
+        },
+        {
+          "content": "The movie started late.",
+          "answer": "id"
+        },
+        {
+          "content": "We decided not to walk.",
+          "answer": "id"
+        },
+        {
+          "content": "She cooked.",
+          "answer": "t"
+        },
+        {
+          "content": "He washed the dishes.",
+          "answer": "t"
+        },
+        {
+          "content": "Nobody helped him.",
+          "answer": "t"
+        },
+        {
+          "content": "Tom never called Annie.",
+          "answer": "d"
+        },
+        {
+          "content": "We always wanted to come.",
+          "answer": "id"
+        },
+        {
+          "content": "We needed to be closed.",
+          "answer": "d"
+        }
+      ]
+    }
+  ]
+}
