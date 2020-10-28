@@ -4,9 +4,10 @@ import json
 import pandas as pd
 
 PATH = '/Users/cristina/src/Alice_proni/Excel_files/'
-file = 'EPgrade1WBFill.csv'
+file = 'EPgrade2WBFill.csv'
 input_csv_file_path = os.path.join(PATH, file)
 activities = []
+Nomenclatura = None
 
 
 #Fill the blanks
@@ -17,13 +18,16 @@ with open(input_csv_file_path) as csv_file:
     for csv_row in csv_reader:
         #print(csv_row)
         if csv_row["Instruccion"]:
+                Nomenclatura = "Module" + csv_row["Module"] + " Lesson" + csv_row["Lesson"] + " Page" + csv_row["Page"] + " Orden" + csv_row["Orden"]
                 activities.append({"title": csv_row["Instruccion"],
-                                    "questions": []
+                                   "Nomenclatura": Nomenclatura,
+                                   "questions": []
                 })
 
         else:
-            question = {"content": csv_row["Pregunta 1"],
-                        "answer": csv_row["Respuesta 1"]}
+            question = {"orden": csv_row["Orden"],
+                        "content": csv_row["Pregunta"],
+                        "answer": csv_row["Respuesta"]}
 
             activities[-1]["questions"].append(question)
 
@@ -34,6 +38,6 @@ root = {"kind": "fillblanks",
         "questions": activities
 }
 
-json_file_path = "EPgrade1WBFill.json"
+json_file_path = "EPgrade2WBFill.json"
 with open(json_file_path, "w") as json_file:
     json_file.write(json.dumps(root,indent=4))
