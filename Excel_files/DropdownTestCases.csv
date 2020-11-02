@@ -1,0 +1,12 @@
+Archivo JSON,Instruccion,Tipo,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion 5,Opcion Correcta
+,Choose that or those.,,,,,,,,
+,,text,What are ___ ?,that,those,this,there,these,those
+,Choose the correct word.,,,,,,,,
+,,text,___ is a zebra.,This,That,,,,This
+,,text,___ are lions.,These,Those,,,,These
+,,text,___ are zebras.,These ,Those,,,,Those
+,,text,___ is a zebra.,This,That,,,,That
+,,text,___ a gorilla,This,That,,,,That
+,,text,___ an elephant.,This,That's,,,,That's
+,Choose the right answer,,,,,,,,
+,,dropdown,Objects appear to have color because they __ some kinds of light and __ other kinds of light. We only see the light that is __ off the object's surface.,emit,absorb,reflect,refract,,0
