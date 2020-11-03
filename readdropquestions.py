@@ -1,48 +1,71 @@
 import os
 import csv
 import json
-import pandas as pd
 
-PATH = '/Users/cristina/src/Alice_proni/Excel_files/'
-file = 'DropdownTestCases.csv'
-input = os.path.join(PATH, file)
-activities = []
+
+#Return the path of the file
+def pathFile(Path, filename):
+    input = os.path.join(Path, filename)
+    return input
 
 
 
 
 #Dropdown
-with open(input) as csv_file:
-    csv_reader = csv.DictReader(csv_file)
+#Return an object with all the activities that will be convert to json
+def processDataframe(pathfile):
+    activities = []
+    with open(pathfile) as csv_file:
+        reader = csv.DictReader(csv_file)
+        for row in reader:
+            if row["Instruccion"]:
+                activities.append({"title": row["Instruccion"],
+                               "questions": []})
 
-    for csv_row in csv_reader:
-        #print(csv_row)
-        if csv_row["Instruccion"]:
-            #print(csv_row)
-            activities.append({"title": csv_row["Instruccion"],
-                               "questions": []
-            })
-
-        else:
-            if csv_row["Tipo"] == "text":
-                question = {"question": csv_row["Pregunta"],
-                            "options": [csv_row["Opcion 1"], csv_row["Opcion 2"], csv_row["Opcion 3"], csv_row["Opcion 4"], csv_row["Opcion 5"]],
-                            "correct": csv_row["Opcion Correcta"],
-                            "type": csv_row["Tipo"]}
             else:
-                question = {"question": csv_row["Pregunta"],
-                            "options": [csv_row["Opcion 1"], csv_row["Opcion 2"], csv_row["Opcion 3"], csv_row["Opcion 4"], csv_row["Opcion 5"]],
-                            "correct": int(csv_row["Opcion Correcta"]),
-                            "type": csv_row["Tipo"]}
+                #The list of options goes in evry case
+                options = [row["Opcion 1"], row["Opcion 2"], row["Opcion 3"], row["Opcion 4"], row["Opcion 5"]]
 
-            activities[-1]["questions"].append(question)
+                #if the question is typo dropdown the correct answer will be always a index interger
+                if row["Tipo"] == "dropdown":
+                    try:
+                        correct = int(row["Opcion Correcta"])
 
-#Write the data in a json files
-root = {"kind": "dropdown",
-        "title": file,
-        "questions": activities
-}
+                    except ValueError:
+                        correct = options.index(row["Opcion Correcta"])
+                        
+                #if the question is text the correct answer will be a string
+                else:
+                    correct = row["Opcion Correcta"]
 
-json_file_path = "DropdownTestCases.json"
-with open(json_file_path, "w") as json_file:
-    json_file.write(json.dumps(root,indent=4))
+
+                question = {"question": row["Pregunta"],
+                            "options": options,
+                            "correct": correct,
+                            "type": row["Tipo"]}
+
+
+                activities[-1]["questions"].append(question)
+
+        root = {"kind": "Dropdown",
+                "questions": activities}
+
+        return root
+
+#Return a Json object, the parameter is an object
+def writeToJson(root, filename):
+    with open(filename, "w", encoding='utf8') as json_file:
+        json_file.write(json.dumps(root,indent=4, ensure_ascii=False))
+
+    return json_file
+
+
+#Main
+if __name__ == '__main__':
+
+    path = "/Users/cristina/src/Alice_proni/Excel_files/"
+    filename = "DropdowntodosTestCases.csv"
+    filenameJson = "DropdowntodosTestCases.json"
+    pathfile = pathFile(path, filename)
+    root = processDataframe(pathfile)
+    writeToJson(root, filenameJson)
