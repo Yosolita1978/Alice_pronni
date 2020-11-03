@@ -1,0 +1,112 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "SBP6M1L3b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the questions",
+            "questions": [
+                {
+                    "question": "program / What / watch / they / did / ? ",
+                    "answer": "What program did they watch?"
+                },
+                {
+                    "question": "the / enjoyed / Who / program / ?",
+                    "answer": "Who enjoyed the program?"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP6M2L6c.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences about the party.",
+            "questions": [
+                {
+                    "question": "/ need / We'll / . / paper cups /",
+                    "answer": "We'll need paper cups."
+                },
+                {
+                    "question": "/ some / make / lemonade / . / They'll /",
+                    "answer": "They'll make some lemonade"
+                },
+                {
+                    "question": "/ favorite music / . / I'll / my / bring /",
+                    "answer": "I'll bring my favorite music."
+                },
+                {
+                    "question": "/ I'll / some / take / . / photos, too / ",
+                    "answer": "I'll take some photos, too."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP6M2L9a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences adding will to make questions about the future.",
+            "questions": [
+                {
+                    "question": "we / have / the technology to stop asteroid?",
+                    "answer": "Will we have the technology to stop asteroid?"
+                },
+                {
+                    "question": "scientists / find / dinosaur DNA in their bones?",
+                    "answer": "Will scientists find dinosaur DNA in their bones?"
+                },
+                {
+                    "question": "When / you / finish / your dinosaur project?",
+                    "answer": "When will you finish your "
+                },
+                {
+                    "question": "your project / have / a lot of pictures?",
+                    "answer": "Will your project have a lot of pictures?"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP6M4L17b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the questions",
+            "questions": [
+                {
+                    "question": "happens / What / you / if / in the sun a lot / are / ?",
+                    "answer": "What happens if you are in the sun a lot?"
+                },
+                {
+                    "question": "get a rash / he / Does / eats / if / he / seafood?",
+                    "answer": "Does he get a rash if he eats seafood?"
+                },
+                {
+                    "question": "when / happens / What / arrive / you / late at school?",
+                    "answer": "What happens when you arrive late at school?"
+                },
+                {
+                    "question": "study / you / Do / if / have / you / next day / a quiz?",
+                    "answer": "Do you study if you have a quiz next day? "
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP6M4L18b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the main clauses",
+            "questions": [
+                {
+                    "question": "When you play with a dog, / ears or tail / its / pull / don't",
+                    "answer": "When you play with a dog, don't pull its ears or tail."
+                },
+                {
+                    "question": "When you meet a strange cat / try to / you / shouldn't / it / touch",
+                    "answer": "When you meet a strange cat, you shouldn't try to touch it. "
+                },
+                {
+                    "question": "When you pick up a rabbit, / lift / don't / by it's ears / it",
+                    "answer": "When you pick up a rabbit, don't lift it by it's ears."
+                },
+                {
+                    "question": "if a cat is with her kittens / get / you / mustn't / too close",
+                    "answer": "If a cat is with her kittens, you mustn't get too close."
+                }
+            ]
+        }
+    ]
+}

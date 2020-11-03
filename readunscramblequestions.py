@@ -1,42 +1,54 @@
 import os
 import csv
 import json
-import pandas as pd
 
-PATH = '/Users/cristina/src/Alice_proni/Excel_files/'
-file = 'EPgrade1WBUnscramble.csv'
-input_csv_file_path = os.path.join(PATH, file)
-activities = []
-Nomenclatura = None
+
+#Return the path of the file
+def pathFile(Path, filename):
+    input = os.path.join(Path, filename)
+    return input
 
 
 #Unscramble
-with open(input_csv_file_path) as csv_file:
-    csv_reader = csv.DictReader(csv_file)
+#Return an object with all the activities that will be convert to json
+def processDataframe(pathfile):
+    activities = []
+    with open(pathfile, encoding="utf8") as csv_file:
+        reader = csv.DictReader(csv_file)
+
+        for row in reader:
+
+            if row["Instruccion"]:
+                activities.append({"Nomenclatura": row["Archivo JSON"],
+                                   "kind": "Unscramble",
+                                   "Instruccion": row["Instruccion"],
+                                   "questions": []})
+
+            else:
+                question = {"question": row["opciones"],
+                            "answer": row["respuestas"]}
+
+                activities[-1]["questions"].append(question)
+
+    root = {"kind": "Unscramble",
+            "questions": activities}
+
+    return root
+
+#Return a Json object, the parameter is an object
+def writeToJson(root, filename):
+    with open(filename, "w", encoding='utf8') as json_file:
+        json_file.write(json.dumps(root,indent=4, ensure_ascii=False))
+
+    return json_file
 
 
-    for csv_row in csv_reader:
-        #print(csv_row)
-        if csv_row["Intruccion"]:
-            #print(type(csv_row["Module"]))
-            Nomenclatura = "Module" + csv_row["Module"] + " Lesson" + csv_row["Lesson"] + " Page" + csv_row["Page"] + " Orden" + csv_row["Orden"]
-            activities.append({"title": csv_row["Intruccion"],
-                               "Nomenclatura": Nomenclatura,
-                               "questions": []
-            })
+#Main
+if __name__ == '__main__':
 
-        else:
-            question = {"content": csv_row["Pregunta "],
-                        "answer": csv_row["Respuesta"]}
-            activities[-1]["questions"].append(question)
-
-
-#Write the data in a json files
-root = {"kind": "Unscramble",
-        "title": file,
-        "questions": activities
-}
-
-json_file_path = "EPgrade1WBUnscramble.json"
-with open(json_file_path, "w") as json_file:
-    json_file.write(json.dumps(root,indent=2))
+    path = "/Users/cristina/src/Alice_proni/Excel_files/"
+    filename = "UnscrambleTodosS1.csv"
+    filenameJson = "UnscrambleTodosS1.json"
+    pathfile = pathFile(path, filename)
+    root = processDataframe(pathfile)
+    writeToJson(root, filenameJson)

@@ -1,0 +1,32 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "SBP4M2L8a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble these quiz questions.",
+            "questions": [
+                {
+                    "question": "did / Where / the Maya / live / ?",
+                    "answer": "Where did the Maya live?"
+                },
+                {
+                    "question": "they / did / What / wear / ? ",
+                    "answer": "What did they wear?"
+                },
+                {
+                    "question": "language / What / speak / they / did / ?",
+                    "answer": "What language did they speak?"
+                },
+                {
+                    "question": "adults / become / did / When / Maya children / ?",
+                    "answer": "When did Maya children become adults?"
+                },
+                {
+                    "question": "they / did / What / eat /?",
+                    "answer": "What did they eat?"
+                }
+            ]
+        }
+    ]
+}
