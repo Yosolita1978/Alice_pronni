@@ -2,7 +2,7 @@
     "kind": "dragndrop",
     "questions": [
         {
-            "Archivo JSON": "SBP1M1L1a.json",
+            "Nomenclatura": "SBP1M1L1a.json",
             "kind": "draganddrop",
             "Instruccion": "Read and Match",
             "questions": [
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "Archivo JSON": "SBP1M4L17a.json",
+            "Nomenclatura": "SBP1M4L17a.json",
             "kind": "draganddrop",
             "Instruccion": "Read and Match",
             "questions": [
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "Archivo JSON": "SBP1M5L23a.json",
+            "Nomenclatura": "SBP1M5L23a.json",
             "kind": "draganddrop",
             "Instruccion": "Drag the furniture to the correct room",
             "questions": [

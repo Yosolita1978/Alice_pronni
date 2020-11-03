@@ -1,0 +1,113 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "SBP2M1L3a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the instructions to the pictures",
+            "questions": [
+                {
+                    "question": "Peel the potatoes.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/peel.png"
+                },
+                {
+                    "question": "Cut the carrots.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/cut.png"
+                },
+                {
+                    "question": "Wash the tomatoes.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/wash.png"
+                },
+                {
+                    "question": "Put the tomatoes in the blender.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/in_blender.png"
+                },
+                {
+                    "question": "Add some water.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/pour_water.png"
+                },
+                {
+                    "question": "Turn on the blender.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/blender_on.png"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP2M4L16a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match",
+            "questions": [
+                {
+                    "question": "It's my book.",
+                    "answer": "It's mine"
+                },
+                {
+                    "question": "It's your book.",
+                    "answer": "It's yours."
+                },
+                {
+                    "question": "It's his book.",
+                    "answer": "It's his."
+                },
+                {
+                    "question": "It's her book.",
+                    "answer": "It's hers."
+                },
+                {
+                    "question": "It's our book.",
+                    "answer": "It's ours."
+                },
+                {
+                    "question": "It's their book.",
+                    "answer": "It's theirs. "
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP2M4L17a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match the sentence",
+            "questions": [
+                {
+                    "question": "Blow up",
+                    "answer": "a balloon"
+                },
+                {
+                    "question": "Come and get",
+                    "answer": "one plastic bottle."
+                },
+                {
+                    "question": "Be",
+                    "answer": "careful"
+                },
+                {
+                    "question": "Cut of",
+                    "answer": "the bottom of the bottle."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP2M5L24a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match",
+            "questions": [
+                {
+                    "question": "What do you do after school on Mondays?",
+                    "answer": "I watch television."
+                },
+                {
+                    "question": "When do you do your homework?",
+                    "answer": "On Sundays."
+                },
+                {
+                    "question": "Who do you have lunch with on wednesdays?",
+                    "answer": "My grandparents."
+                },
+                {
+                    "question": "Where do you do your homework? ",
+                    "answer": "at home, on my room"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBP1M1L5a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words with the colors of the rainbow",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/violet.png",
+                    "answer": "Violet"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/indigo.png",
+                    "answer": "Indigo"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/blue.png",
+                    "answer": "Blue"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/green.png",
+                    "answer": "Green"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/yellow.png",
+                    "answer": "Yellow"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/orange.png",
+                    "answer": "Orange"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/red.png",
+                    "answer": "Red"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP1M2L6a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match",
+            "questions": [
+                {
+                    "question": "a) They aren't hotcakes. They're eggs",
+                    "answer": "img eggs"
+                },
+                {
+                    "question": "b) They aren't eggs. They're hotcakes",
+                    "answer": "img hotcakes"
+                },
+                {
+                    "question": "c) it's cereal. It isn't juice",
+                    "answer": "img cereal"
+                },
+                {
+                    "question": "d) It's juice. It isn't oatmeal.",
+                    "answer": "img juice"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP1M2L9c.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words",
+            "questions": [
+                {
+                    "question": "get",
+                    "answer": "up "
+                },
+                {
+                    "question": "have",
+                    "answer": "breakfast"
+                },
+                {
+                    "question": "get",
+                    "answer": "dressed"
+                },
+                {
+                    "question": "do",
+                    "answer": "my homework"
+                },
+                {
+                    "question": "watch",
+                    "answer": "television"
+                },
+                {
+                    "question": "go",
+                    "answer": "to bed"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP1M3L13b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words to the pictures",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/turtle.png",
+                    "answer": "turtle"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/dog.png",
+                    "answer": "dog"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/goldfish.png",
+                    "answer": "gold fish"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/cat.png",
+                    "answer": "cat"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/rabbit.png",
+                    "answer": "rabbit"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/hamster.png",
+                    "answer": "hamster"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP1M3L14b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words to the pictures",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/desert.png",
+                    "answer": "desert"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/city.png",
+                    "answer": "city"
+                },
+                {
+                    "question": "img ocean",
+                    "answer": "ocean"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/jungle.png",
+                    "answer": "jungle"
+                },
+                {
+                    "question": "img plain",
+                    "answer": "plain"
+                }
+            ]
+        }
+    ]
+}

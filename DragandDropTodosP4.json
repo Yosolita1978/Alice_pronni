@@ -1,0 +1,44 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "SBP4M1L3a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match these verbs with their past tenses",
+            "questions": [
+                {
+                    "question": "have",
+                    "answer": "had"
+                },
+                {
+                    "question": "see",
+                    "answer": "saw"
+                },
+                {
+                    "question": "go",
+                    "answer": "went"
+                },
+                {
+                    "question": "hear",
+                    "answer": "heard"
+                },
+                {
+                    "question": "buy",
+                    "answer": "bought"
+                },
+                {
+                    "question": "take",
+                    "answer": "took"
+                },
+                {
+                    "question": "think",
+                    "answer": "thought"
+                },
+                {
+                    "question": "fall",
+                    "answer": "fell"
+                }
+            ]
+        }
+    ]
+}

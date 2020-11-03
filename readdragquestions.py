@@ -9,16 +9,16 @@ def pathFile(Path, filename):
     input = os.path.join(Path, filename)
     return input
 
-#Return an object that will be convert to json
+#Return an object with all the activities that will be convert to json
 def processDataframe(pathfile):
     activities = []
-    with open(pathfile) as csv_file:
+    with open(pathfile, encoding="utf8") as csv_file:
         reader = csv.DictReader(csv_file)
 
         for row in reader:
 
             if row["Instruccion"]:
-                activities.append({"Archivo JSON": row["Archivo JSON"],
+                activities.append({"Nomenclatura": row["Archivo JSON"],
                                    "kind": "draganddrop",
                                    "Instruccion": row["Instruccion"],
                                    "questions": []})
@@ -37,8 +37,8 @@ def processDataframe(pathfile):
 
 #Return a Json object, the parameter is an object
 def writeToJson(root, filename):
-    with open(filename, "w") as json_file:
-        json_file.write(json.dumps(root,indent=4))
+    with open(filename, "w", encoding='utf8') as json_file:
+        json_file.write(json.dumps(root,indent=4, ensure_ascii=False))
 
     return json_file
 
@@ -47,8 +47,8 @@ def writeToJson(root, filename):
 if __name__ == '__main__':
 
     path = "/Users/cristina/src/Alice_proni/Excel_files/"
-    filename = "DragandDropTodosP1.csv"
-    filenameJson = "DragandDropTodosP1.json"
+    filename = "DragandDropTodosWBP1.csv"
+    filenameJson = "DragandDropTodosWBP1.json"
     pathfile = pathFile(path, filename)
     root = processDataframe(pathfile)
     writeToJson(root, filenameJson)

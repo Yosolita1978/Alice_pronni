@@ -1,0 +1,25 @@
+Archivo JSON,Instruccion,opciones,respuestas
+SBP2M1L3a.json,Match the instructions to the pictures,,
+,,Peel the potatoes.,https://potenciamx.s3.amazonaws.com/images/peel.png
+,,Cut the carrots.,https://potenciamx.s3.amazonaws.com/images/cut.png
+,,Wash the tomatoes.,https://potenciamx.s3.amazonaws.com/images/wash.png
+,,Put the tomatoes in the blender.,https://potenciamx.s3.amazonaws.com/images/in_blender.png
+,,Add some water.,https://potenciamx.s3.amazonaws.com/images/pour_water.png
+,,Turn on the blender.,https://potenciamx.s3.amazonaws.com/images/blender_on.png
+SBP2M4L16a.json,Read and match,,
+,,It's my book.,It's mine
+,,It's your book.,It's yours.
+,,It's his book.,It's his.
+,,It's her book.,It's hers.
+,,It's our book.,It's ours.
+,,It's their book.,It's theirs. 
+SBP2M4L17a.json,Read and match the sentence,,
+,,Blow up,a balloon
+,,Come and get,one plastic bottle.
+,,Be,careful
+,,Cut of,the bottom of the bottle.
+SBP2M5L24a.json,Read and match,,
+,,What do you do after school on Mondays?,I watch television.
+,,When do you do your homework?,On Sundays.
+,,Who do you have lunch with on wednesdays?,My grandparents.
+,,Where do you do your homework? ,"at home, on my room"

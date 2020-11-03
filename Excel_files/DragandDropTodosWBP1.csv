@@ -1,0 +1,34 @@
+Archivo JSON,Instruccion,opciones,respuestas
+WBP1M1L5a.json,Match the words with the colors of the rainbow,,
+,,https://potenciamx.s3.amazonaws.com/images/violet.png,Violet
+,,https://potenciamx.s3.amazonaws.com/images/indigo.png,Indigo
+,,https://potenciamx.s3.amazonaws.com/images/blue.png,Blue
+,,https://potenciamx.s3.amazonaws.com/images/green.png,Green
+,,https://potenciamx.s3.amazonaws.com/images/yellow.png,Yellow
+,,https://potenciamx.s3.amazonaws.com/images/orange.png,Orange
+,,https://potenciamx.s3.amazonaws.com/images/red.png,Red
+WBP1M2L6a.json,Read and match,,
+,,a) They aren't hotcakes. They're eggs,img eggs
+,,b) They aren't eggs. They're hotcakes,img hotcakes
+,,c) it's cereal. It isn't juice,img cereal
+,,d) It's juice. It isn't oatmeal.,img juice
+WBP1M2L9c.json,Match the words,,
+,,get,up 
+,,have,breakfast
+,,get,dressed
+,,do,my homework
+,,watch,television
+,,go,to bed
+WBP1M3L13b.json,Match the words to the pictures,,
+,,https://potenciamx.s3.amazonaws.com/images/turtle.png,turtle
+,,https://potenciamx.s3.amazonaws.com/images/dog.png,dog
+,,https://potenciamx.s3.amazonaws.com/images/goldfish.png,gold fish
+,,https://potenciamx.s3.amazonaws.com/images/cat.png,cat
+,,https://potenciamx.s3.amazonaws.com/images/rabbit.png,rabbit
+,,https://potenciamx.s3.amazonaws.com/images/hamster.png,hamster
+WBP1M3L14b.json,Match the words to the pictures,,
+,,https://potenciamx.s3.amazonaws.com/images/desert.png,desert
+,,https://potenciamx.s3.amazonaws.com/images/city.png,city
+,,img ocean,ocean
+,,https://potenciamx.s3.amazonaws.com/images/jungle.png,jungle
+,,img plain,plain

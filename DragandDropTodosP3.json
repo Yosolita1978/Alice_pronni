@@ -1,0 +1,90 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "SBP3M1L4a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the two part verb to the pictures",
+            "questions": [
+                {
+                    "question": "Come in!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/door_open.png"
+                },
+                {
+                    "question": "Hurry up!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/girl_clock.png"
+                },
+                {
+                    "question": "Sit down!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/chair.png"
+                },
+                {
+                    "question": "Listen to!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/ear_hand.png"
+                },
+                {
+                    "question": "Look at!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/eye_glasses.png"
+                },
+                {
+                    "question": "Go out to!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/door_open_go.png"
+                },
+                {
+                    "question": "Look for!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/girl_look_under_bed.png"
+                },
+                {
+                    "question": "Come back!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/return_sign.png"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP3M2L6b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the questions and answers",
+            "questions": [
+                {
+                    "question": "How many brothers and sisters do you have?",
+                    "answer": "Two"
+                },
+                {
+                    "question": "Where do you live?",
+                    "answer": "In Monterrey."
+                },
+                {
+                    "question": "What's the weather like today? ",
+                    "answer": "It's wet"
+                },
+                {
+                    "question": "What grade are you in?",
+                    "answer": "Third grade"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP3M4L17a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the questions and answers",
+            "questions": [
+                {
+                    "question": "Does he have a fever? ",
+                    "answer": "No, he doesn't."
+                },
+                {
+                    "question": "What's the problem? ",
+                    "answer": "He doesn't feel well."
+                },
+                {
+                    "question": "How often?",
+                    "answer": "Twice a day."
+                },
+                {
+                    "question": "Can I go to school? ",
+                    "answer": "No, you can't."
+                }
+            ]
+        }
+    ]
+}

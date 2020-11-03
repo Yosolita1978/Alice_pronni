@@ -9,7 +9,7 @@ def pathFile(Path, filename):
     input = os.path.join(Path, filename)
     return input
 
-#Return an object that will be convert to json
+#Return an object (a list of activities) that will be convert to json
 def processDataframe(pathfile):
     activities = []
     with open(pathfile) as csv_file:
@@ -32,7 +32,7 @@ def processDataframe(pathfile):
     return activities
 
 
-#Return a Json object, the parameter is an object
+#Return a Json object, the parameter is a list of activities
 def writeToJson(activities):
 
     for activity in activities:

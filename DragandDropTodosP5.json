@@ -1,0 +1,85 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "SBP5M1L4a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Connect the two parts of the sentences ",
+            "questions": [
+                {
+                    "question": "She went to the mall",
+                    "answer": "because she wanted a dvd"
+                },
+                {
+                    "question": "She got good grades",
+                    "answer": "because she worked hard."
+                },
+                {
+                    "question": "She couldn't go to school yesterday",
+                    "answer": "because she was sick"
+                },
+                {
+                    "question": "She loves visiting her grandparents",
+                    "answer": "because they have a large yard"
+                },
+                {
+                    "question": "She ate three sandwiches",
+                    "answer": "because she was very hungry"
+                },
+                {
+                    "question": "",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP5M1L4a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match",
+            "questions": [
+                {
+                    "question": "He has a sore throat.",
+                    "answer": "He should drink lemon juice and honey."
+                },
+                {
+                    "question": "He has a broken arm.",
+                    "answer": "His mom should take him to the hospital."
+                },
+                {
+                    "question": "He has a stomachache.",
+                    "answer": "He shouldn't eat so much chocolate."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP5M4L19a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match",
+            "questions": [
+                {
+                    "question": "We use the past simple to talk about",
+                    "answer": "experiences at some time in our lives up to now."
+                },
+                {
+                    "question": "We use the present perfect to talk about",
+                    "answer": "finished actions that happened in the past. "
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBP5M5L24a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the questions and answers",
+            "questions": [
+                {
+                    "question": "And what was Pele doing?",
+                    "answer": "He was barking at the bottom of the tree."
+                },
+                {
+                    "question": "What did you do? ",
+                    "answer": "I put his leash on and tied him to another tree."
+                }
+            ]
+        }
+    ]
+}

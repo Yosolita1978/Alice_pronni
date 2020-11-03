@@ -1,0 +1,24 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "SBS3M2L8b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the examples with the use of Present perfect they represent",
+            "questions": [
+                {
+                    "question": "Ed has taught the same courses for 3 years.",
+                    "answer": "Actions or situations that began in the past but continue in the present"
+                },
+                {
+                    "question": "My parents have bought a beautiful house on the beach",
+                    "answer": "Recent event which have a result in the present"
+                },
+                {
+                    "question": "I've travelled in South America",
+                    "answer": "An experience in someone's lifetime, without saying the exact time when the event occurred"
+                }
+            ]
+        }
+    ]
+}

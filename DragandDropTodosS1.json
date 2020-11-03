@@ -1,0 +1,268 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "SBS1M1L1a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the symbols to the words",
+            "questions": [
+                {
+                    "question": "U",
+                    "answer": "XOXOXO"
+                },
+                {
+                    "question": "lol",
+                    "answer": "Cu"
+                },
+                {
+                    "question": "@Ed's",
+                    "answer": "lol"
+                },
+                {
+                    "question": "<3",
+                    "answer": "@Ed's"
+                },
+                {
+                    "question": "XOXOXO",
+                    "answer": "2"
+                },
+                {
+                    "question": "Cu",
+                    "answer": "<3"
+                },
+                {
+                    "question": "2",
+                    "answer": "U"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M2L9a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read the following sentences and match them to their meanings.",
+            "questions": [
+                {
+                    "question": "Johnny can play the guitar really well, but he can't dance!",
+                    "answer": "Ability"
+                },
+                {
+                    "question": "Miss Sánchez, can I go to the main office, please? ",
+                    "answer": "Permission"
+                },
+                {
+                    "question": "My art teacher is a real artist. He can paint anything.",
+                    "answer": "Ability"
+                },
+                {
+                    "question": "You can't travel to Europe by train, it's impossible.",
+                    "answer": "Possibility or impossibility"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M3L11a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the pictures with the words and the instructions.",
+            "questions": [
+                {
+                    "question": "Lie with your face towards the floor and push with your hands to raise your body until your arms are straight.",
+                    "answer": "push ups"
+                },
+                {
+                    "question": "Grip the bar and slowly pull yourself until your chin clears the bar",
+                    "answer": "pull ups"
+                },
+                {
+                    "question": "Get into push-ups position. Then bend your elbows 90 degrees and rest your weight on your forearms",
+                    "answer": "planks"
+                },
+                {
+                    "question": "Start with your feet shoulder-width apart. Step forward with one leg. Lower your hips and bend your knees at 90-degree angles. Slowly stand up and repeat with your other leg. ",
+                    "answer": "lunges"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M3L11c.json",
+            "kind": "draganddrop",
+            "Instruccion": "Let's review some prepositions of place. Label the pictures.",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/above.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_above.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/between.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_between.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/in_front_of.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_in_front_of.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/in_inside.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_in.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/under.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_under.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/on.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_on.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/out_of_close_to.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_out.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/behind.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bird_behind.png"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M4L17b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the questions with the correct answer",
+            "questions": [
+                {
+                    "question": "Where was Jane last week?",
+                    "answer": "She was in Colorado."
+                },
+                {
+                    "question": "How does Jane describe Boulder? ",
+                    "answer": "It's a beautiful town near the Rockies, with a great University."
+                },
+                {
+                    "question": "Who has been to New York?",
+                    "answer": "Iñaki has."
+                },
+                {
+                    "question": "Where has Bill gone as an exchange student?",
+                    "answer": "To San Francisco High School."
+                },
+                {
+                    "question": "How does Bill describe San Francisco? ",
+                    "answer": "It's a great city, full of beautiful things."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M5L21b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the clauses to form sentences",
+            "questions": [
+                {
+                    "question": "If you heat ice cubes,",
+                    "answer": "they melt."
+                },
+                {
+                    "question": "If you touch the oven when it's on,",
+                    "answer": "you burn your hand."
+                },
+                {
+                    "question": "When she looks at you, ",
+                    "answer": "you get all goofy."
+                },
+                {
+                    "question": "We all stand up",
+                    "answer": "when the teacher walks in."
+                },
+                {
+                    "question": "If the fire drill goes off,",
+                    "answer": "we walk out to the patio quickly."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M5L22b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the causes to the possible effects to make sentences.",
+            "questions": [
+                {
+                    "question": "When you see big dark clouds in the sky,",
+                    "answer": "it's probably going to rain soon."
+                },
+                {
+                    "question": "When the teacher says, \"take out a piece of paper\",",
+                    "answer": "there's going to be a test."
+                },
+                {
+                    "question": "When my Dad says he wants to talk,",
+                    "answer": "I know that I'm in trouble."
+                },
+                {
+                    "question": "When Beth looks at me up and down,",
+                    "answer": "I know she's jealous of my clothes."
+                },
+                {
+                    "question": "If you feel jealous of your friend, ",
+                    "answer": "open up and tell her nicely."
+                },
+                {
+                    "question": "If you want my help,",
+                    "answer": "sit down, keep quiet and listen. "
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M5L24a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the British words to the American words.",
+            "questions": [
+                {
+                    "question": "pudding",
+                    "answer": "dessert"
+                },
+                {
+                    "question": "flat",
+                    "answer": "apartment"
+                },
+                {
+                    "question": "post",
+                    "answer": "mail"
+                },
+                {
+                    "question": "torch",
+                    "answer": "flashlight"
+                },
+                {
+                    "question": "car park",
+                    "answer": "parking lot"
+                },
+                {
+                    "question": "postman",
+                    "answer": "mailman"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "SBS1M5L25b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the clauses to complete the sentences.",
+            "questions": [
+                {
+                    "question": "If I'm stuck in my homework,",
+                    "answer": "a true friend will help me finish it."
+                },
+                {
+                    "question": "If you're being bullied,",
+                    "answer": "talk to someone about your feelings."
+                },
+                {
+                    "question": "When true friends surround you,",
+                    "answer": "life seems better and more colorful."
+                },
+                {
+                    "question": "Don't ask me to lie for you,",
+                    "answer": "if you are a really good friend."
+                },
+                {
+                    "question": "If you are my good friend,",
+                    "answer": "you won't make me feel less."
+                }
+            ]
+        }
+    ]
+}

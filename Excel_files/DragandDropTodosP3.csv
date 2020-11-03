@@ -1,0 +1,20 @@
+Archivo JSON,Instruccion,opciones,respuestas
+SBP3M1L4a.json,Match the two part verb to the pictures,,
+,,Come in!,https://potenciamx.s3.amazonaws.com/images/door_open.png
+,,Hurry up!,https://potenciamx.s3.amazonaws.com/images/girl_clock.png
+,,Sit down!,https://potenciamx.s3.amazonaws.com/images/chair.png
+,,Listen to!,https://potenciamx.s3.amazonaws.com/images/ear_hand.png
+,,Look at!,https://potenciamx.s3.amazonaws.com/images/eye_glasses.png
+,,Go out to!,https://potenciamx.s3.amazonaws.com/images/door_open_go.png
+,,Look for!,https://potenciamx.s3.amazonaws.com/images/girl_look_under_bed.png
+,,Come back!,https://potenciamx.s3.amazonaws.com/images/return_sign.png
+SBP3M2L6b.json,Match the questions and answers,,
+,,How many brothers and sisters do you have?,Two
+,,Where do you live?,In Monterrey.
+,,What's the weather like today? ,It's wet
+,,What grade are you in?,Third grade
+SBP3M4L17a.json,Match the questions and answers,,
+,,Does he have a fever? ,"No, he doesn't."
+,,What's the problem? ,He doesn't feel well.
+,,How often?,Twice a day.
+,,Can I go to school? ,"No, you can't."
