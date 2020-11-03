@@ -1,0 +1,66 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Archivo JSON": "SBP1M1L1a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and Match",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/P1/izq1",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/der1"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/P1/izq2",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/der2"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/P1/izq3",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/der3"
+                }
+            ]
+        },
+        {
+            "Archivo JSON": "SBP1M4L17a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and Match",
+            "questions": [
+                {
+                    "question": "What do ambulance drivers do?",
+                    "answer": "They drive ambulances."
+                },
+                {
+                    "question": "What do surgeons do?",
+                    "answer": "They operate on people."
+                },
+                {
+                    "question": "What do receptionists do? ",
+                    "answer": "They answer the phone. "
+                }
+            ]
+        },
+        {
+            "Archivo JSON": "SBP1M5L23a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Drag the furniture to the correct room",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/bedroom.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/side_table.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/living_room.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/chairs.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/kitchen.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/table.png"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/bathroom.png",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bath_tub.png"
+                }
+            ]
+        }
+    ]
+}

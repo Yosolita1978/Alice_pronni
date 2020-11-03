@@ -1,0 +1,18 @@
+{
+    "Archivo JSON": "SBP1M4L17a.json",
+    "Instruccion": "Read and Match",
+    "questions": [
+        {
+            "question": "What do ambulance drivers do?",
+            "answer": "They drive ambulances."
+        },
+        {
+            "question": "What do surgeons do?",
+            "answer": "They operate on people."
+        },
+        {
+            "question": "What do receptionists do? ",
+            "answer": "They answer the phone. "
+        }
+    ]
+}

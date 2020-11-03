@@ -1,0 +1,14 @@
+Archivo JSON,Instruccion,opciones,respuestas
+SBP1M1L1a.json,Read and Match,,
+,,https://potenciamx.s3.amazonaws.com/P1/izq1,https://potenciamx.s3.amazonaws.com/P1/der1
+,,https://potenciamx.s3.amazonaws.com/P1/izq2,https://potenciamx.s3.amazonaws.com/P1/der2
+,,https://potenciamx.s3.amazonaws.com/P1/izq3,https://potenciamx.s3.amazonaws.com/P1/der3
+SBP1M4L17a.json,Read and Match,,
+,,What do ambulance drivers do?,They drive ambulances.
+,,What do surgeons do?,They operate on people.
+,,What do receptionists do? ,They answer the phone. 
+SBP1M5L23a.json,Drag the furniture to the correct room,,
+,,https://potenciamx.s3.amazonaws.com/images/bedroom.png,https://potenciamx.s3.amazonaws.com/images/side_table.png
+,,https://potenciamx.s3.amazonaws.com/images/living_room.png,https://potenciamx.s3.amazonaws.com/images/chairs.png
+,,https://potenciamx.s3.amazonaws.com/images/kitchen.png,https://potenciamx.s3.amazonaws.com/images/table.png
+,,https://potenciamx.s3.amazonaws.com/images/bathroom.png,https://potenciamx.s3.amazonaws.com/images/bath_tub.png

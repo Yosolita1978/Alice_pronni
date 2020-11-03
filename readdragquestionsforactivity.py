@@ -19,7 +19,7 @@ def processDataframe(pathfile):
 
             if row["Instruccion"]:
                 activities.append({"Archivo JSON": row["Archivo JSON"],
-                                   "kind": "draganddrop",
+                                   "kind": "draganddrop"
                                    "Instruccion": row["Instruccion"],
                                    "questions": []})
 
@@ -29,16 +29,17 @@ def processDataframe(pathfile):
 
                 activities[-1]["questions"].append(question)
 
-    root = {"kind": "dragndrop",
-            "questions": activities}
-
-    return root
+    return activities
 
 
 #Return a Json object, the parameter is an object
-def writeToJson(root, filename):
-    with open(filename, "w") as json_file:
-        json_file.write(json.dumps(root,indent=4))
+def writeToJson(activities):
+
+    for activity in activities:
+        filenameJson = activity["Archivo JSON"]
+
+        with open(filenameJson, "w") as json_file:
+            json_file.write(json.dumps(activity,indent=4))
 
     return json_file
 
@@ -50,5 +51,5 @@ if __name__ == '__main__':
     filename = "DragandDropTodosP1.csv"
     filenameJson = "DragandDropTodosP1.json"
     pathfile = pathFile(path, filename)
-    root = processDataframe(pathfile)
-    writeToJson(root, filenameJson)
+    activities = processDataframe(pathfile)
+    writeToJson(activities)

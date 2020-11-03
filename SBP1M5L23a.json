@@ -1,0 +1,22 @@
+{
+    "Archivo JSON": "SBP1M5L23a.json",
+    "Instruccion": "Drag the furniture to the correct room",
+    "questions": [
+        {
+            "question": "https://potenciamx.s3.amazonaws.com/images/bedroom.png",
+            "answer": "https://potenciamx.s3.amazonaws.com/images/side_table.png"
+        },
+        {
+            "question": "https://potenciamx.s3.amazonaws.com/images/living_room.png",
+            "answer": "https://potenciamx.s3.amazonaws.com/images/chairs.png"
+        },
+        {
+            "question": "https://potenciamx.s3.amazonaws.com/images/kitchen.png",
+            "answer": "https://potenciamx.s3.amazonaws.com/images/table.png"
+        },
+        {
+            "question": "https://potenciamx.s3.amazonaws.com/images/bathroom.png",
+            "answer": "https://potenciamx.s3.amazonaws.com/images/bath_tub.png"
+        }
+    ]
+}
