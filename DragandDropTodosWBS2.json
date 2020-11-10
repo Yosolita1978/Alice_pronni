@@ -1,0 +1,67 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBS2M2L8a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the beginnings and endings of these adjectives. ",
+            "questions": [
+                {
+                    "question": "Embarr",
+                    "answer": "ased"
+                },
+                {
+                    "question": "disapp",
+                    "answer": "ointed"
+                },
+                {
+                    "question": "ner",
+                    "answer": "vous"
+                },
+                {
+                    "question": "fur",
+                    "answer": "ious"
+                },
+                {
+                    "question": "conf",
+                    "answer": "used"
+                },
+                {
+                    "question": "Exci",
+                    "answer": "ted"
+                },
+                {
+                    "question": "Up",
+                    "answer": "set"
+                },
+                {
+                    "question": "Jea",
+                    "answer": "lous"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS2M2L8b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the titles from the box to the correct paragraph.",
+            "questions": [
+                {
+                    "question": "Dear Marie, There's a boy at our school who my friend and I have always liked. The problem is that last week he asked me out, and of course I say yes. I'm really excited about it, but my friend is really annoyed. I think she's jealous. Now she wants nothing to do with me anymore. What can I do to convince her that she's still important to me? Joanna.",
+                    "answer": "Love triangle"
+                },
+                {
+                    "question": "Dear Marie, The other day, I got my exam results and I was overjoyed to find out that I passed with flying colours. But when I rang my friend to arrange a night out to celebrate, I found out that she had done really badly. She's really upset and doesn't want to go out. It's really awkward because I did really so well, and I'm disappointed that we can't go out and paint the town red. What should I do to make her feel better? Kol.",
+                    "answer": "Good marks, bad situation."
+                },
+                {
+                    "question": "Dear Marie, Last week this girl invited me to the cinema. I was really delighted because I really liked her. We went out and had a really good time. But yesterday, I saw her hanging out with her friends and I tould her what a good time I had. She made fun of me and said she didn't know what I was talking about. I felt really embarrassed, and now I'm really confused because I don't know if she likes me or not. What should I do? Kendrick. ",
+                    "answer": "Does she like me?"
+                },
+                {
+                    "question": "Dear Marie, we have to do presentations for a test next week, and I'm really worried about it. The thing is, I get really nervous when I'm talking in front of people and I know I'm going to make a mess of it. The problem is, I'm usually a pretty good student at school and my dad is going to be furious if I get bad marks. What should I do?",
+                    "answer": "Test nerves"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBP6M1L2a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words to the pictures",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/gecko.jpg",
+                    "answer": "gecko"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/ferret.jpg",
+                    "answer": "ferret"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/snake.jpg",
+                    "answer": "snake"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/iguana.jpg",
+                    "answer": "iguana"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/spider.jpg",
+                    "answer": "spider"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP6M1L4a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the supplies to the pictures",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/notebook.png",
+                    "answer": "notebook"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/pencil.png",
+                    "answer": "pencil"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/Sharpener.png",
+                    "answer": "sharpener"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/pencil+case.png",
+                    "answer": "pencil case"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/scissors.png",
+                    "answer": "scissors"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/ruler.png",
+                    "answer": "ruler"
+                }
+            ]
+        }
+    ]
+}

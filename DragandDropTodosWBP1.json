@@ -43,19 +43,19 @@
             "questions": [
                 {
                     "question": "a) They aren't hotcakes. They're eggs",
-                    "answer": "img eggs"
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/eggs.png"
                 },
                 {
                     "question": "b) They aren't eggs. They're hotcakes",
-                    "answer": "img hotcakes"
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Hot_cakes.png"
                 },
                 {
                     "question": "c) it's cereal. It isn't juice",
-                    "answer": "img cereal"
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/cereal.png"
                 },
                 {
                     "question": "d) It's juice. It isn't oatmeal.",
-                    "answer": "img juice"
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/juice.png"
                 }
             ]
         },
@@ -135,7 +135,7 @@
                     "answer": "city"
                 },
                 {
-                    "question": "img ocean",
+                    "question": "https://potenciamx.s3.amazonaws.com/images/ocean.png",
                     "answer": "ocean"
                 },
                 {
@@ -143,7 +143,7 @@
                     "answer": "jungle"
                 },
                 {
-                    "question": "img plain",
+                    "question": "https://potenciamx.s3.amazonaws.com/images/plain.png",
                     "answer": "plain"
                 }
             ]

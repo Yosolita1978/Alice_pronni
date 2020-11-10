@@ -8,10 +8,10 @@ WBP1M1L5a.json,Match the words with the colors of the rainbow,,
 ,,https://potenciamx.s3.amazonaws.com/images/orange.png,Orange
 ,,https://potenciamx.s3.amazonaws.com/images/red.png,Red
 WBP1M2L6a.json,Read and match,,
-,,a) They aren't hotcakes. They're eggs,img eggs
-,,b) They aren't eggs. They're hotcakes,img hotcakes
-,,c) it's cereal. It isn't juice,img cereal
-,,d) It's juice. It isn't oatmeal.,img juice
+,,a) They aren't hotcakes. They're eggs,https://potenciamx.s3.amazonaws.com/images/eggs.png
+,,b) They aren't eggs. They're hotcakes,https://potenciamx.s3.amazonaws.com/images/Hot_cakes.png
+,,c) it's cereal. It isn't juice,https://potenciamx.s3.amazonaws.com/images/cereal.png
+,,d) It's juice. It isn't oatmeal.,https://potenciamx.s3.amazonaws.com/images/juice.png
 WBP1M2L9c.json,Match the words,,
 ,,get,up 
 ,,have,breakfast
@@ -29,6 +29,6 @@ WBP1M3L13b.json,Match the words to the pictures,,
 WBP1M3L14b.json,Match the words to the pictures,,
 ,,https://potenciamx.s3.amazonaws.com/images/desert.png,desert
 ,,https://potenciamx.s3.amazonaws.com/images/city.png,city
-,,img ocean,ocean
+,,https://potenciamx.s3.amazonaws.com/images/ocean.png,ocean
 ,,https://potenciamx.s3.amazonaws.com/images/jungle.png,jungle
-,,img plain,plain
+,,https://potenciamx.s3.amazonaws.com/images/plain.png,plain

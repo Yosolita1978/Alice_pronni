@@ -1,0 +1,83 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBP4M3L13a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words with the pictures.",
+            "questions": [
+                {
+                    "question": "bus",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bus.jpg"
+                },
+                {
+                    "question": "train",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/train.jpg"
+                },
+                {
+                    "question": "car",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/car.jpg"
+                },
+                {
+                    "question": "helicopter",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/helicopter.jpg"
+                },
+                {
+                    "question": "tram",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/tram.jpg"
+                },
+                {
+                    "question": "skateboard ",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/skateboard.jpg"
+                },
+                {
+                    "question": "airplane",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/airplane.jpg"
+                },
+                {
+                    "question": "ship",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/ship.jpeg"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP4M4L18a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read and match",
+            "questions": [
+                {
+                    "question": "Cafeteria",
+                    "answer": "e) a place where you can buy a coffe or a soda or have a snack"
+                },
+                {
+                    "question": "mall",
+                    "answer": "g) a place with a lot of stores to shop in"
+                },
+                {
+                    "question": "department store",
+                    "answer": "a) a big store where people buy clothes and things for the house"
+                },
+                {
+                    "question": "Gym",
+                    "answer": "f) a place where you can do exercise"
+                },
+                {
+                    "question": "Book store",
+                    "answer": "d) a store where you can buy books"
+                },
+                {
+                    "question": "Fire station",
+                    "answer": "b) where firefighters wait to be called to fight fires."
+                },
+                {
+                    "question": "Post office",
+                    "answer": "h) where you can mail letters and parcels and buy stamps."
+                },
+                {
+                    "question": "Library",
+                    "answer": "c) where you can borrow books or look at reference books"
+                }
+            ]
+        }
+    ]
+}

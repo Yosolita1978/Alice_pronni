@@ -1,0 +1,106 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBP3M1L5a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the pictures with the sentences.",
+            "questions": [
+                {
+                    "question": "Recycling 1 soda can saves the energy to power a television for 3 hours.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Latatirada.jpg"
+                },
+                {
+                    "question": "Recycling 1 glass bottle saves the energy to power a computer for 25 minutes.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Reciclando.jpg"
+                },
+                {
+                    "question": "Recycling 1 plastic bottle saves the energy to power a light bulb for 3 hours. Americans throw away 25,000,000 plastic bottles per hour on average!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Aguacontaminada.jpg"
+                },
+                {
+                    "question": "To make all the paper we need in the world, we cut down 4 billion trees a year!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Perio%CC%81dico.jpg"
+                },
+                {
+                    "question": "The average person throws away 74kg of food waste each year. This is the same as 1077 banana skins. ",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Botelleno.jpg"
+                },
+                {
+                    "question": "Things made of plastic, like plastic supermarket bags and bottles that end up in our oceans kill approximately 1,000,000 sea animals every year. ",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Pezmuerto.jpg"
+                },
+                {
+                    "question": "We throw away a lot of food. For example: 1.3 million unopened yogurts each day and 600,000 thousand whole uncooked eggs every day. What a waste!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Comida.jpg"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP3M2L8b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the parts of the sentence",
+            "questions": [
+                {
+                    "question": "a picture",
+                    "answer": "Paint"
+                },
+                {
+                    "question": "the violin",
+                    "answer": "Play"
+                },
+                {
+                    "question": "a book",
+                    "answer": "Read"
+                },
+                {
+                    "question": "a bike",
+                    "answer": "Ride "
+                },
+                {
+                    "question": "a model",
+                    "answer": "Make"
+                },
+                {
+                    "question": "skateboarding",
+                    "answer": "Go"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP3M3L14a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Drag the conversation in the correct order.",
+            "questions": [
+                {
+                    "question": "Billy: where is the aquarium, dad? ",
+                    "answer": "1"
+                },
+                {
+                    "question": "Dad: I don't know, Billy. Let's ask this police officer. Excuse me,Sir. How do we get to the city aquarium?  ",
+                    "answer": "2"
+                },
+                {
+                    "question": "Officer: That's easy, Walk along this street to the traffic lights and turn right into May road.",
+                    "answer": "3"
+                },
+                {
+                    "question": "Dad: Into what road?",
+                    "answer": "4"
+                },
+                {
+                    "question": "Officer: May Road. Then walk two blocks along May Road and the aquarium is on your left. ",
+                    "answer": "5"
+                },
+                {
+                    "question": "Dad: Oh! is it across from the zoo? ",
+                    "answer": "6"
+                },
+                {
+                    "question": "Officer: Yes, it is! You can't miss it!",
+                    "answer": "7"
+                }
+            ]
+        }
+    ]
+}

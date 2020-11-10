@@ -1,0 +1,79 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBS3M2L7c.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the clauses to form sentences",
+            "questions": [
+                {
+                    "question": "Sam started to work for a company",
+                    "answer": "after he had finished college in 2011"
+                },
+                {
+                    "question": "They spoke Russian fluently",
+                    "answer": "after they had spent 2 years in Moscow."
+                },
+                {
+                    "question": "After I had worked out",
+                    "answer": "I had breakfast."
+                },
+                {
+                    "question": "When my cousins arrived",
+                    "answer": "it had started to rain."
+                },
+                {
+                    "question": "Charles went to bed",
+                    "answer": "when he finished his report."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS3M3L21a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the questions with the answers.",
+            "questions": [
+                {
+                    "question": "When's your birthday?",
+                    "answer": "It's tomorrow"
+                },
+                {
+                    "question": "How much did you pay for your black jacket?",
+                    "answer": "eighty dollars."
+                },
+                {
+                    "question": "What do you do? ",
+                    "answer": "I am a dentist."
+                },
+                {
+                    "question": "Which magazines do you read? ",
+                    "answer": "Teens and 17."
+                },
+                {
+                    "question": "How are you?",
+                    "answer": "Fine, and you?"
+                },
+                {
+                    "question": "Where do you live? ",
+                    "answer": "In a small apartment on Americas Avenue."
+                },
+                {
+                    "question": "How many brothers do you have? ",
+                    "answer": "four."
+                },
+                {
+                    "question": "Who is Mariana?",
+                    "answer": "My cousin."
+                },
+                {
+                    "question": "Whose book is this?",
+                    "answer": "It's mine."
+                },
+                {
+                    "question": "Why are you wearing a tie? ",
+                    "answer": "Because I have a meeting with my boss."
+                }
+            ]
+        }
+    ]
+}

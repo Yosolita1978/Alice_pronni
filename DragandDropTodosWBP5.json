@@ -1,0 +1,222 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBP5M1L1a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words with the pictures. Use your dictionary if necessary.",
+            "questions": [
+                {
+                    "question": "check in desk",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/check_in_desk.png"
+                },
+                {
+                    "question": "hand luggage",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/hand_luggage.png"
+                },
+                {
+                    "question": "customs officer",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/customs_officer.png"
+                },
+                {
+                    "question": "boarding pass",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/boarding_pass.png"
+                },
+                {
+                    "question": "carousel / conveyor belt",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/conveyor_belt.png"
+                },
+                {
+                    "question": "pilot",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/pilot.png"
+                },
+                {
+                    "question": "stewardess",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/Stewardess.png"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M1L5a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read these facts about George Washington and match the titles to the texts.",
+            "questions": [
+                {
+                    "question": "George Washington began school when he was six years old and he left school when he was just 15. Why didn't he go to college? Because his mother could not afford the college fees.",
+                    "answer": "school days"
+                },
+                {
+                    "question": "Washington was nearly 2 meters tall. He was taller than most men of his time, and one of the tallest presidents of the United States (president Lincoln was the tallest).",
+                    "answer": "Height"
+                },
+                {
+                    "question": "What were some of the things he liked eating? Cream of peanut soup, mashed sweet potatoes with coconut, and string beans with mushrooms.",
+                    "answer": "Favorite foods"
+                },
+                {
+                    "question": "Washington suffered from toothache all his adult life. Finally he had all his teeth pulled out and he wore false teeth from then on. They were made of ivory.",
+                    "answer": "Health"
+                },
+                {
+                    "question": "Washington DC is named after him, but he never lived there. He helped plan the nation's new capital, but while he was president, New York City and later Philadelphia were the capitals. ",
+                    "answer": "capitals"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M2L7a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words to the pictures",
+            "questions": [
+                {
+                    "question": "pump",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/pump.png"
+                },
+                {
+                    "question": "goggles",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/goggles.png"
+                },
+                {
+                    "question": "cap",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/cap.png"
+                },
+                {
+                    "question": "racket",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/racket.png"
+                },
+                {
+                    "question": "helmet",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/helmet.png"
+                },
+                {
+                    "question": "swim suit",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/swim_suit.png"
+                },
+                {
+                    "question": "bat",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bat.png"
+                },
+                {
+                    "question": "net",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/net.jpg"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M2L8a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Label the first aid box. ",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/antiseptic.png",
+                    "answer": "antiseptic"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/bandages.png",
+                    "answer": "bandages"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/tweezers.png",
+                    "answer": "tweezers"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/scissors.png",
+                    "answer": "scissors"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/plasters.png",
+                    "answer": "sticking plaster"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/ice_pack.png",
+                    "answer": "an ice pack"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M2L8b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Label the injuries",
+            "questions": [
+                {
+                    "question": "sting",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/sting.jpg"
+                },
+                {
+                    "question": "bite",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bite.png"
+                },
+                {
+                    "question": "burn",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/burn.png"
+                },
+                {
+                    "question": "splinter",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/splinter.png"
+                },
+                {
+                    "question": "cut",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/cut.jpg"
+                },
+                {
+                    "question": "bruise",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bruise.jpg"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M3L14a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Label the pictures",
+            "questions": [
+                {
+                    "question": "sea shells",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/sea_shells.png"
+                },
+                {
+                    "question": "snorkel",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/snorkel.png"
+                },
+                {
+                    "question": "bathing suit",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/bathing_suit_.png"
+                },
+                {
+                    "question": "sunscreen",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/sunscreen.png"
+                },
+                {
+                    "question": "fins",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/fins.png"
+                },
+                {
+                    "question": "sandals",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/sandals.png"
+                },
+                {
+                    "question": "shovel",
+                    "answer": "https://potenciamx.s3.amazonaws.com/images/shovel.png"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M4L20b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the main ideas to the explanations",
+            "questions": [
+                {
+                    "question": "You shouldn't talk in a self-satisfied way about your possessions or your achievements. People don't like listening to that.",
+                    "answer": "Don't boast."
+                },
+                {
+                    "question": "You should think before you speak. Often it's better to say nothing than to say something that is going to hurt your friend. ",
+                    "answer": "Be aware of your friend's feelings"
+                },
+                {
+                    "question": "When you lend things, you would like your friends to give them back to you. Do the same for them.",
+                    "answer": "Return things you've borrowed"
+                }
+            ]
+        }
+    ]
+}
