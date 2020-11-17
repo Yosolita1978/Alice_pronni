@@ -1,0 +1,79 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "WBP5M2L6a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the adjectives that describe the feelings. ",
+            "questions": [
+                {
+                    "question": "yagnr",
+                    "answer": "angry"
+                },
+                {
+                    "question": "guyhrn",
+                    "answer": "hungry"
+                },
+                {
+                    "question": "payhp",
+                    "answer": "happy"
+                },
+                {
+                    "question": "ithtsyr",
+                    "answer": "thirsty"
+                },
+                {
+                    "question": "etdri",
+                    "answer": "tired"
+                },
+                {
+                    "question": "ads",
+                    "answer": "sad"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP5M3L13a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the words",
+            "questions": [
+                {
+                    "question": "terawllaf",
+                    "answer": "waterfall"
+                },
+                {
+                    "question": "noumatin",
+                    "answer": "mountain"
+                },
+                {
+                    "question": "lhil",
+                    "answer": "hill"
+                },
+                {
+                    "question": "baceh",
+                    "answer": "beach"
+                },
+                {
+                    "question": "evac",
+                    "answer": "cave"
+                },
+                {
+                    "question": "oertfs",
+                    "answer": "forest"
+                },
+                {
+                    "question": "danils",
+                    "answer": "island"
+                },
+                {
+                    "question": "eakl",
+                    "answer": "lake"
+                },
+                {
+                    "question": "erriv",
+                    "answer": "river"
+                }
+            ]
+        }
+    ]
+}

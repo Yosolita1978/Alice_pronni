@@ -1,0 +1,198 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "WBP2M1L2c.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the letters. What's the vegetable?",
+            "questions": [
+                {
+                    "question": "gacabeb",
+                    "answer": "cabbage"
+                },
+                {
+                    "question": "colcirob",
+                    "answer": "broccoli"
+                },
+                {
+                    "question": "nonio",
+                    "answer": "onion"
+                },
+                {
+                    "question": "reeng nabes",
+                    "answer": "green beans"
+                },
+                {
+                    "question": "ottapose",
+                    "answer": "potatoes"
+                },
+                {
+                    "question": "ceettlu",
+                    "answer": "lettuce"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP2M1L3c.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the words using a code. Code: use the alphabet backwards (Z=A, A=Z)",
+            "questions": [
+                {
+                    "question": "YOVMWVI",
+                    "answer": "blender"
+                },
+                {
+                    "question": "KVKKVI",
+                    "answer": "pepper"
+                },
+                {
+                    "question": "HGLEV",
+                    "answer": "stove"
+                },
+                {
+                    "question": "KLG",
+                    "answer": "pot"
+                },
+                {
+                    "question": "HZOG",
+                    "answer": "salt"
+                },
+                {
+                    "question": "XSVU",
+                    "answer": "chef"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP2M1L5b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences",
+            "questions": [
+                {
+                    "question": "good you for are Carrots",
+                    "answer": "Carrots are good for you."
+                },
+                {
+                    "question": "donuts I like.",
+                    "answer": "I like donuts"
+                },
+                {
+                    "question": "bad for your Sugar is teeth",
+                    "answer": "Sugar is bad for your teeth."
+                },
+                {
+                    "question": "vegetables Eat every day and fruit",
+                    "answer": "Eat fruits and vegetables every day."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP2M2L7a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences.",
+            "questions": [
+                {
+                    "question": "like / We / sneakers. / these",
+                    "answer": "We like these sneakers."
+                },
+                {
+                    "question": "pants. / I / need / don't / new",
+                    "answer": "I don't need new pants."
+                },
+                {
+                    "question": "bow / tie / you / Do / want / a / ?",
+                    "answer": "Do you want a bow tie? "
+                },
+                {
+                    "question": "like / you / shirt / this / Do / ?",
+                    "answer": "Do you like this shirt?"
+                },
+                {
+                    "question": "find / I / can't / my / barrettes / new / ! ",
+                    "answer": "I can't find my new barrettes!"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP2M3L13a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the instructions.",
+            "questions": [
+                {
+                    "question": "life jacket / your / leave / Don't / on the ground.",
+                    "answer": "Don't leave your life jacket on the ground."
+                },
+                {
+                    "question": "tent / your / in / Put it. ",
+                    "answer": "Put it in your tent."
+                },
+                {
+                    "question": "trash / in the ocean / throw / Don't ",
+                    "answer": "Don't throw trash in the ocean."
+                },
+                {
+                    "question": "in / Put it / the trash can.",
+                    "answer": "Put it in the trash can."
+                },
+                {
+                    "question": "by the fire / Don't / the food / leave. ",
+                    "answer": "Don't leave food by the fire."
+                },
+                {
+                    "question": "the sausages / Put / the food box / in",
+                    "answer": "Put the sausages in the food box."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP2M3L13b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the verbs",
+            "questions": [
+                {
+                    "question": "hwort",
+                    "answer": "throw"
+                },
+                {
+                    "question": "veela",
+                    "answer": "leave"
+                },
+                {
+                    "question": "upt",
+                    "answer": "put"
+                },
+                {
+                    "question": "eancl",
+                    "answer": "clean"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP2M4L19a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the questions",
+            "questions": [
+                {
+                    "question": "people / How many / in your family / there / are /?",
+                    "answer": "How many people are there in your family?"
+                },
+                {
+                    "question": "are / How many / there / children / in the class? ",
+                    "answer": "How many children are there in the class?"
+                },
+                {
+                    "question": "boys / many / there / How / are?",
+                    "answer": "How many boys are there? "
+                },
+                {
+                    "question": "many / girls / are / How / there / ? ",
+                    "answer": "How many girls are there?"
+                },
+                {
+                    "question": "there / many / How / in the bookcase / books / ? / are",
+                    "answer": "How many books are there in the bookcase? "
+                }
+            ]
+        }
+    ]
+}

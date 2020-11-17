@@ -1,0 +1,82 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "WBP3M1L2b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the questions",
+            "questions": [
+                {
+                    "question": "is / Where / putting / Jorge / plastic / plate / the / ?",
+                    "answer": "Where is Jorge putting the plastic plate?"
+                },
+                {
+                    "question": "collecting / are / aluminum cans / Ana and Tere / ?",
+                    "answer": "Are Ana and Tere collecting aluminum cans?"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP3M1L3b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the words to complete the sentences",
+            "questions": [
+                {
+                    "question": "(ccylree) your trash!",
+                    "answer": "Recycle"
+                },
+                {
+                    "question": "What's in your (rshta) can?",
+                    "answer": "trash"
+                },
+                {
+                    "question": "Are there any (nilaumum nacs)?",
+                    "answer": "aluminum cans"
+                },
+                {
+                    "question": "Is there any old (wesnppare)?",
+                    "answer": "newspaper"
+                },
+                {
+                    "question": "You can make (delmos)",
+                    "answer": "models"
+                },
+                {
+                    "question": "from old (oitlet pprea) rolls",
+                    "answer": "toilet paper"
+                },
+                {
+                    "question": "So, (ersue) your trash!",
+                    "answer": "reuse"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP3M5L24a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the questions.",
+            "questions": [
+                {
+                    "question": "you / Were / yesterday / at school / ?",
+                    "answer": "Where you at school yesterday? "
+                },
+                {
+                    "question": "cold / it / yesterday / Was / ?",
+                    "answer": "Was it cold yesterday?"
+                },
+                {
+                    "question": "/ mother and father / your / Were / yesterday evening / at home / ?",
+                    "answer": "Were your mother and father at home yesterday evening?"
+                },
+                {
+                    "question": "you / were / Where / yesterday afternoon / ? ",
+                    "answer": "Where were you yesterday evening?"
+                },
+                {
+                    "question": "at six o'clock / were / you / Where / this morning / ? ",
+                    "answer": "Where were you at six o clock this morning? "
+                }
+            ]
+        }
+    ]
+}

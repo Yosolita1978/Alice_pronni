@@ -1,0 +1,116 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "WBP6M1L1a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the topic words",
+            "questions": [
+                {
+                    "question": "mumsre",
+                    "answer": "summer"
+                },
+                {
+                    "question": "eiivscivtat",
+                    "answer": "activities"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP6M1L2a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences",
+            "questions": [
+                {
+                    "question": "/ did / Where / go / you / last weekend / ? /",
+                    "answer": "Where did you go last weekend?"
+                },
+                {
+                    "question": "/ didn't / she / my / ferret / like /. /",
+                    "answer": "She didn't like my ferret."
+                },
+                {
+                    "question": "/ you / go / When / did / to / the movies / ? /",
+                    "answer": "When did you go to the movies?"
+                },
+                {
+                    "question": "/ computer game / He / a / buy / didn't / . /",
+                    "answer": "He didn't buy a computer game."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP6M2L8a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences",
+            "questions": [
+                {
+                    "question": "will Where go he?",
+                    "answer": "Where will he go?"
+                },
+                {
+                    "question": "do you What will?",
+                    "answer": "What will you do?"
+                },
+                {
+                    "question": "leave will When they?",
+                    "answer": "When will they leave?"
+                },
+                {
+                    "question": "will How be you old Spring next? ",
+                    "answer": "How old will you be next Spring?"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP6M2L8b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the words.",
+            "questions": [
+                {
+                    "question": "otrob",
+                    "answer": "robot"
+                },
+                {
+                    "question": "obko",
+                    "answer": "book"
+                },
+                {
+                    "question": "tnlsie",
+                    "answer": "listen"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP6M4L18a.json",
+            "kind": "Unscramble",
+            "Instruccion": "We all get angry sometimes. How you act make the situation better or worse. Here are some ideas about how to control your anger. If you star to feel angry... Unscramble the words. ",
+            "questions": [
+                {
+                    "question": "ten / to / count ",
+                    "answer": "Count to ten."
+                },
+                {
+                    "question": "picture / draw / a / anger / you / of",
+                    "answer": "Draw a picture of your anger."
+                },
+                {
+                    "question": "favorite music / sing along / your / with",
+                    "answer": "Sing along with your favorite music."
+                },
+                {
+                    "question": "a friend / can / you / trust /talk to",
+                    "answer": "Talk to a friend you can trust."
+                },
+                {
+                    "question": "permit / don't / your anger / to take control",
+                    "answer": "Don't permit your anger to take control."
+                },
+                {
+                    "question": "want / you / if / to / more / learn / about / anger control / on the internet / read",
+                    "answer": "If you want to learn more about anger control read on the internet. "
+                }
+            ]
+        }
+    ]
+}

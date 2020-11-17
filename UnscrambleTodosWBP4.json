@@ -1,0 +1,43 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "WBP4M4L17b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the silly elephant joke. ",
+            "questions": [
+                {
+                    "question": "giraffes / How many / in a car / can you fit / ?",
+                    "answer": "How many giraffes can you fit in a car? "
+                },
+                {
+                    "question": "Four. / in the front / two / two / in the back / and / . / can you fit / How many / in a car / elephants / ? ",
+                    "answer": "How many elephants can you fit in a car? Four. Two in the front and two in the back. "
+                },
+                {
+                    "question": "It's / of giraffes / already full / . / None.",
+                    "answer": "None. It's already full of giraffes. "
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBP4M4L19b.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the directions.",
+            "questions": [
+                {
+                    "question": "to / elevator / the / floor / Take / second / the / .",
+                    "answer": "Take the elevator to the second floor."
+                },
+                {
+                    "question": "The / next / electronics store / to / is / book store / the / .",
+                    "answer": "The electronics store is next to the book store."
+                },
+                {
+                    "question": "It's / sports store / from / across / the / . ",
+                    "answer": "It's across from the sports store. "
+                }
+            ]
+        }
+    ]
+}

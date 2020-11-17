@@ -1,0 +1,32 @@
+{
+    "kind": "Unscramble",
+    "questions": [
+        {
+            "Nomenclatura": "WBS1M1L1a.json",
+            "kind": "Unscramble",
+            "Instruccion": "Unscramble the sentences",
+            "questions": [
+                {
+                    "question": "every / Facebook / Mary Ann / morning / . / checks",
+                    "answer": "Mary Ann checks Facebook every morning."
+                },
+                {
+                    "question": "an / sets / up / up / Mike / alarm / to / . / wake",
+                    "answer": "Mike sets up an alarm to wake up."
+                },
+                {
+                    "question": "networking / Social / builds /. / online / communities",
+                    "answer": "Social networking buils online communities."
+                },
+                {
+                    "question": "movies / arrive / to / the / . / Phillip / always / first",
+                    "answer": "Phillip always arrive first to the movies."
+                },
+                {
+                    "question": "lot / networking / know / about / grandparents / a / . / My / social",
+                    "answer": "My grandparents know a lot about social networking."
+                }
+            ]
+        }
+    ]
+}
