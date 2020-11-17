@@ -47,8 +47,8 @@ def writeToJson(root, filename):
 if __name__ == '__main__':
 
     path = "/Users/cristina/src/Alice_proni/Excel_files/"
-    filename = "DragandDropTodosWBS3.csv"
-    filenameJson = "DragandDropTodosWBS3.json"
+    filename = "DragandDropTodosWBS1.csv"
+    filenameJson = "DragandDropTodosWBS1.json"
     pathfile = pathFile(path, filename)
     root = processDataframe(pathfile)
     writeToJson(root, filenameJson)

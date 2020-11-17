@@ -1,0 +1,384 @@
+{
+    "kind": "dragndrop",
+    "questions": [
+        {
+            "Nomenclatura": "WBS1M1L4a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words with their definitions.",
+            "questions": [
+                {
+                    "question": "a web page created to scam you, or example to get your personal data.",
+                    "answer": "fake websites"
+                },
+                {
+                    "question": "is to browse the internet by going from one page to another web page using hyperlinks in an internet browser.",
+                    "answer": "surfing the net"
+                },
+                {
+                    "question": "a fraudulent and dishonest activity some people do to take advantage of others",
+                    "answer": "scam"
+                },
+                {
+                    "question": "is a connection to more information on a subject that you can follow either by clicking, tapping or hovering.",
+                    "answer": "link"
+                },
+                {
+                    "question": "a secret word or phrase that must be used to gain admission to a computer, interface or system.",
+                    "answer": "password"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M2L6a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the instruments with their names",
+            "questions": [
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/clarinet.jpg",
+                    "answer": "Clarinet"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/violin.jpg",
+                    "answer": "violin"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/flute.jpg",
+                    "answer": "Flute"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/triangle.jpg",
+                    "answer": "triangle"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/horn.jpg",
+                    "answer": "horn"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/piano.jpg",
+                    "answer": "piano"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/clarinet.jpg",
+                    "answer": "drums"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/guitar.jpg",
+                    "answer": "guitar"
+                },
+                {
+                    "question": "https://potenciamx.s3.amazonaws.com/images/saxophone.jpg",
+                    "answer": "saxophone"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M2L8c.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the questions with the answers",
+            "questions": [
+                {
+                    "question": "Where did you go on vacation?",
+                    "answer": "We went to New York City!"
+                },
+                {
+                    "question": "What did you do in New York?",
+                    "answer": "We saw a play on Broadway"
+                },
+                {
+                    "question": "What did you eat there? ",
+                    "answer": "We ate the fried chicken and waffles"
+                },
+                {
+                    "question": "What else did you do? ",
+                    "answer": "Well, after the play, we went to the museums"
+                },
+                {
+                    "question": "Which ones did you visit?",
+                    "answer": "The Met, MOMA, Guggenheim and many more"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M2L9b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the phrases with the pictures",
+            "questions": [
+                {
+                    "question": "Please, dad, can I go to the concert with my friends? ",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/pleasedad.jpg"
+                },
+                {
+                    "question": "Can I get one for you? ",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/help.jpg"
+                },
+                {
+                    "question": "What can I get for you today? ",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/waitress.jpg"
+                },
+                {
+                    "question": "I can't put anything else in this closet.",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/closet.jpg"
+                },
+                {
+                    "question": "I can't stand up, I twisted my ankle!",
+                    "answer": "https://potenciamx.s3.amazonaws.com/P1/ankle.jpg"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M3L11a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Read the paragraphs and drag them in order",
+            "questions": [
+                {
+                    "question": "1",
+                    "answer": "A scanner is a device that scans images, printed text, hand writing or even objects and converts them to a digital image. To make it work, you first have to connect the scanner to your PC, most scanners connect with a USB cable."
+                },
+                {
+                    "question": "2",
+                    "answer": "Place the material you want to scan just as if you were using a photocopier. Turn the scanner on if necessary. Some scanners don't have a power button they turn on automatically when you plug them into your computer."
+                },
+                {
+                    "question": "3",
+                    "answer": "Press the scan button on the scanner or run the software to acquire a digital image. "
+                },
+                {
+                    "question": "4",
+                    "answer": "Preview your scan in your computer's screen and select the scan area with the scanner's software. Set up the resolution and adjust other settings if necessary. "
+                },
+                {
+                    "question": "5",
+                    "answer": "Click the scan button to scan the image and once it is over, save the image to your disk. "
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M3L14b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the words with the sentences",
+            "questions": [
+                {
+                    "question": "The fireman had to go up the __ to reach the fire line.",
+                    "answer": "hill"
+                },
+                {
+                    "question": "All the homes along the fire path were __ before the fire spread.",
+                    "answer": "evacuated"
+                },
+                {
+                    "question": "Get out quick, it's an __!",
+                    "answer": "emergency"
+                },
+                {
+                    "question": "It's dangerous to walk outside during a __ storm.",
+                    "answer": "lightning"
+                },
+                {
+                    "question": "Everyone was taken to __ far from the fire.",
+                    "answer": "safety"
+                },
+                {
+                    "question": "The mountainside was covered in __.",
+                    "answer": "flames"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M3L15a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match to form the complete sentences",
+            "questions": [
+                {
+                    "question": "I was reading a book when",
+                    "answer": "suddenly I heard a noise"
+                },
+                {
+                    "question": "While Rose was cooking dinner",
+                    "answer": "her brother went to the party"
+                },
+                {
+                    "question": "Sharon came home",
+                    "answer": "when we were playing videogames"
+                },
+                {
+                    "question": "He met his girlfriend while",
+                    "answer": "he was traveling to Guanajuato"
+                },
+                {
+                    "question": "Jorge took a picture while",
+                    "answer": "I wasn't looking"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M4L17b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the phrases to make sentences",
+            "questions": [
+                {
+                    "question": "I have washed the dishes!",
+                    "answer": "But you haven't dried them yet."
+                },
+                {
+                    "question": "I finished the book yesterday!",
+                    "answer": "But you haven't take it back to the library."
+                },
+                {
+                    "question": "I have done my homework!",
+                    "answer": "But you haven't put it in your backpack yet. "
+                },
+                {
+                    "question": "I have walked the dog for 30 minutes!",
+                    "answer": "But you haven't taken off his leash!"
+                },
+                {
+                    "question": "I have made my bed! ",
+                    "answer": "But you haven't picked up your clothes!"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M4L18b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the complaints with the advice",
+            "questions": [
+                {
+                    "question": "I missed the bus school!",
+                    "answer": "I might give you a ride, if you want."
+                },
+                {
+                    "question": "My parents will kill me. I failed Math.",
+                    "answer": "You shouldn't worry. Tell them the truth."
+                },
+                {
+                    "question": "Larry is going out with another girl!",
+                    "answer": "You really must break up with him."
+                },
+                {
+                    "question": "Annie is sick and didn't come to school.",
+                    "answer": "We should all go to visit her."
+                },
+                {
+                    "question": "My car broke down.",
+                    "answer": "You could call a taxi."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M4L19b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the gadgets with their descriptions.",
+            "questions": [
+                {
+                    "question": "Global positioning system tells you exactly where you are on the planet and how to get where you want to go.",
+                    "answer": "GPS"
+                },
+                {
+                    "question": "A cell phone that includes additional software functions such as e-mail or an internet browser is called a:",
+                    "answer": "Smartphone"
+                },
+                {
+                    "question": "It's an electronic device with integrated electronic capabilities:",
+                    "answer": "SmartTV"
+                },
+                {
+                    "question": "In these places you can connect all the devices and appliances so they can \"talk\" to each other, they are continuously connected to the internet. ",
+                    "answer": "Smart homes"
+                },
+                {
+                    "question": "This device can recognize the type of food that you are baking using a built-in HD camera and scales to determine the time needed to bake:",
+                    "answer": "Smart oven"
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M5L21a.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the clauses to form sentences",
+            "questions": [
+                {
+                    "question": "When it's cold and cloudy in the morning, ",
+                    "answer": "we take our coats and umbrella to school"
+                },
+                {
+                    "question": "When grandma comes to visit us,",
+                    "answer": "we have ice cream every day!"
+                },
+                {
+                    "question": "If I get home early, ",
+                    "answer": "I can play on the computer."
+                },
+                {
+                    "question": "When there's a lot of traffic in the city, ",
+                    "answer": "We get to school really late."
+                },
+                {
+                    "question": "If I get to school late, ",
+                    "answer": "they close the front gate."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M5L23b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the clauses to form sentences.",
+            "questions": [
+                {
+                    "question": "If you want to keep this dog, ",
+                    "answer": "you will have to feed and walk him every day."
+                },
+                {
+                    "question": "If you don't pick up his poop, ",
+                    "answer": "I may give him away."
+                },
+                {
+                    "question": "If you want to let him in your bedroom,",
+                    "answer": "you need to brush him every other day. "
+                },
+                {
+                    "question": "If he starts to smell badly,",
+                    "answer": "you will have to bathe him."
+                },
+                {
+                    "question": "If you brush him frequently,",
+                    "answer": "he won't shed his hair."
+                },
+                {
+                    "question": "If you keep him healthy and clean,",
+                    "answer": "he can stay here forever."
+                }
+            ]
+        },
+        {
+            "Nomenclatura": "WBS1M5L25b.json",
+            "kind": "draganddrop",
+            "Instruccion": "Match the clauses to form sentences.",
+            "questions": [
+                {
+                    "question": "If I wake up late,",
+                    "answer": "I am late for work."
+                },
+                {
+                    "question": "When Julie doesn't wear a hat, ",
+                    "answer": "she gets sunburn"
+                },
+                {
+                    "question": "People get fat ",
+                    "answer": "when they eat unhealthy food"
+                },
+                {
+                    "question": "My father burns the food",
+                    "answer": "if he cooks."
+                },
+                {
+                    "question": "I can't do my homework",
+                    "answer": "If I don't have my glasses."
+                },
+                {
+                    "question": "When Ivanna watches a movie,",
+                    "answer": "she likes to eat popcorn. "
+                }
+            ]
+        }
+    ]
+}
