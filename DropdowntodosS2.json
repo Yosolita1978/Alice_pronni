@@ -1,0 +1,534 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose the correct word to complete the sentences.",
+            "Nomenclatura": "SBS2M1L1a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Global sea level rose __ last century.",
+                    "options": [
+                        "quickly",
+                        "slowly",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Global sea level has risen __ over the last two decades.",
+                    "options": [
+                        "quickly",
+                        "slowly",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The planet's average surface temperature has risen __ since the 19th century.",
+                    "options": [
+                        "dramatically",
+                        "gradually",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Both the extent and thickness of the Arctic sea ice has declined __ over the last several decades.",
+                    "options": [
+                        "rapidly",
+                        "slowly",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Analyze Andrea's questions and decide what kind of questions they are. ",
+            "Nomenclatura": "SBS2M1L2b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "a) So, Sara, what should our listeners know about Anthropology as a career?",
+                    "options": [
+                        "... are questions for starting or keeping a conversation going.",
+                        "...are questions for asking for personal information.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "b) Sounds fascinating! But, what do anthropologists do, exactly? I mean, if I study anthropology at university, what kind of job can I expect to have when I graduate? ",
+                    "options": [
+                        "... are questions for starting or keeping a conversation going.",
+                        "...are questions for asking for personal information.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "c) And what do you do, Sara?",
+                    "options": [
+                        "... are questions for starting or keeping a conversation going.",
+                        "...are questions for asking for personal information.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "d) Well, young people have always enjoyed traveling, right?",
+                    "options": [
+                        "... are questions for starting or keeping a conversation going.",
+                        "...are questions for asking for personal information.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "e) But isn't it very expensive for young people?",
+                    "options": [
+                        "... are questions for starting or keeping a conversation going.",
+                        "...are questions for asking for personal information.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "f) And you discovered all that?",
+                    "options": [
+                        "... are questions for starting or keeping a conversation going.",
+                        "...are questions for asking for personal information.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the following sentences and choose the best option in each case. ",
+            "Nomenclatura": "SBS2M2L6a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Overall, people in the USA now work __ hours",
+                    "options": [
+                        "longer",
+                        "shorter",
+                        "the same number of ",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ they did 50 years ago.",
+                    "options": [
+                        "than",
+                        "as",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "In the USA, if you're more educated, you tend to work __ hous per week.",
+                    "options": [
+                        "more",
+                        "fewer",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "In the USA, if you're less educated, you tend to work __ hours per week",
+                    "options": [
+                        "more",
+                        "fewer",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ people who are more educated.",
+                    "options": [
+                        "than",
+                        "as",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "In the USA, the more educated you are __ money you can earn.",
+                    "options": [
+                        "the more",
+                        "the less",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "In the USA, the less educated you are __ free time you have. ",
+                    "options": [
+                        "the more",
+                        "the less",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Complete the sentences choosing may or might according to their meaning.",
+            "Nomenclatura": "SBS2M2L7a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "You __ thing that by working constantly you will be more productive. ",
+                    "options": [
+                        "may",
+                        "might",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Workaholics __ want to work at times that are not normal for most people.",
+                    "options": [
+                        "may",
+                        "might",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ be workaholics.",
+                    "options": [
+                        "may",
+                        "might",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "However, while we traditionally see working long hours as a good thing, the opposite __ be true.",
+                    "options": [
+                        "may",
+                        "might",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "People who do not take time off to enjoy themselves and relax __ actually end up being less productive in the long run.",
+                    "options": [
+                        "may",
+                        "might",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read the sentences and decide whether to leave the verb will or if may/might would be better to make the sentences truer for you. ",
+            "Nomenclatura": "SBS2M2L7b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "When I am working, I __ have more free time than I have now.",
+                    "options": [
+                        "will",
+                        "may",
+                        "might",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ work longer hours than I do now.",
+                    "options": [
+                        "will",
+                        "may",
+                        "might",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ richer than I am now.",
+                    "options": [
+                        "will",
+                        "may",
+                        "might",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ have more friends than I have now.",
+                    "options": [
+                        "will",
+                        "may",
+                        "might",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ take more vacations than I do now.",
+                    "options": [
+                        "will",
+                        "may",
+                        "might",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read the questions about the text on bullying in the workplace and choose the correct answers.",
+            "Nomenclatura": "SBS2M3L14b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "What is the percentage of workers who experience bullying in the workplace in the US? __",
+                    "options": [
+                        "20",
+                        "40",
+                        "65",
+                        "10"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Most bullying in the workplace occurs __",
+                    "options": [
+                        "between peers",
+                        "from a boss to a subordinate",
+                        "from a subordinate to their boss",
+                        "between bosses"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Bullies in the workplace, bully because they're looking for __",
+                    "options": [
+                        "power",
+                        "money",
+                        "fun",
+                        "more time off"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "A good way of dealing with workplace bullies is to __",
+                    "options": [
+                        "get angry with them",
+                        "hit them",
+                        "calmly tell the person that their behavior is unacceptable",
+                        "quit your job"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "If after speaking with the bully, the bullying continues, the worker should __",
+                    "options": [
+                        "report the bully to Human Resources",
+                        "quit their job",
+                        "gossip about the bully",
+                        "shout at the bully"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Bullying can lead to health problems such as __",
+                    "options": [
+                        "sore feet and back problems",
+                        "brain damage and sore neck",
+                        "cancer and liver damage",
+                        "cardiovascular problems and getting flu and colds frequently"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read the text and choose T or F. ",
+            "Nomenclatura": "SBS2M3L15a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Bullying laws in the US have reduced bullying by 20%. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The National Institutes of Health and the Henry M Jackson foundation for the advancement of Military Medicine carried out research into trends in bullying among 6th and 10th graders in the US between 1998 and 2010. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The American Journal of Public Health carried out researchs into trends in bullying among 6th and 10th graders in the US between 1998 and 2010. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The results of the study are positive. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the following sentences. Read the text again and decide if they're true or false. ",
+            "Nomenclatura": "SBS2M5L21a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "It is a good idea to give your dog a diet of hamburgers. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Eating should be an act of pure pleasure. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "If you do not eat properly when you're young, it can affect the development of your skin, bones and hair. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "If you're malnourished as an adult you can have heart problems or develop cancer. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "A balanced diet is mostly made up of vegetables and cereals with some fruit and some meat. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We should try to never eat candies and soda. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

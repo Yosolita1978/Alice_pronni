@@ -1,0 +1,501 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose the correct option",
+            "Nomenclatura": "SBS1M1L3b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "__",
+                    "options": [
+                        "The TV no is working",
+                        "The TV is not working",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "She is no send a message.",
+                        "She is not sending a message.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "The film's starting.",
+                        "The film's start",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "Are you going to violin class?",
+                        "Do you going to violin class?",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "Does he going to buy some milk?",
+                        "Is he going to buy some milk?",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct option",
+            "Nomenclatura": "SBS1M1L4a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "I __ from 9 to 5 every day.",
+                    "options": [
+                        "work",
+                        "works",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Mariana __ a movie now.",
+                    "options": [
+                        "is watching",
+                        "are watching",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Eduardo __ soccer on saturday.",
+                    "options": [
+                        "plays",
+                        "playing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ a cup of coffee.",
+                    "options": [
+                        "drinks",
+                        "are drinking",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Ariel __ an email to her boyfriend.",
+                    "options": [
+                        "is writing",
+                        "is writeing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the answer",
+            "Nomenclatura": "SBS1M2L6b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "The girls are describing the singers and talking about what they __",
+                    "options": [
+                        "did in the past",
+                        "are doing now",
+                        "may do in the future",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose PO (Preposition of Location) or PD (preposition of Direction) for each sentence.",
+            "Nomenclatura": "SBS1M3L12b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Paul went into the kitchen and took some orange juice out of the fridge",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Check that the bread is on the table and the eggs are in the cupboard. ",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There is a veggie restaurant across the street",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He walked along the river for an hour.",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Ana is now running towards the finish line.",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The cat jumped onto the table and ate all the tuna fish.",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Watch out! The pot behind you has hot soup inside. ",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She went outside and picked up some apples from the tree.",
+                    "options": [
+                        "PO",
+                        "PD",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the word that best complete the sentences.",
+            "Nomenclatura": "SBS1M4L16c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "They haven't __ any pictures for the books yet. ",
+                    "options": [
+                        "made",
+                        "make",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ decided to help with the pictures. ",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My father has __ a present for my mom.",
+                    "options": [
+                        "buy",
+                        "bought",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ gone to the new mall yet. ",
+                    "options": [
+                        "hasn't",
+                        "haven't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ you been to a live soccer game? ",
+                    "options": [
+                        "Have",
+                        "Has",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct modal to complete the sentences.",
+            "Nomenclatura": "SBS1M4L19a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "When you have a fever, you __ visit the doctor.",
+                    "options": [
+                        "must",
+                        "should",
+                        "mustn't",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "When you don't understand a math problem, you __ ask Peter, he's a math genius!",
+                    "options": [
+                        "might",
+                        "could ",
+                        "must ",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "You __ buy the latest gadget just because it's fashionable.",
+                    "options": [
+                        "couldn't",
+                        "may",
+                        "shouldn't",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "You __ want to wait a few months until the price of a gadget goes down.",
+                    "options": [
+                        "should",
+                        "must",
+                        "may",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The new Lego robot is the best! You __ absolutely get it!",
+                    "options": [
+                        "could ",
+                        "must",
+                        "should ",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the best option to complete the sentences",
+            "Nomenclatura": "SBS1M5L22c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "You really __ be rude to your friend. She has no idea why you're mad. ",
+                    "options": [
+                        "shouldn't",
+                        "should",
+                        "might",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "If you want people to understand you, you __ consider being nicer.",
+                    "options": [
+                        "shouldn't",
+                        "must",
+                        "might",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I have always __ to tell you that I appreciate your friendship.",
+                    "options": [
+                        "want",
+                        "wants",
+                        "wanted",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "When I'm in trouble with my parents at home, things at school __.",
+                    "options": [
+                        "go wrong",
+                        "will go wrong",
+                        "goes wrong",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "And when I'm not doing well at school, my parents __ happy with me.",
+                    "options": [
+                        "are",
+                        "aren't",
+                        "isn't",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the best option to complete the sentences",
+            "Nomenclatura": "SBS1M5L24b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Many worldwide care groups ask for donations to help poverty __ other countries. ",
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "One of these organizations is CARE. It was founded after WWII __ November 27, 1945. ",
+                    "options": [
+                        "in",
+                        "on",
+                        "at",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "If you want to find out what they do you __ go to www.care.org",
+                    "options": [
+                        "can",
+                        "will",
+                        "may",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ first, CARE sent food packages a day enough for 10 people. ",
+                    "options": [
+                        "At",
+                        "On",
+                        "In",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "On May 11th, 1946 the first CARE package was delivered __ La Havre, France. ",
+                    "options": [
+                        "at ",
+                        "on",
+                        "in",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Today, CARE __ developed over 800 thousand projects around the world. ",
+                    "options": [
+                        "has",
+                        "have ",
+                        "had",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

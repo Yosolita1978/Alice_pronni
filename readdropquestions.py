@@ -20,11 +20,13 @@ def processDataframe(pathfile):
         for row in reader:
             if row["Instruccion"]:
                 activities.append({"title": row["Instruccion"],
+                                "Nomenclatura": row["Archivo JSON"],
+                                "header": row["header_img"],
                                "questions": []})
 
             else:
                 #The list of options goes in evry case
-                options = [row["Opcion 1"], row["Opcion 2"], row["Opcion 3"], row["Opcion 4"], row["Opcion 5"]]
+                options = [row["Opcion 1"], row["Opcion 2"], row["Opcion 3"], row["Opcion 4"]]
 
                 #if the question is typo dropdown the correct answer will be always a index interger
                 if row["Tipo"] == "dropdown":
@@ -33,7 +35,7 @@ def processDataframe(pathfile):
 
                     except ValueError:
                         correct = options.index(row["Opcion Correcta"])
-                        
+
                 #if the question is text the correct answer will be a string
                 else:
                     correct = row["Opcion Correcta"]
@@ -64,8 +66,8 @@ def writeToJson(root, filename):
 if __name__ == '__main__':
 
     path = "/Users/cristina/src/Alice_proni/Excel_files/"
-    filename = "DropdowntodosTestCases.csv"
-    filenameJson = "DropdowntodosTestCases.json"
+    filename = "DropdowntodosWBS3.csv"
+    filenameJson = "DropdowntodosWBS3.json"
     pathfile = pathFile(path, filename)
     root = processDataframe(pathfile)
     writeToJson(root, filenameJson)

@@ -4,7 +4,7 @@ import json
 import pandas as pd
 
 PATH = '/Users/cristina/src/Alice_proni/Excel_files/'
-file = 'EPgrade2WBFill.csv'
+file = 'FillTodosWBP2.csv'
 input_csv_file_path = os.path.join(PATH, file)
 activities = []
 Nomenclatura = None
@@ -18,9 +18,9 @@ with open(input_csv_file_path) as csv_file:
     for csv_row in csv_reader:
         #print(csv_row)
         if csv_row["Instruccion"]:
-                Nomenclatura = "Module" + csv_row["Module"] + " Lesson" + csv_row["Lesson"] + " Page" + csv_row["Page"] + " Orden" + csv_row["Orden"]
+                Orden = csv_row["Orden"]
                 activities.append({"title": csv_row["Instruccion"],
-                                   "Nomenclatura": Nomenclatura,
+                                   "Nomenclatura": Orden,
                                    "questions": []
                 })
 
@@ -38,6 +38,6 @@ root = {"kind": "fillblanks",
         "questions": activities
 }
 
-json_file_path = "EPgrade2WBFill.json"
+json_file_path = "FillTodosWBP2.json"
 with open(json_file_path, "w") as json_file:
     json_file.write(json.dumps(root,indent=4))

@@ -1,0 +1,975 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose the correct words",
+            "Nomenclatura": "SBP1M2L6b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "They __ tacos.",
+                    "options": [
+                        "are",
+                        "aren't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It __ oatmeal.",
+                    "options": [
+                        "is",
+                        "isn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It __ milk.",
+                    "options": [
+                        "is",
+                        "isn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ rulers.",
+                    "options": [
+                        "are",
+                        "aren't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ books.",
+                    "options": [
+                        "are",
+                        "aren't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose yes or no",
+            "Nomenclatura": "SBP1M2L7b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "This goes with singular nouns.",
+                    "options": [
+                        "yes",
+                        "no",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "These goes with plural nouns.",
+                    "options": [
+                        "yes",
+                        "no",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose have or has",
+            "Nomenclatura": "SBP1M2L8b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "He __ a red mouth.",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It __ green eyes.",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He __ yellow hair.",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It __ white teeth.",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ black ears.",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ brown hair.",
+                    "options": [
+                        "have",
+                        "has",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose a or an",
+            "Nomenclatura": "SBP1M2L9b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "I have __ umbrella.",
+                    "options": [
+                        "a ",
+                        "an",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "You have __ blue notebook.",
+                    "options": [
+                        "a",
+                        "an",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He has __ pencil case.",
+                    "options": [
+                        "a ",
+                        "an",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I have __ orange cupcake.",
+                    "options": [
+                        "a",
+                        "an",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She has __ eraser.",
+                    "options": [
+                        "a",
+                        "an",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I have __ ice cream cone.",
+                    "options": [
+                        "a",
+                        "an",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the picture. Read and choose YES or NO",
+            "Nomenclatura": "SBP1M2L10a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "There's a magician.",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There are balloons.",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There are cookies.",
+                    "options": [
+                        "yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There are presents.",
+                    "options": [
+                        "yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There's a party hat.",
+                    "options": [
+                        "yes",
+                        "no",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose There is or There are",
+            "Nomenclatura": "SBP1M2L10b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "__ sandwiches.",
+                    "options": [
+                        "There is.",
+                        "There are.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ a cake.",
+                    "options": [
+                        "There is.",
+                        "There are.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ candies.",
+                    "options": [
+                        "There is.",
+                        "There are.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ gifts.",
+                    "options": [
+                        "There is.",
+                        "There are.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ juice.",
+                    "options": [
+                        "There is.",
+                        "There are.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answer",
+            "Nomenclatura": "SBP1M3L12a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Is it a pig?",
+                    "options": [
+                        "Yes, it is.",
+                        "No, it isn't.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Is it a cow?",
+                    "options": [
+                        "Yes, it is.",
+                        "No, it isn't.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Are they sheep?",
+                    "options": [
+                        "Yes, they are.",
+                        "No, they aren't.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Are they ducks?",
+                    "options": [
+                        "Yes, they are.",
+                        "No, they aren't.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct answer. Follow the examples.",
+            "Nomenclatura": "SBP1M3L12b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "The farmer is",
+                    "options": [
+                        "young.",
+                        "old.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Ducks are ",
+                    "options": [
+                        "big",
+                        "small",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Giraffes are __ and pretty.",
+                    "options": [
+                        "tall",
+                        "short",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The pig is",
+                    "options": [
+                        "young.",
+                        "old.",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "These horses are ",
+                    "options": [
+                        "big",
+                        "small",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answers.",
+            "Nomenclatura": "SBP1M4L16a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "She __ a police car. ",
+                    "options": [
+                        "drive",
+                        "drives",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ direct the traffic",
+                    "options": [
+                        "don't",
+                        "doesn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ start work at 8 o'clock.",
+                    "options": [
+                        "don't",
+                        "doesn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Lucy's mom __ a uniform.",
+                    "options": [
+                        "wear",
+                        "wears",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ collect trash.",
+                    "options": [
+                        "don't",
+                        "doesn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Ted and Harry __ trash.",
+                    "options": [
+                        "collect",
+                        "collects",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ talk to children about road safety",
+                    "options": [
+                        "don't",
+                        "doesn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct words",
+            "Nomenclatura": "SBP1M4L17b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "What __ receptionists do? ",
+                    "options": [
+                        "do ",
+                        "does ",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ the phone.",
+                    "options": [
+                        "answer",
+                        "answers",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Penny is a nurse. What __ she do?",
+                    "options": [
+                        "do",
+                        "does",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ care of patients.",
+                    "options": [
+                        "take",
+                        "takes",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose yes or no",
+            "Nomenclatura": "SBP1M4L18a.json",
+            "header": "Can you do somersaults, Candice? Yes, I can. Can you stand on your head, Luis? No, I can't. But I can throw a ball. ",
+            "questions": [
+                {
+                    "question": "Candice can __",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Luis can __",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose or fill the correct answer.",
+            "Nomenclatura": "SBP1M4L18b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "__ Jeff walk on his hands?",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "Can",
+                    "type": "text"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "Yes, he can",
+                        "No, he can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ Susie jump rope?",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "Can",
+                    "type": "text"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "Yes, she can",
+                        "No, she can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ Jeff catch a ball?",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "Can",
+                    "type": "text"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "Yes, he can",
+                        "No, he can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the toy store and answer yes or no",
+            "Nomenclatura": "SBP1M4L19a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "There's a doll",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There's a bicycle.",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There are four cars. ",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There's a yellow dinosaur",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There's a soccer ball.",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the picture and choose the correct options.",
+            "Nomenclatura": "SBP1M4L20a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "There __ two buses in the picture ",
+                    "options": [
+                        "is",
+                        "are",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "and there are __ motorbikes.",
+                    "options": [
+                        "three",
+                        "four",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ many cars are there? ",
+                    "options": [
+                        "what",
+                        "how",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ you see a trash truck? ",
+                    "options": [
+                        "Can ",
+                        "Does",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The trash collectors __ trash every day.",
+                    "options": [
+                        "collect",
+                        "collects",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Is there a fire truck in the picture? No, __ isn't.",
+                    "options": [
+                        "there",
+                        "they",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "But look! There are two police __.",
+                    "options": [
+                        "officer",
+                        "officers",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Find Mario. He __ a red bicycle. ",
+                    "options": [
+                        "has",
+                        "have",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ is he? He's in the park.",
+                    "options": [
+                        "Where",
+                        "What",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose",
+            "Nomenclatura": "SBP1M5L22a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "__ bedroom is pink.",
+                    "options": [
+                        "Candice's",
+                        "Jake's",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ bedroom isn't pink. It's blue.",
+                    "options": [
+                        "Candice's",
+                        "Jake's",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ toys are in a toy box.",
+                    "options": [
+                        "Candice's",
+                        "Jake's",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ toys are on a shelf.",
+                    "options": [
+                        "Candice's",
+                        "Jake's",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose. ",
+            "Nomenclatura": "SBP1M5L24a.json",
+            "header": "Let's buy some carrots. We don't need any carrots. Do we have any peas?",
+            "questions": [
+                {
+                    "question": "We use some in positive sentences. __",
+                    "options": [
+                        "Yes",
+                        "no",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We use any in negative sentences. __",
+                    "options": [
+                        "Yes",
+                        "no",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We use any in questions. __",
+                    "options": [
+                        "Yes",
+                        "no",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

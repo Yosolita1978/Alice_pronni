@@ -1,0 +1,140 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose the correct option.",
+            "Nomenclatura": "WBP6M1L4a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "She __ her homework when her dad came home. ",
+                    "options": [
+                        "was doing",
+                        "is doing",
+                        "were doing",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "What __ when you say him?",
+                    "options": [
+                        "is Peter doing",
+                        "Peter did",
+                        "was Peter doing",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It was a lovely day. The sun __ .",
+                    "options": [
+                        "shines",
+                        "was shining",
+                        "shined",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ when I called you?",
+                    "options": [
+                        "Do you study",
+                        "were you studying",
+                        "are you studying",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ when the phone rang.",
+                    "options": [
+                        "I was having lunch",
+                        "I had lunch",
+                        "I have lunch",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct form of the verb",
+            "Nomenclatura": "WBP6M3L12a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Mr. Denman is a policeman. He __ wear an uniform.",
+                    "options": [
+                        "have to",
+                        "has to",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She's short-sighted. She __ wear glasses to see the board. ",
+                    "options": [
+                        "need to",
+                        "needs to",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "This is a library book. I __ return it back to the library.",
+                    "options": [
+                        "have to",
+                        "has to",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "School starts at 8 o'clock. We __ wake up very early to get there on time.",
+                    "options": [
+                        "have to",
+                        "has to",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Danny has a toothache. He __ go to the dentist.",
+                    "options": [
+                        "need to",
+                        "needs to",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They have a lot of homework. They __ finish now!",
+                    "options": [
+                        "need to",
+                        "needs to",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

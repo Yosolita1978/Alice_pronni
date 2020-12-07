@@ -1,0 +1,23 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBP5M1L4a.json,Choose down or up to make phrasal verbs to complete the sentences,,,,,,,,
+,,dropdown,,The car broke __ on the way to the movies,down,up,,,0
+,,dropdown,,Slow __. You're going very fast.,down,up,,,0
+,,dropdown,,She gets __ late on weekends.,down,up,,,1
+,,dropdown,,Hurry __ ! we're going to be late to the movies,down,up,,,1
+,,dropdown,,"For this delicious soup, first cut __ all the vegetables.",down,up,,,1
+,,dropdown,,"Write __ your address next to your name, please.",down,up,,,0
+,,dropdown,,Turn __ the music! It's too loud! I can't hear myself think!,down,up,,,0
+WBP5M2L7a.json,Look at the pictures. Choose I'd rather or I'd prefer.,,,,,,,,
+,,dropdown,,a) Would you like to go kayaking? __ go swimming.,I'd rather,I'd prefer,,,1
+,,dropdown,,b) Would you like to have an hamburger? __ have a hot dog.,I'd rather,I'd prefer,,,0
+,,dropdown,,c) Would you like to listen to music? __ to watch T.V.,I'd rather,I'd prefer,,,1
+,,dropdown,,d) Would you like to visit Washington? __ go to the beach.,I'd rather,I'd prefer,,,0
+WBP5M2L7b.json,Choose the correct sport category for each word,,,,,,,,
+,,dropdown,,bat ,baseball,tennis,cycling,swimming,0
+,,dropdown,,cap,baseball,tennis,cycling,swimming,0
+,,dropdown,,pump,baseball,tennis,cycling,swimming,2
+,,dropdown,,swim suit,baseball,tennis,cycling,swimming,3
+,,dropdown,,net,baseball,tennis,cycling,swimming,1
+,,dropdown,,goggles,baseball,tennis,cycling,swimming,3
+,,dropdown,,helmet ,baseball,tennis,cycling,swimming,2
+,,dropdown,,racket,baseball,tennis,cycling,swimming,1

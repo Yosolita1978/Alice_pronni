@@ -1,0 +1,49 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBP6M1L1a.json,Choose the correct answer,,,,,,,,
+,,dropdown,,Are the things Luis is talking about happening now or in the past?__,now,in the past,,,1
+,,dropdown,,Luis __ the summer camp.,enjoyed,enjoys,,,0
+,,dropdown,,He __ his family in Puebla before the camp started.,visits,visited,,,1
+,,dropdown,,The food at camp __ good.,is,was,,,1
+,,dropdown,,The campers __ races.,ran,run,,,0
+,,dropdown,,They __ jeans and snickers every day.,wear,wore,,,1
+,,dropdown,,He __ his Spanish at camp.,practiced,practices,,,0
+SBP6M1L2a.json,Look at the sentences and choose the right answer,,,,,,,,
+,,dropdown,,Which word shows it's a negative sentence about the past?,She didn't want a dog,Why did she get a ferret?,,,0
+,,dropdown,,Which word shows it's a question about the past? ,She didn't want a dog,Why did she get a ferret?,,,1
+,,dropdown,,look at the two main verbs want and get. They are in __ form.,base,past tense,,,0
+SBP6M1L2b.json,Choose the correct option,,,,,,,,
+,,dropdown,,She __ away for vacation.,didn't went,didn't go,,,1
+,,dropdown,,__ go to the movies?,She go,Did she,,,1
+,,dropdown,,Why did __ a ferret?,she choose,she chose,,,0
+,,dropdown,,Where __ a pet?,did she bought,did she buy,,,1
+,,dropdown,,"He __ his ferret ""Squeaky"".",didn't call,didn't calling,,,0
+SBP6M1L4a.json,Choose T or F,,,,,,,,
+,,dropdown,,We use the past progressive or continuous to describe what was happening at a certain time in the past. __,T,F,,,0
+,,dropdown,,We also use it to say what was happening when something else happened. __,T,F,,,0
+,,dropdown,,The past progressive is formed with the present tense of the verb to be and the base form of the verb. __,T,F,,,1
+SBP6M3L11a.json,Read and choose the correct answer,,,,,,,,
+,,,,You must treat everyone with respect.,,,,,
+,,,,You musn't throw trash on the ground,,,,,
+,,dropdown,,The sentences are about __.,obligations,plans,,,0
+,,dropdown,,The verb that follows must / musn't is in the __.,past form,base form,,,1
+SBP6M3L11b.json,Complete these rules with must or musn't,,,,,,,,
+,,dropdown,,Students __ be late for school.,must,mustn't ,,,1
+,,dropdown,,Students __ have the correct sports uniform.,must,mustn't ,,,0
+,,dropdown,,They __ keep the classroom trash-free.,must,mustn't ,,,0
+,,dropdown,,Students __ listen when others are talking. ,must,mustn't ,,,0
+,,dropdown,,Students __ bully other students.,must,mustn't ,,,1
+,,dropdown,,Students __ bring chewing gum to school.,must,mustn't ,,,1
+SBP6M3L14a.json,Read and choose the correct answer.,,,,,,,,
+,,dropdown,,Which sentence says it's not necessary to do something? __,You mustn't give the fish too much to eat.,You don't have to change the water.,You don't have to change the water.,,1
+,,dropdown,,Which sentence prohibits an action?__,You mustn't give the fish too much to eat.,You don't have to change the water.,You mustn't give the fish too much to eat.,,0
+SBP6M4L16a.json,Read and choose the correct answer,,,,,,,,
+,,,,"Water boils if you heat it to 100 degrees Celsius. Water freezes when it reaches zero degrees Celsius. If you add salt to fresh water, it freezes at a lower temperature. When you add salt to fresh water, it freezes at a lower temperature.",,,,,
+,,dropdown,,The sentences are about scientific facts. __,T,F,T,,0
+,,dropdown,,The zero conditional has the present simple in both clauses. __,T,F,T,,0
+,,dropdown,,Both if and when can be used with the same meaning. __,T,F,T,,0
+,,dropdown,,The if and when clauses must always come first. __,T,F,T,,0
+SBP6M4L18a.json,Read and choose the correct answer,,,,,,,,
+,,,,"If a dog starts running towards you, you shouldn't run away. If it comes towards you, try to stand still. If a friendly-looking dog runs towards you, don't touch it. If the owner says it's OK, you can touch it. If a dog bites or scratches you, you must tell an adult immediately. ",,,,,
+,,dropdown,,The sentences give general rules and advice. ,T,F,T,,0
+,,dropdown,,"The ""if"" clause is in the present simple. ",T,F,T,,0
+,,dropdown,,The other clause has an imperative or a modal: should / shouldn't / must / mustn't / can / can't / etc. ,T,F,T,,0

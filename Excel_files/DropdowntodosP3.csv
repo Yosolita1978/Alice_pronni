@@ -1,0 +1,22 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBP3M3L12b.json,"Write at, in or on",,,,,,,,
+,,dropdown,,Sports class starts __ 12 o'clock.,at,in,on,,0
+,,dropdown,,I watch television __ the evenings.,at,in,on,,1
+,,dropdown,,Her party is __ Saturday.,at,in,on,,2
+,,dropdown,,My guitar class is __ Fridays.,at,in,on,,2
+,,dropdown,,My Dad gets up early __ the mornings,at,in,on,,1
+,,dropdown,,I get home from school __ 3:30,at,in,on,,0
+SBP3M3L14a.json,Look at the route and choose the correct direction.,,,,,,,,
+,,dropdown,,Go along the street and __.,turn left,turn right,,,0
+,,dropdown,,The toy store is across from __ You can't miss it! It's on your right,a cafeteria,a bank,,,0
+,,dropdown,,Walk __ blocks and ,two,three,,,0
+,,dropdown,,__ into Green Dive,turn left,turn right,,,1
+SBP3M3L15a.json,Choose the correct word,,,,,,,,
+,,dropdown,,Elephants __ swim.,can,can't,,,1
+,,dropdown,,It __ rains in the desert.,always,never,,,1
+,,dropdown,,The school week starts __ Monday.,in,on,,,1
+,,dropdown,,Lions live __ Africa.,in,at,,,0
+,,dropdown,,__ do you get to the museum?,How,What,,,0
+,,dropdown,,We sometimes __ to the park.,go ,swim,,,0
+,,dropdown,,The library is across __ from the supermarket.,to,across,,,1
+,,dropdown,,The elevator goes __ and stops on the top floor.,up ,down,,,0

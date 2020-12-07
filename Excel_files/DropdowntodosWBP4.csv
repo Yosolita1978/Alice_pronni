@@ -1,0 +1,22 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBP4M2L7b.json,Choose the correct category,,,,,,,,
+,,dropdown,,hands,Transportation,Parts of the body,Clothes,Food,1
+,,dropdown,,ship,Transportation,Parts of the body,Clothes,Food,0
+,,dropdown,,berries,Transportation,Parts of the body,Clothes,Food,3
+,,dropdown,,meat,Transportation,Parts of the body,Clothes,Food,3
+,,dropdown,,nuts ,Transportation,Parts of the body,Clothes,Food,3
+,,dropdown,,feet,Transportation,Parts of the body,Clothes,Food,1
+,,dropdown,,boots,Transportation,Parts of the body,Clothes,Food,2
+,,dropdown,,leather,Transportation,Parts of the body,Clothes,Food,2
+,,dropdown,,kayak,Transportation,Parts of the body,Clothes,Food,0
+,,dropdown,,canoe,Transportation,Parts of the body,Clothes,Food,0
+,,dropdown,,coach,Transportation,Parts of the body,Clothes,Food,0
+,,dropdown,,beans,Transportation,Parts of the body,Clothes,Food,3
+,,dropdown,,moccasin,Transportation,Parts of the body,Clothes,Food,2
+,,dropdown,,shoulders,Transportation,Parts of the body,Clothes,Food,1
+,,dropdown,,tunic,Transportation,Parts of the body,Clothes,Food,2
+WBP4M3L12a.json,Complete the conversation choosing the appropriate adjective from the list,,,,,,,,
+,,dropdown,,Tennis is very__ here.,popular,interesting,dangerous,,0
+,,dropdown,,Kayaking is very,difficult,popular,exciting,,2
+,,dropdown,,Rock climbing is an,unusual,interesting,boring,,0
+,,dropdown,,I think cooking is,interesting,difficult,dangerous,,1

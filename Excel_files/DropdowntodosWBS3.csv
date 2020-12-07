@@ -1,0 +1,81 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBS3M1L2a.json,Choose the correct option,,,,,,,,
+,,dropdown,,Take out containers __,Can be recycled,Cannot be recycled,,,1
+,,dropdown,,plastic utensils __,Can be recycled,Cannot be recycled,,,1
+,,dropdown,,Plastic stretch wrap __,Can be recycled,Cannot be recycled,,,1
+,,dropdown,,Soft drink and beer bottles __,Can be recycled,Cannot be recycled,,,0
+,,dropdown,,"Tin, aluminum and steel cans __",Can be recycled,Cannot be recycled,,,0
+,,dropdown,,"Office paper, newspaper and cardboard __",Can be recycled,Cannot be recycled,,,0
+,,dropdown,,Polystyrene foam cups or containers __,Can be recycled,Cannot be recycled,,,1
+,,dropdown,,"phonebooks, magazines and mail __",Can be recycled,Cannot be recycled,,,0
+,,dropdown,,Plastic shopping bags __,Can be recycled,Cannot be recycled,,,1
+,,dropdown,,Cereal / snack cardboard boxes __,Can be recycled,Cannot be recycled,,,0
+,,dropdown,,Plastic bottles __,Can be recycled,Cannot be recycled,,,0
+WBS3M1L3a.json,Read the words and choose the option that describes the type of words they are.,,,,,,,,
+,,dropdown,,resources __,Noun,Adjective,verb,,0
+,,dropdown,,consumption __,Noun,Adjective,verb,,0
+,,dropdown,,efficient __,Noun,Adjective,verb,,1
+,,dropdown,,conservation __,Noun,Adjective,verb,,0
+,,dropdown,,save __,Noun,Adjective,verb,,2
+,,dropdown,,electricity bill __,Noun,Adjective,verb,,0
+,,dropdown,,spend __,Noun,Adjective,verb,,2
+,,dropdown,,renew __,Noun,Adjective,verb,,2
+WBS3M1L3b.json,Read the sentences and choose the correct answer.,,,,,,,,
+,,dropdown,,What's the past tense of the verb leak? __,Leaked,leak,,,0
+,,dropdown,,__ is the noun of the verb 'pollute',Pollutment,pollution,,,1
+,,dropdown,,What's the adjective of the verb 'renew'? __,renewable,renable,,,0
+,,dropdown,,__ is not the adjective of the noun 'resources',resourful,resourceful,,,0
+,,dropdown,,Is CONVERSATIONIST an adjective or a noun?,adjective,noun,,,1
+,,dropdown,,We say __ to refer to dirty water.,polluted water,pollut water,,,0
+,,dropdown,,"if ""consumption"" is a noun, CONSUME is a verb or an adjective? __",verb,adjective,,,0
+,,dropdown,,"""Electricity bill"" refers to one item, when you refer to 3 or 4 of them we say: __",Electricity bills,electricities bills,,,0
+,,dropdown,,"""Spend"" is not  __ verb",a regular,an irregular,,,0
+,,dropdown,,"What verb would you use with the adjective ""efficient""? __",to be,to eat,,,0
+WBS3M1L4a.json,Choose the correct adverb to complete the sentences.,,,,,,,,
+,,dropdown,,Have you had dinner __?,already,just,yet,still,2
+,,dropdown,,We __ did our homework. We started early and only took us an hour.,already,just,yet,still,0
+,,dropdown,,"Let's have some ice cream. No, thanks. I __ had some.",already,just,yet,still,1
+,,dropdown,,People are __ talking about the concert. It was great!,already,just,yet,still,3
+,,dropdown,,"If there's a lot of traffic, Mary won't be home __",already,just,yet,still,2
+WBS3M2L7a.json,Choose the Past Perfect form of these sentences.,,,,,,,,
+,,dropdown,,We drink red wine. __,We've drank red wine,We'd drink red wine,We had drank red wine,,2
+,,dropdown,,It is complicated. __,It's complicated,I had been complicated,It'd be complicated,,1
+,,dropdown,,Tom studies French. __,Tom had studied French,Tom's studied French,Tom was studying French,,0
+WBS3M2L8a.json,Complete the sentences with the correct option.,,,,,,,,
+,,dropdown,,We __ the new English teacher yet.,hadn't met,haven't met,,,1
+,,dropdown,,Sara failed the test because she,hadn't studied,hasn't studied.,,,0
+,,dropdown,,"When the police arrived, the thief __ all the money.",has taken,had taken,,,1
+,,dropdown,,__'Peruvian ceviche' until my last trip to Lima,I'd never had,I've never had,,,0
+,,dropdown,,"I lent Mike some money last month, but he __ me back yet.",hadn't paid,hasn't paid,,,1
+WBS3M2L8b.json,Find the mistake in the sentences. Then choose the correct answer.,,,,,,,,
+,,dropdown,,I __ a terrible day so I was very tired when I got home.,had had,have had,,,0
+,,dropdown,,There's no bread left. We __ it all.,had eat,had eaten,,,1
+,,dropdown,,"When the interview finished, the actor __ a lot of questions.",has answered ,had answered,,,1
+,,dropdown,,Don't buy the newspaper. You can __ mine. I have finished with it.,had,have ,,,1
+,,dropdown,,I __ left the party when you arrived.,have,had,,,1
+WBS3M3L12a.json,"Read the sentence and choose if they are requesting (R), permission (PE), expressing possibility (P) or expressing doubt (D).",,,,,,,,
+,,dropdown,,I may go to Panama but I'm not sure. __,R,PE,P,D,2
+,,dropdown,,Do you think we may see you soon? __,R,PE,P,D,2
+,,dropdown,,You may go home now. __,R,PE,P,D,1
+,,dropdown,,"May I have some coffee, please? __",R,PE,P,D,0
+,,dropdown,,You may eat whatever you want. You finished your treatment.  __,R,PE,P,D,1
+,,dropdown,,"It may rain tonight. It's cloudy, look! __",R,PE,P,D,2
+,,dropdown,,May we show you what we did por homework? __,R,PE,P,D,1
+,,dropdown,,Josh and I may take a few days off after we finish the project.  __,R,PE,P,D,2
+,,dropdown,,My mom may not eat that much. Remember she's watching her portions. __,R,PE,P,D,3
+WBS3M3L16a.json,Read the sentences. Choose R for right or W for wrong. ,,,,,,,,
+,,dropdown,,"If I had passed the English test, my parents would give me that special gift.",R,W,,,1
+,,dropdown,,We would have stopped by if we have had the time. Really!,R,W,,,0
+,,dropdown,,"If I would known before, I could have helped you.",R,W,,,1
+,,dropdown,,"If the plane had took off on time, we would have missed our connection.",R,W,,,1
+,,dropdown,,Would you have told me if you'd known the truth? ,R,W,,,0
+WBS3M5L24d.json,Classify these expressions. Choose A if the opinions express agreement or D if they express disagreement. ,,,,,,,,
+,,dropdown,,I think so.,A,D,,,0
+,,dropdown,,I don't agree with you. ,A,D,,,1
+,,dropdown,,But don't you think ...?,A,D,,,1
+,,dropdown,,That's just what I was thinking.,A,D,,,0
+,,dropdown,,That's not entirely true.,A,D,,,1
+,,dropdown,,You're absolutely right.,A,D,,,0
+,,dropdown,,I'm not so sure about that.,A,D,,,1
+,,dropdown,,So do I.,A,D,,,0
+,,dropdown,,Exactly.,A,D,,,0

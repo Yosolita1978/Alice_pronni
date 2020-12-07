@@ -1,0 +1,95 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBP1M2L6b.json,Choose the correct words,,,,,,,,
+,,dropdown,,They __ tacos.,are,aren't,,,1
+,,dropdown,,It __ oatmeal.,is,isn't ,,,1
+,,dropdown,,It __ milk.,is,isn't ,,,1
+,,dropdown,,They __ rulers.,are,aren't,,,1
+,,dropdown,,They __ books.,are,aren't,,,0
+SBP1M2L7b.json,Read and choose yes or no,,,,,,,,
+,,dropdown,,This goes with singular nouns.,yes,no,,,0
+,,dropdown,,These goes with plural nouns.,yes,no,,,0
+SBP1M2L8b.json,Choose have or has,,,,,,,,
+,,dropdown,,He __ a red mouth.,have,has,,,1
+,,dropdown,,It __ green eyes.,have,has,,,1
+,,dropdown,,He __ yellow hair.,have,has,,,1
+,,dropdown,,It __ white teeth.,have,has,,,0
+,,dropdown,,They __ black ears.,have,has,,,0
+,,dropdown,,We __ brown hair.,have,has,,,0
+SBP1M2L9b.json,Choose a or an,,,,,,,,
+,,dropdown,,I have __ umbrella.,a ,an,,,1
+,,dropdown,,You have __ blue notebook.,a,an,,,0
+,,dropdown,,He has __ pencil case.,a ,an,,,0
+,,dropdown,,I have __ orange cupcake.,a,an,,,1
+,,dropdown,,She has __ eraser.,a,an,,,1
+,,dropdown,,I have __ ice cream cone.,a,an,,,1
+SBP1M2L10a.json,Look at the picture. Read and choose YES or NO,,,,,,,,
+,,dropdown,,There's a magician.,Yes,No,,,1
+,,dropdown,,There are balloons.,Yes,No,,,0
+,,dropdown,,There are cookies.,yes,No,,,1
+,,dropdown,,There are presents.,yes,No,,,0
+,,dropdown,,There's a party hat.,yes,no,,,0
+SBP1M2L10b.json,Choose There is or There are,,,,,,,,
+,,dropdown,,__ sandwiches.,There is.,There are.,,,0
+,,dropdown,,__ a cake.,There is.,There are.,,,0
+,,dropdown,,__ candies.,There is.,There are.,,,1
+,,dropdown,,__ gifts.,There is.,There are.,,,1
+,,dropdown,,__ juice.,There is.,There are.,,,0
+SBP1M3L12a.json,Read and choose the correct answer,,,,,,,,
+,,dropdown,,Is it a pig?,"Yes, it is.","No, it isn't.",,,0
+,,dropdown,,Is it a cow?,"Yes, it is.","No, it isn't.",,,1
+,,dropdown,,Are they sheep?,"Yes, they are.","No, they aren't.",,,0
+,,dropdown,,Are they ducks?,"Yes, they are.","No, they aren't.",,,1
+SBP1M3L12b.json,Choose the correct answer. Follow the examples.,,,,,,,,
+,,dropdown,,The farmer is,young.,old.,,,1
+,,dropdown,,Ducks are ,big,small,,,1
+,,dropdown,,Giraffes are __ and pretty.,tall,short,,,0
+,,dropdown,,The pig is,young.,old.,,,1
+,,dropdown,,These horses are ,big,small,,,0
+SBP1M4L16a.json,Read and choose the correct answers.,,,,,,,,
+,,dropdown,,She __ a police car. ,drive,drives,,,1
+,,dropdown,,She __ direct the traffic,don't,doesn't,,,1
+,,dropdown,,They __ start work at 8 o'clock.,don't,doesn't,,,0
+,,dropdown,,Lucy's mom __ a uniform.,wear,wears,,,0
+,,dropdown,,She __ collect trash.,don't,doesn't,,,0
+,,dropdown,,Ted and Harry __ trash.,collect,collects,,,0
+,,dropdown,,They __ talk to children about road safety,don't,doesn't,,,0
+SBP1M4L17b.json,Choose the correct words,,,,,,,,
+,,dropdown,,What __ receptionists do? ,do ,does ,,,0
+,,dropdown,,They __ the phone.,answer,answers,,,0
+,,dropdown,,Penny is a nurse. What __ she do?,do,does,,,0
+,,dropdown,,She __ care of patients.,take,takes,,,1
+SBP1M4L18a.json,Choose yes or no,,"Can you do somersaults, Candice? Yes, I can. Can you stand on your head, Luis? No, I can't. But I can throw a ball. ",,,,,,
+,,dropdown,,Candice can __,Yes,No,,,0
+,,dropdown,,Luis can __,Yes,No,,,0
+SBP1M4L18b.json,Choose or fill the correct answer.,,,,,,,,
+,,text,,__ Jeff walk on his hands?,,,,,Can
+,,dropdown,,__,"Yes, he can","No, he can't",,,0
+,,text,,__ Susie jump rope?,,,,,Can
+,,dropdown,,__,"Yes, she can","No, she can't",,,0
+,,text,,__ Jeff catch a ball?,,,,,Can
+,,dropdown,,__,"Yes, he can","No, he can't",,,1
+SBP1M4L19a.json,Look at the toy store and answer yes or no,,,,,,,,
+,,dropdown,,There's a doll,Yes,No,,,0
+,,dropdown,,There's a bicycle.,Yes,No,,,0
+,,dropdown,,There are four cars. ,Yes,No,,,0
+,,dropdown,,There's a yellow dinosaur,Yes,No,,,1
+,,dropdown,,There's a soccer ball.,Yes,No,,,1
+SBP1M4L20a.json,Look at the picture and choose the correct options.,,,,,,,,
+,,dropdown,,There __ two buses in the picture ,is,are,,,1
+,,dropdown,,and there are __ motorbikes.,three,four,,,0
+,,dropdown,,__ many cars are there? ,what,how,,,1
+,,dropdown,,__ you see a trash truck? ,Can ,Does,,,0
+,,dropdown,,The trash collectors __ trash every day.,collect,collects,,,0
+,,dropdown,,"Is there a fire truck in the picture? No, __ isn't.",there,they,,,0
+,,dropdown,,But look! There are two police __.,officer,officers,,,1
+,,dropdown,,Find Mario. He __ a red bicycle. ,has,have,,,0
+,,dropdown,,__ is he? He's in the park.,Where,What,,,0
+SBP1M5L22a.json,Read and choose,,,,,,,,
+,,dropdown,,__ bedroom is pink.,Candice's,Jake's,,,0
+,,dropdown,,__ bedroom isn't pink. It's blue.,Candice's,Jake's,,,1
+,,dropdown,,__ toys are in a toy box.,Candice's,Jake's,,,1
+,,dropdown,,__ toys are on a shelf.,Candice's,Jake's,,,0
+SBP1M5L24a.json,Read and choose. ,,Let's buy some carrots. We don't need any carrots. Do we have any peas?,,,,,,
+,,dropdown,,We use some in positive sentences. __,Yes,no,,,0
+,,dropdown,,We use any in negative sentences. __,Yes,no,,,0
+,,dropdown,,We use any in questions. __,Yes,no,,,0

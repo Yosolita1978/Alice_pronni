@@ -1,0 +1,497 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose the correct answer",
+            "Nomenclatura": "SBP6M1L1a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Are the things Luis is talking about happening now or in the past?__",
+                    "options": [
+                        "now",
+                        "in the past",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Luis __ the summer camp.",
+                    "options": [
+                        "enjoyed",
+                        "enjoys",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He __ his family in Puebla before the camp started.",
+                    "options": [
+                        "visits",
+                        "visited",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The food at camp __ good.",
+                    "options": [
+                        "is",
+                        "was",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The campers __ races.",
+                    "options": [
+                        "ran",
+                        "run",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ jeans and snickers every day.",
+                    "options": [
+                        "wear",
+                        "wore",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He __ his Spanish at camp.",
+                    "options": [
+                        "practiced",
+                        "practices",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the sentences and choose the right answer",
+            "Nomenclatura": "SBP6M1L2a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Which word shows it's a negative sentence about the past?",
+                    "options": [
+                        "She didn't want a dog",
+                        "Why did she get a ferret?",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Which word shows it's a question about the past? ",
+                    "options": [
+                        "She didn't want a dog",
+                        "Why did she get a ferret?",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "look at the two main verbs want and get. They are in __ form.",
+                    "options": [
+                        "base",
+                        "past tense",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct option",
+            "Nomenclatura": "SBP6M1L2b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "She __ away for vacation.",
+                    "options": [
+                        "didn't went",
+                        "didn't go",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ go to the movies?",
+                    "options": [
+                        "She go",
+                        "Did she",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Why did __ a ferret?",
+                    "options": [
+                        "she choose",
+                        "she chose",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Where __ a pet?",
+                    "options": [
+                        "did she bought",
+                        "did she buy",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He __ his ferret \"Squeaky\".",
+                    "options": [
+                        "didn't call",
+                        "didn't calling",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose T or F",
+            "Nomenclatura": "SBP6M1L4a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "We use the past progressive or continuous to describe what was happening at a certain time in the past. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We also use it to say what was happening when something else happened. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The past progressive is formed with the present tense of the verb to be and the base form of the verb. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answer",
+            "Nomenclatura": "SBP6M3L11a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "You must treat everyone with respect.",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                },
+                {
+                    "question": "You musn't throw trash on the ground",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                },
+                {
+                    "question": "The sentences are about __.",
+                    "options": [
+                        "obligations",
+                        "plans",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The verb that follows must / musn't is in the __.",
+                    "options": [
+                        "past form",
+                        "base form",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Complete these rules with must or musn't",
+            "Nomenclatura": "SBP6M3L11b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Students __ be late for school.",
+                    "options": [
+                        "must",
+                        "mustn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Students __ have the correct sports uniform.",
+                    "options": [
+                        "must",
+                        "mustn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "They __ keep the classroom trash-free.",
+                    "options": [
+                        "must",
+                        "mustn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Students __ listen when others are talking. ",
+                    "options": [
+                        "must",
+                        "mustn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Students __ bully other students.",
+                    "options": [
+                        "must",
+                        "mustn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Students __ bring chewing gum to school.",
+                    "options": [
+                        "must",
+                        "mustn't ",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answer.",
+            "Nomenclatura": "SBP6M3L14a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Which sentence says it's not necessary to do something? __",
+                    "options": [
+                        "You mustn't give the fish too much to eat.",
+                        "You don't have to change the water.",
+                        "You don't have to change the water.",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Which sentence prohibits an action?__",
+                    "options": [
+                        "You mustn't give the fish too much to eat.",
+                        "You don't have to change the water.",
+                        "You mustn't give the fish too much to eat.",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answer",
+            "Nomenclatura": "SBP6M4L16a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Water boils if you heat it to 100 degrees Celsius. Water freezes when it reaches zero degrees Celsius. If you add salt to fresh water, it freezes at a lower temperature. When you add salt to fresh water, it freezes at a lower temperature.",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                },
+                {
+                    "question": "The sentences are about scientific facts. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The zero conditional has the present simple in both clauses. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Both if and when can be used with the same meaning. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The if and when clauses must always come first. __",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answer",
+            "Nomenclatura": "SBP6M4L18a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "If a dog starts running towards you, you shouldn't run away. If it comes towards you, try to stand still. If a friendly-looking dog runs towards you, don't touch it. If the owner says it's OK, you can touch it. If a dog bites or scratches you, you must tell an adult immediately. ",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                },
+                {
+                    "question": "The sentences give general rules and advice. ",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The \"if\" clause is in the present simple. ",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The other clause has an imperative or a modal: should / shouldn't / must / mustn't / can / can't / etc. ",
+                    "options": [
+                        "T",
+                        "F",
+                        "T",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

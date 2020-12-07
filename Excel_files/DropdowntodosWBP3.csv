@@ -1,0 +1,76 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBP3M1L4a.json,Select the correct word ,,,,,,,,
+,,dropdown,,Listen __ the music!,in,down,up,to,3
+,,dropdown,,Sit __ and eat your supper!,down,for,back,out,0
+,,dropdown,,Hurry __ ! We're late!,to,out,down,up,3
+,,dropdown,,Look __ the letters.,back,for,at,out,2
+,,dropdown,,"I'm looking __ my school bag, but I can't find it!",down,for,back,out,1
+,,dropdown,,Come __ ! Nice to see you!,in,down,up,to,0
+,,dropdown,,"Come __ , Spot!",down,back,to,in,1
+,,dropdown,,I'm going __ ! See you later!,down,for,back,out,3
+WBP3M2L7a.json,Follow the lines. What do they do? What don't they do? Select True or False.,,PP 20 ,,,,,,
+,,dropdown,,Mary plays the violin.,TRUE,FALSE,,,0
+,,dropdown,,She doesn't roller skate.,TRUE,FALSE,,,0
+,,dropdown,,Lety and Beatriz dance ballet. ,TRUE,FALSE,,,1
+,,dropdown,,They don't water sky.,TRUE,FALSE,,,1
+,,dropdown,,Roberto plays soccer.,TRUE,FALSE,,,1
+,,dropdown,,He swims. ,TRUE,FALSE,,,0
+,,dropdown,,Eduardo and Joel don't ski.,TRUE,FALSE,,,0
+,,dropdown,,They play basketball.,TRUE,FALSE,,,0
+WBP3M2L7a.json,Choose the correct answer.,,,,,,,,
+,,dropdown,,"Her favorite sport is skating, so she goes skating every week. ",She often goes skating,She never goes skating,She sometimes goes skating.,,0
+,,dropdown,,He watches cartoons just on friday afternoons. not every day.,He never watches cartoons.,He sometimes watches cartoons.,He always watches cartoons.,,1
+,,dropdown,,I read a book at bedtime every night.,I often read a book at bedtime,I sometimes read a book at bedtime,I always read a book at bedtime.,,2
+,,dropdown,,Her cousins live in a different country so she dosn't see them.,She sometimes plays with her cousins.,She never plays with her cousins,She often plays with her cousins,,1
+WBP3M3L12a.json,Complete the story and then read it aloud. ,,,,,,,,
+,,text,,"Emma Early is never late! School starts __ 8:30,",,,,,at
+,,text,,so she always arrives __ 8:15.,,,,,at
+,,text,,__ Tuesday afternoons,,,,,On
+,,text,,"her Karate class starts __ 4:00,",,,,,at
+,,text,,so she arrives at the gym __ 3:45.,,,,,at
+,,text,,__ Saturdays,,,,,On
+,,text,,__ the morning she has swimming class. She's always 15 minutes early.,,,,,in
+,,text,,She's the first person __ the swimming pool. ,,,,,at
+,,text,,__ the evenings she watches her favorite TV program.,,,,,In
+,,text,,"It starts __ 7:00,",,,,,at
+,,text,,so Emma turns the TV on __ 6:45.,,,,,at
+WBP3M2L14b.json,Complete the dictionary entries. ,,,,,,,,
+,,text,,__ / noun / a place where children go to learn.,,,,,school
+,,text,,__ / noun/ a building where you can see many valuable and important objects.,,,,,museum
+,,text,,__ /noun / a place you go to see movies.,,,,,movie theatre
+,,text,,"__ / noun / in a town, an open area with grass and trees and places for children to play. ",,,,,park
+,,text,,__ / noun / a place where people buy gasoline for their cars.,,,,,gas station
+,,text,,__ / noun / a place where people can keep their money.,,,,,bank
+,,text,,__ / noun / a store where you buy toys.,,,,,toy store
+WBP5M2L22a.json,Complete the sentences with the full date. ,,,,,,,,
+,,text,,New Year's Day is on __ (Jan 1st),,,,,January first.
+,,text,,The Battle of Puebla is on __ (May 5th),,,,,May fifth.
+,,text,,Mexican Independence Day is on __ (Sep 16th),,,,,September sixteenth.
+,,text,,Day of the Virgin of Guadalupe is on __ (Dec 12th),,,,,December twelfth.
+,,text,,Father's Day is  __ (June),,,,,in June.
+WBP5M2L22b.json,Write the months in order. ,,,,,,,,
+,,text,,1 __ ,,,,,January
+,,text,,2 __ ,,,,,February
+,,text,,3 __ ,,,,,March
+,,text,,4 __ ,,,,,April
+,,text,,5 __ ,,,,,May
+,,text,,6 __ ,,,,,June
+,,text,,7 __ ,,,,,July
+,,text,,8 __ ,,,,,August
+,,text,,9 __ ,,,,,September
+,,text,,10 __ ,,,,,October
+,,text,,11 __ ,,,,,November
+,,text,,12 __ ,,,,,December
+WBP5M2L22b.json,Write the words.,,,,,,,, 
+,,text,,1st,,,,,First
+,,text,,2nd,,,,,Second
+,,text,,3rd,,,,,Third
+,,text,,4th,,,,,Fourth
+,,text,,5th,,,,,Fifth
+,,text,,6th,,,,,Sixth
+,,text,,7th,,,,,Seventh
+,,text,,8th,,,,,Eight
+,,text,,9th,,,,,Ninth
+,,text,,10th,,,,,Tenth
+,,text,,11th,,,,,Eleventh
+,,text,,12th,,,,,Twelfth

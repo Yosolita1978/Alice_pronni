@@ -1,0 +1,84 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBP2M1L2a.json,Read and then choose the correct word,,,,,,,,
+,,dropdown,,I like peas __ I don't like lettuce,and,but,,,1
+,,dropdown,,I like potatoes __ I like cabbage,and,but,,,0
+,,dropdown,,I don't like broccolli __ I like tomatoes.,and,but,,,1
+SBP2M1L4a.json,Look at the examples and choose the correct option,,,,,,,,
+,,dropdown,,The bread is __ the basket.,in,on,,,0
+,,dropdown,,The peanut butter jars are __ the bottom shelf.,in,on,,,1
+,,dropdown,,The butter is __ the bread.,next to,between,,,0
+,,dropdown,,The mayonaisse is __ ketchup and mustard.,on,between,,,1
+SBP2M2L5a.json,Read and choose,,,,,,,,
+,,dropdown,,"The children's t-shirts are on the washing line. __ socks and jeans are on the washing line, too.",Our,Their,,,0
+,,dropdown,,Dad's underpants are next to Jake's jeans! __ underpants are enormous!,His,Her,,,0
+SBP2M2L9a.json,Choose there is or there are,,,,,,,,
+,,dropdown,,__ a sword in Enrique's hand.,There is,There are,,,0
+,,dropdown,,__ an eye patch on the table.,There is,There are,,,0
+,,dropdown,,__ coronets under the table.,There is,There are,,,1
+,,dropdown,,__ super hero costumes.,There is,There are,,,1
+SBP2M3L13a.json,Choose the correct options,,,,,,,,
+,,dropdown,,Clean your tent!,Affirmative,Negative,,,0
+,,dropdown,,Don't leave your t-shirts on the ground!,Affirmative,Negative,,,1
+SBP2M3L14a.json,Choose the incorrect sentence,,,,,,,,
+,,dropdown,,,Look at that beautiful carousel,Look at the carousel beautiful,,,0
+SBP2M4L18a.json,Read and choose yes or no,,What's a kangaroo like? It's big. It has a long tail and strong back legs. What are spiders like? They're small. They're black. They have eight legs. ,,,,,,
+,,dropdown,,The questions What's it like? What are they like? ask for a description.,Yes,No,,,0
+SBP2M4L19a.json,Read and choose the correct answer,,,,,,,,
+,,dropdown,,How many triangles are there? There are twenty. Questions with How many? ask about: __,the position of things,the quantity of things,,,1
+SBP2M5L21a.json,Read and choose the correct answer,,Lucy: Who's that with the purple sweater?,,,,,,
+,,dropdown,,Who asks about: __,a person,a thing,a color,,0
+SBP2M5L23a.json,Read and choose the correct answer,,Is there any cheese? Yes there is. ,,,,,,
+,,dropdown,,We use __ in questions and in negative sentences. ,some,any,,,1
+SBP2M5L23b.json,Write 'Is there any?' or 'Are there any?' Choose the correct answer.,,,,,,,,
+,,text,,__ lemonade? ,,,,,Is there any
+,,dropdown,,__,Yes,no,,,0
+,,text,,__ strawberries?,,,,,Are there any
+,,dropdown,,__,Yes,no,,,0
+,,text,,__ butter?,,,,,Is there any
+,,dropdown,,__,Yes,no,,,1
+,,text,,__ tomatoes?,,,,,Are there any
+,,dropdown,,__,Yes,no,,,1
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,Let's buy some carrots. We don't need any carrots. Do we have any peas?,,,,,,

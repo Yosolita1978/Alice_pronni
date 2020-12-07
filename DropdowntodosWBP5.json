@@ -1,0 +1,235 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose down or up to make phrasal verbs to complete the sentences",
+            "Nomenclatura": "WBP5M1L4a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "The car broke __ on the way to the movies",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Slow __. You're going very fast.",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She gets __ late on weekends.",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Hurry __ ! we're going to be late to the movies",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "For this delicious soup, first cut __ all the vegetables.",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Write __ your address next to your name, please.",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Turn __ the music! It's too loud! I can't hear myself think!",
+                    "options": [
+                        "down",
+                        "up",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Look at the pictures. Choose I'd rather or I'd prefer.",
+            "Nomenclatura": "WBP5M2L7a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "a) Would you like to go kayaking? __ go swimming.",
+                    "options": [
+                        "I'd rather",
+                        "I'd prefer",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "b) Would you like to have an hamburger? __ have a hot dog.",
+                    "options": [
+                        "I'd rather",
+                        "I'd prefer",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "c) Would you like to listen to music? __ to watch T.V.",
+                    "options": [
+                        "I'd rather",
+                        "I'd prefer",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "d) Would you like to visit Washington? __ go to the beach.",
+                    "options": [
+                        "I'd rather",
+                        "I'd prefer",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct sport category for each word",
+            "Nomenclatura": "WBP5M2L7b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "bat ",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "cap",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "pump",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "swim suit",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "net",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "goggles",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "helmet ",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "racket",
+                    "options": [
+                        "baseball",
+                        "tennis",
+                        "cycling",
+                        "swimming"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

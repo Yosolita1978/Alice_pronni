@@ -1,0 +1,365 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Read and choose",
+            "Nomenclatura": "SBP5M1L1a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                },
+                {
+                    "question": "The form is be + going to + __",
+                    "options": [
+                        "a) the ing form of the verb",
+                        "b) the base form of the verb",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose could or couldn't",
+            "Nomenclatura": "SBP5M1L3c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "She didn't speak russian so she __ understand the conversation",
+                    "options": [
+                        "could",
+                        "couldn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "When she was 4, she __ swim like a fish. She loved the water!",
+                    "options": [
+                        "could",
+                        "couldn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My great grandma __ make delicious cakes. I specially liked her chocolate one.",
+                    "options": [
+                        "could",
+                        "couldn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "When I was younger, I  __ skate well. I kept falling over.",
+                    "options": [
+                        "could",
+                        "couldn't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose the correct answer",
+            "Nomenclatura": "SBP5M2L6a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "\"I'd like to\" is a more polite way of saying 'I want to...\" __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"d\" is short for \"had\" __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"Would you like to...?\" is a more polite way of saying \"Do you want to...?\" __",
+                    "options": [
+                        "T",
+                        "F",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read the sentences and choose yes or no",
+            "Nomenclatura": "SBP5M2L8a.json",
+            "header": "You should pull out the sting.",
+            "questions": [
+                {
+                    "question": "The sentences give advice about what to do and what not to do __",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Should and shouldn't are followed by \"to+verb\" __",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "Read and choose",
+            "Nomenclatura": "SBP5M3L11a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "These sentences talk about Paulo's life up now. They __ when the experiences happened.",
+                    "options": [
+                        "mention",
+                        "do not mention",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "This tense (the present perfect) is formed by the verb __",
+                    "options": [
+                        "be + past participle",
+                        "have + past participle",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose",
+            "Nomenclatura": "SBP5M3L13a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "The sentences are talking about __",
+                    "options": [
+                        "someone's life up to now",
+                        "a specific moment in the past",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read and choose",
+            "Nomenclatura": "SBP5M3L14a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Just means __",
+                    "options": [
+                        "a long time ago",
+                        "a short time ago",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct word",
+            "Nomenclatura": "SBP5M3L15b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "I was __ swimming in the ",
+                    "options": [
+                        "lovely",
+                        "horrible",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__",
+                    "options": [
+                        "ocean",
+                        "pool",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Heidi and Walt played in the water for two hours. Now it's time to eat their picnic. ",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                },
+                {
+                    "question": "Mum and Dad have laid everything __ a blanket on the sand. It's a lovely picnic. Heidi is really enjoying it.",
+                    "options": [
+                        "on",
+                        "next to",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Heidi has __ finished her lunch.",
+                    "options": [
+                        "just",
+                        "yet",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct words",
+            "Nomenclatura": "SBP5M4L19b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Kena __ India last summer with her family. ",
+                    "options": [
+                        "visited",
+                        "has visited",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ many new friends since the beginning of the year. ",
+                    "options": [
+                        "made",
+                        "has made",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ a sari to the party last weekend.",
+                    "options": [
+                        "wore",
+                        "has worn",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ Candice yet. Candice is in Grade 5. ",
+                    "options": [
+                        "didn't meet",
+                        "hasn't met",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ a friendship bracelet to Celia yesterday. ",
+                    "options": [
+                        "gave",
+                        "has given",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She __ to New York, but she'd like to one day.",
+                    "options": [
+                        "didn't go",
+                        "has never been",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

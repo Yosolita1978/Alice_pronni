@@ -1,0 +1,14 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBP6M1L4a.json,Choose the correct option.,,,,,,,,
+,,dropdown,,She __ her homework when her dad came home. ,was doing,is doing,were doing,,0
+,,dropdown,,What __ when you say him?,is Peter doing,Peter did,was Peter doing,,2
+,,dropdown,,It was a lovely day. The sun __ .,shines,was shining,shined,,1
+,,dropdown,,__ when I called you?,Do you study,were you studying,are you studying,,1
+,,dropdown,,__ when the phone rang.,I was having lunch,I had lunch,I have lunch,,0
+WBP6M3L12a.json,Choose the correct form of the verb,,,,,,,,
+,,dropdown,,Mr. Denman is a policeman. He __ wear an uniform.,have to,has to,,,1
+,,dropdown,,She's short-sighted. She __ wear glasses to see the board. ,need to,needs to,,,1
+,,dropdown,,This is a library book. I __ return it back to the library.,have to,has to,,,0
+,,dropdown,,School starts at 8 o'clock. We __ wake up very early to get there on time.,have to,has to,,,0
+,,dropdown,,Danny has a toothache. He __ go to the dentist.,need to,needs to,,,1
+,,dropdown,,They have a lot of homework. They __ finish now!,need to,needs to,,,0

@@ -1,0 +1,21 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBS2M1L5a.json,Answer True or False,,,,,,,,
+,,dropdown,,People don't like the environment or Mother Nature,TRUE,FALSE,,,1
+,,dropdown,,The Earth is suffering the consequences of our modern life style,TRUE,FALSE,,,0
+,,dropdown,,A family in Malaysia became rich selling vegetarian food.,TRUE,FALSE,,,1
+,,dropdown,,Natural disasters help the Earth become stronger.,TRUE,FALSE,,,1
+,,dropdown,,The United Nations are helping to cut down greenhouse gas emissions,TRUE,FALSE,,,0
+WBS2M2L8a.json,Choose the correct word to complete the sentences,,,,,,,,
+,,dropdown,,I was so __ when I won the lottery last year.,happy ,annoyed,unhappy,,0
+,,dropdown,,I was very __ that something bad happened to you!,happy ,worried,proud,,1
+,,dropdown,,I am very you have decided to help me with this hard task.,content,annoyed,unhappy,,0
+,,dropdown,,I am very __ with my cat. It is lazy and doesn't hunt any mice.,content,proud,annoyed,,2
+WBS2M2L8b.json,How would you feel in these situations? Use the adjectives from the previous exercise.,,,,,,,,
+,,,,You go to town with odd shoes on.,content,proud,annoyed,,2
+,,,,You lose your credit cards.,content,proud,annoyed,,2
+,,,,A friend breaks a promise.,content,proud,annoyed,,2
+,,,,You win a lot of money.,content,proud,annoyed,,0
+,,,,A friend can't come to your party.,content,proud,annoyed,,2
+,,,,Your friend moves to another country.,content,proud,annoyed,,2
+,,,,You don't understand some grammar,content,proud,annoyed,,2
+,,,,You are going on holiday soon. ,content,proud,annoyed,,0

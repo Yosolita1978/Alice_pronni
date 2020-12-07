@@ -1,0 +1,37 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBP5M1L1a.json,Read and choose,dropdown,,The sentences are talking about __,a) future plans.,b) things they did in the past.,,,0
+,,,,,,,,,
+,,dropdown,,The form is be + going to + __,a) the ing form of the verb,b) the base form of the verb,,,1
+SBP5M1L3c.json,Choose could or couldn't,,,,,,,,
+,,dropdown,,She didn't speak russian so she __ understand the conversation,could,couldn't,,,1
+,,dropdown,,"When she was 4, she __ swim like a fish. She loved the water!",could,couldn't,,,0
+,,dropdown,,My great grandma __ make delicious cakes. I specially liked her chocolate one.,could,couldn't,,,0
+,,dropdown,,"When I was younger, I  __ skate well. I kept falling over.",could,couldn't,,,1
+SBP5M2L6a.json,Read and choose the correct answer,,,,,,,,
+,,dropdown,,"""I'd like to"" is a more polite way of saying 'I want to..."" __",T,F,,,0
+,,dropdown,,"""d"" is short for ""had"" __",T,F,,,1
+,,dropdown,,"""Would you like to...?"" is a more polite way of saying ""Do you want to...?"" __",T,F,,,0
+SBP5M2L8a.json,Read the sentences and choose yes or no,,You should pull out the sting.,,,,,,
+,,dropdown,,The sentences give advice about what to do and what not to do __,Yes,No,,,0
+,,dropdown,,"Should and shouldn't are followed by ""to+verb"" __",Yes,No,,,1
+,,,,,,,,,
+SBP5M3L11a.json,Read and choose,,,,,,,,
+,,dropdown,,These sentences talk about Paulo's life up now. They __ when the experiences happened.,mention,do not mention,,,1
+,,dropdown,,This tense (the present perfect) is formed by the verb __,be + past participle,have + past participle,,,1
+SBP5M3L13a.json,Read and choose,,,,,,,,
+,,dropdown,,The sentences are talking about __,someone's life up to now,a specific moment in the past,,,0
+SBP5M3L14a.json,Read and choose,,,,,,,,
+,,dropdown,,Just means __,a long time ago,a short time ago,,,1
+SBP5M3L15b.json,Choose the correct word,,,,,,,,
+,,dropdown,,I was __ swimming in the ,lovely,horrible,,,0
+,,dropdown,,__,ocean,pool,,,0
+,,,,Heidi and Walt played in the water for two hours. Now it's time to eat their picnic. ,,,,,
+,,dropdown,,Mum and Dad have laid everything __ a blanket on the sand. It's a lovely picnic. Heidi is really enjoying it.,on,next to,,,0
+,,dropdown,,Heidi has __ finished her lunch.,just,yet,,,0
+SBP5M4L19b.json,Choose the correct words,,,,,,,,
+,,dropdown,,Kena __ India last summer with her family. ,visited,has visited,,,0
+,,dropdown,,She __ many new friends since the beginning of the year. ,made,has made,,,1
+,,dropdown,,She __ a sari to the party last weekend.,wore,has worn,,,0
+,,dropdown,,She __ Candice yet. Candice is in Grade 5. ,didn't meet,hasn't met,,,1
+,,dropdown,,She __ a friendship bracelet to Celia yesterday. ,gave,has given,,,0
+,,dropdown,,"She __ to New York, but she'd like to one day.",didn't go,has never been,,,1

@@ -1,0 +1,133 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBS1M1L1a.json,Is it /ch/ or /sh/?,,,,,,,,
+,,dropdown,,__eep,ch,sh,,,1
+,,dropdown,,__ip,ch,sh,,,1
+,,dropdown,,wit__,ch,sh,,,0
+,,dropdown,,__eese,ch,sh,,,0
+,,dropdown,,__ip,ch,sh,,,1
+,,dropdown,,ca__,ch,sh,,,1
+,,dropdown,,__icken,ch,sh,,,0
+,,dropdown,,__ark,ch,sh,,,1
+WBS1M1L5a.json,Read the text and answer true or false,,,,,,,,
+,,dropdown,,It is always safe to surf the net. __,TRUE,FALSE,,,1
+,,dropdown,,Sites with a valid security certificate has an 'S' in the address. __,TRUE,FALSE,,,0
+,,dropdown,,Click baits tell you if you win a prize online. __,TRUE,FALSE,,,1
+,,dropdown,,It is OK to share your password with your friends. __,TRUE,FALSE,,,1
+,,dropdown,,A computer virus can wipe out your operating system. __,TRUE,FALSE,,,0
+WBS1M2L6c.json,Choose the correctf form of the verb,,,,,,,,
+,,dropdown,,You __ sick last week. How do you feel now?,were,was,,,0
+,,dropdown,,Tom and I __ at the concert last night.,were,was,,,0
+,,dropdown,,Tania __ sure about the concert tickets.,wasn't,weren't,,,0
+,,dropdown,,We __ home last night. ,wasn't,weren't,,,1
+,,dropdown,,We __ at the movies.,were,was,,,0
+,,dropdown,,__ you happy with all your presents?,Were,Was,,,0
+WBS1M2L8b.json,Choose the correct verb to complete the sentences,,,,,,,,
+,,dropdown,,Natalie __ all the way home because she missed the bus.,ran,run,,,0
+,,dropdown,,Yesterday we went to Enrique's and we __ way too much barbecue.,eat,ate,,,1
+,,dropdown,,The teacher was at the door! We all quickly __ down and waited.,sit,sat,,,1
+,,dropdown,,Peter __ the trash out and Dad was mad. ,didn't take,took,,,0
+,,dropdown,,Hey! You __ for me at the end of the school day. ,waited,didn't wait,,,1
+WBS1M2L8c.json,Complete the words with ee or ie,,,,,,,,
+,,dropdown,,Tr__,ee,ie,,,0
+,,dropdown,,F__ld,ee,ie,,,1
+,,dropdown,,Sh__ld,ee,ie,,,1
+,,dropdown,,Kn__,ee,ie,,,0
+,,dropdown,,T__th,ee,ie,,,0
+,,dropdown,,Bel__f,ee,ie,,,1
+,,dropdown,,Mov__,ee,ie,,,1
+,,dropdown,,D__r,ee,ie,,,0
+,,dropdown,,Pr__st,ee,ie,,,1
+,,dropdown,,S__d,ee,ie,,,0
+,,dropdown,,Agr__,ee,ie,,,0
+,,dropdown,,Ch__f,ee,ie,,,1
+WBS1M2L9c.json,Choose can or can't to complete the sentences,,,,,,,,
+,,dropdown,,My dad only speaks English. He __ speak French.,can,can't,,,1
+,,dropdown,,There's a party tonight. __ you come?,can,can't,,,0
+,,dropdown,,"It's really dark here, I __ see anything.",can,can't,,,1
+,,dropdown,,She's a great singer. She __sing nicely.,can,can't,,,0
+,,dropdown,,Which sports __ you play?,can,can't,,,0
+WBS1M2L9d.json,Choose ei or ey to complete the words.,,,,,,,,
+,,dropdown,,__ght,ei,ey,,,0
+,,dropdown,,gr__,ei,ey,,,1
+,,dropdown,,be__ge,ei,ey,,,0
+,,dropdown,,ob__,ei,ey,,,1
+,,dropdown,,h__,ei,ey,,,1
+,,dropdown,,th__,ei,ey,,,1
+,,dropdown,,sl__g,ei,ey,,,0
+,,dropdown,,w__ght,ei,ey,,,0
+,,dropdown,,pr__,ei,ey,,,1
+,,dropdown,,v__n,ei,ey,,,0
+WBS1M3L12a.json,Complete the sentences. Choose the correct preposition,,,,,,,,
+,,dropdown,,My sister is __ the kitchen,in,on,behind,,0
+,,dropdown,,I'm waiting for my friend __ her house.,between,under,in front of,,2
+,,dropdown,,I like sitting __ my mom and dad on the couch.,under,between,on,,1
+,,dropdown,,My cat sleeps __ my bed.,on,above,in  ,,0
+,,dropdown,,My uncle specializes __ marine biology.,on,above,in  ,,2
+,,dropdown,,I put my books __ the computer.,out of,under,behind,,2
+,,dropdown,,My brother left his shoes __ the table.,under,above,inside,,0
+,,dropdown,,Gretel sat __ Alex at the party.,down,under,near,,2
+,,dropdown,,The runners went __ the avenue.,along,up,in front of,,0
+,,dropdown,,Our new house is __ the river.,between,across,into,,1
+,,dropdown,,We have a valuable painting __ the couch.,above,along,out of,,0
+,,dropdown,,I saw a big spider __ the bathroom.,down,in,on,,1
+WBS1M3L14a.json,Choose the correct word to complete the article.,,,,,,,,
+,,dropdown,,Last night a fire broke out on Henley Hill at around 6:00 pm. It __.,started,was starting,,,0
+,,dropdown,,when lightning __ a dead tree.,struck,was striking,,,0
+,,dropdown,,It __ a very dry summer last year.,was,were,,,0
+,,dropdown,,There __ some campers at the foot of the hill,was,were,,,1
+,,dropdown,,__ the lake.,behind,next to,,,1
+,,dropdown,,Two complete teen scout troops __ there too. ,were camping,camped,,,0
+,,dropdown,,"Sergeant William Riker, leader of the scout troops, __ the evacuation of the area",organized,was organizing,,,0
+,,dropdown,,as soon as he __ the flames on the hill.,saw,was seeing,,,0
+,,dropdown,,"""The kids were __ for two weeks now and",training,trained,,,1
+,,dropdown,,__ exactly what to do.,were knowing,knew,,,1
+,,dropdown,,We __ down Left Hand Canyon to the emergency center when he,were driving,drove,,,0
+,,dropdown,,__ the firefighters on their way to the fire. ,were seeing,saw,,,1
+,,dropdown,,"We __ our paths!"". ",crossed,were crossing,,,0
+WBS1M3L15a.json,Choose the correct verb to complete the sentences,,,,,,,,
+,,dropdown,,I __ I didn't hear you came in.,was sleeping,slept,,,0
+,,dropdown,,"I __ to see her twice, but she wasn't home.",was coming,came,,,1
+,,dropdown,,What __ I was watching Tv.,did you do?,were you doing?,,,1
+,,dropdown,,Robin Hood was a character who __ from the rich and gave to the poor.,stole,stealing,,,0
+,,dropdown,,I __ home very late last night.,came,was coming,,,0
+,,dropdown,,We __ breakfast when she walked into the room.,had,were having,,,1
+WBS1M3L15b.json,Complete the following story by choosing the correct words.,,,,,,,,
+,,dropdown,,"Last night, Johnny __ through the park.",was walking,walked,,,0
+,,dropdown,,It __ late and dark.,was ,were,,,0
+,,dropdown,,"Just as he passed through the middle of the park, he __ something on his skin.",was feeling,felt,,,1
+,,dropdown,,"He __ a shadow, it",saw,was seeing,,,0
+,,dropdown,,__ somewhere,float,was floating,,,1
+,,dropdown,,__ him.,above,below,,,0
+,,dropdown,,He was very scared. So he __ to run but the shadow just,started,was starting,,,0
+,,dropdown,,__ him as he,followed ,follows,,,0
+,,dropdown,,__.,running ,ran,,,1
+,,dropdown,,"Finally he screamed out for help. ""Mom! Help!"", he __",was yelling,yelled,,,1
+,,dropdown,,"Just as he was about to fall, he __ his Mom at the front door.",found,was finding,,,0
+WBS1M4L16a.json,Choose the correct verb to complete the sentences.,,,,,,,,
+,,dropdown,,My grandparents __ in Miami since 1998.,lived,have lived,,,1
+,,dropdown,,I __ to Guanajuato 5 times,was,have been,,,1
+,,dropdown,,Have you ever __ to Coatzacoalcos?,been,be,,,0
+,,dropdown,,Sean __ too much coffee today.,has drunk,drank,,,0
+,,dropdown,,Phillip and Marianne __ their rooms yet.,haven't cleaned,didn't clean,,,0
+WBS1M5L24a.json,Choose the correct word and complete the dialog.,,Andy: Hello Mr. Jones! How are you today? ,,,,,,
+,,dropdown,,"Andy: Well, if you want, I __ take Flossy with us. ",can,can't,,,0
+,,dropdown,,"Mr. Jones: I don't know, that dog looks awfully big. __ you leave him home? ",should,could,,,1
+,,dropdown,,"Andy: Sorry, Mr. Jones. If I __ him home, he will chew up all my shoes. ",leave,left,,,0
+,,dropdown,,Mr. Jones: I guess we __ wait.,should,must,,,0
+,,,,"Andy: Ok, Mr. Jones. I'll come by later.",,,,,
+WBS1M5L24b.json,Choose the correct preposition to complete the sentences. ,,"When Susie's grandfather fell and broke his hip, the family took him home to take care of him until he got better.",,,,,,
+,,dropdown,,They put him __ one of the downstairs bedrooms. ,in,on,,,0
+,,dropdown,,He had been staying __ the local General Hospital.,on,at,,,1
+,,dropdown,,He lives __ Toluca but they brought him home to Mexico City.,at,in,,,1
+,,dropdown,,Susie loves her grandpa very much and wants to help __ the care.,with,in,,,0
+,,,,,,,,,
+WBS1M5L25a.json,Choose the correct preposition to complete the text.,,,,,,,,
+,,dropdown,,Wings of rescue is an organization that rescues dogs and cats that are __ risk of being euthanized because nobody has adopted them from the shelter. ,in,at,,,1
+,,dropdown,,Cindy Smith started it __ 2012,in,on,,,0
+,,dropdown,,__ California.,in,on,,,0
+,,dropdown,,This little dog was found __ the corner of 13th and Mapleton ,on ,at,,,0
+,,dropdown,,and he ended up __ a shelter ,on ,at,,,1
+,,dropdown,,__ a cage. ,inside,outside,,,0
+,,dropdown,,The shelter was overcrowded and they hope Wings of Rescue can help them move some dogs and cats close __,to,into,,,1
+,,dropdown,,loving homes __ other parts of the nation. ,in,at,,,0
+,,dropdown,,Volunteer pilots and teams get the dogs and cats to the airport and help put the cages __ of the planes.,onto,out,,,0

@@ -1,0 +1,15 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+WBP2M2L10b.json,Choose the correct option,,,,,,,,
+,,dropdown,,img pants,Boys,Girls,Both,,2
+,,dropdown,,img socks,Boys,Girls,Both,,2
+,,dropdown,,img skirt,Boys,Girls,Both,,2
+,,dropdown,,img sweater,Boys,Girls,Both,,2
+WBP2M5L23b.json,Complete the questions about your store. Choose yes or no.,,,,,,,,
+,,text,,__ any ham?,,,,,Is there any
+,,dropdown,,__  ,yes,no,,,
+,,text,,__ a carrot?,,,,,Is there a
+,,dropdown,,__,yes,no,,,
+,,text,,__ plums?,,,,,Is there a
+,,dropdown,,__,yes,no,,,
+,,text,,__ milk?,,,,,Is there any
+,,dropdown,,__,yes,no,,,

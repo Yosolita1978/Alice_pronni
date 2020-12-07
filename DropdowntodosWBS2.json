@@ -1,0 +1,213 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Answer True or False",
+            "Nomenclatura": "WBS2M1L5a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "People don't like the environment or Mother Nature",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The Earth is suffering the consequences of our modern life style",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "A family in Malaysia became rich selling vegetarian food.",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Natural disasters help the Earth become stronger.",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The United Nations are helping to cut down greenhouse gas emissions",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct word to complete the sentences",
+            "Nomenclatura": "WBS2M2L8a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "I was so __ when I won the lottery last year.",
+                    "options": [
+                        "happy ",
+                        "annoyed",
+                        "unhappy",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I was very __ that something bad happened to you!",
+                    "options": [
+                        "happy ",
+                        "worried",
+                        "proud",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I am very you have decided to help me with this hard task.",
+                    "options": [
+                        "content",
+                        "annoyed",
+                        "unhappy",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I am very __ with my cat. It is lazy and doesn't hunt any mice.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "How would you feel in these situations? Use the adjectives from the previous exercise.",
+            "Nomenclatura": "WBS2M2L8b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "You go to town with odd shoes on.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "2",
+                    "type": ""
+                },
+                {
+                    "question": "You lose your credit cards.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "2",
+                    "type": ""
+                },
+                {
+                    "question": "A friend breaks a promise.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "2",
+                    "type": ""
+                },
+                {
+                    "question": "You win a lot of money.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "0",
+                    "type": ""
+                },
+                {
+                    "question": "A friend can't come to your party.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "2",
+                    "type": ""
+                },
+                {
+                    "question": "Your friend moves to another country.",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "2",
+                    "type": ""
+                },
+                {
+                    "question": "You don't understand some grammar",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "2",
+                    "type": ""
+                },
+                {
+                    "question": "You are going on holiday soon. ",
+                    "options": [
+                        "content",
+                        "proud",
+                        "annoyed",
+                        ""
+                    ],
+                    "correct": "0",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

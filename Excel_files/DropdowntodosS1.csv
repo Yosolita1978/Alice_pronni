@@ -1,0 +1,49 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBS1M1L3b.json,Choose the correct option,,,,,,,,
+,,dropdown,,__,The TV no is working,The TV is not working,,,1
+,,dropdown,,__,She is no send a message.,She is not sending a message.,,,1
+,,dropdown,,__,The film's starting.,The film's start,,,0
+,,dropdown,,__,Are you going to violin class?,Do you going to violin class?,,,0
+,,dropdown,,__,Does he going to buy some milk?,Is he going to buy some milk?,,,1
+SBS1M1L4a.json,Read and choose the correct option,,,,,,,,
+,,dropdown,,I __ from 9 to 5 every day.,work,works,,,0
+,,dropdown,,Mariana __ a movie now.,is watching,are watching,,,0
+,,dropdown,,Eduardo __ soccer on saturday.,plays,playing,,,0
+,,dropdown,,We __ a cup of coffee.,drinks,are drinking,,,1
+,,dropdown,,Ariel __ an email to her boyfriend.,is writing,is writeing,,,0
+SBS1M2L6b.json,Choose the answer,,,,,,,,
+,,dropdown,,The girls are describing the singers and talking about what they __,did in the past,are doing now,may do in the future,,0
+SBS1M3L12b.json,Choose PO (Preposition of Location) or PD (preposition of Direction) for each sentence.,,,,,,,,
+,,dropdown,,Paul went into the kitchen and took some orange juice out of the fridge,PO,PD,,,0
+,,dropdown,,Check that the bread is on the table and the eggs are in the cupboard. ,PO,PD,,,0
+,,dropdown,,There is a veggie restaurant across the street,PO,PD,,,1
+,,dropdown,,He walked along the river for an hour.,PO,PD,,,1
+,,dropdown,,Ana is now running towards the finish line.,PO,PD,,,1
+,,dropdown,,The cat jumped onto the table and ate all the tuna fish.,PO,PD,,,1
+,,dropdown,,Watch out! The pot behind you has hot soup inside. ,PO,PD,,,0
+,,dropdown,,She went outside and picked up some apples from the tree.,PO,PD,,,1
+SBS1M4L16c.json,Choose the word that best complete the sentences.,,,,,,,,
+,,dropdown,,They haven't __ any pictures for the books yet. ,made,make,,,0
+,,dropdown,,I __ decided to help with the pictures. ,have,has,,,0
+,,dropdown,,My father has __ a present for my mom.,buy,bought,,,1
+,,dropdown,,They __ gone to the new mall yet. ,hasn't,haven't,,,1
+,,dropdown,,__ you been to a live soccer game? ,Have,Has,,,0
+SBS1M4L19a.json,Choose the correct modal to complete the sentences.,,,,,,,,
+,,dropdown,,"When you have a fever, you __ visit the doctor.",must,should,mustn't,,1
+,,dropdown,,"When you don't understand a math problem, you __ ask Peter, he's a math genius!",might,could ,must ,,2
+,,dropdown,,You __ buy the latest gadget just because it's fashionable.,couldn't,may,shouldn't,,2
+,,dropdown,,You __ want to wait a few months until the price of a gadget goes down.,should,must,may,,2
+,,dropdown,,The new Lego robot is the best! You __ absolutely get it!,could ,must,should ,,1
+SBS1M5L22c.json,Choose the best option to complete the sentences,,,,,,,,
+,,dropdown,,You really __ be rude to your friend. She has no idea why you're mad. ,shouldn't,should,might,,0
+,,dropdown,,"If you want people to understand you, you __ consider being nicer.",shouldn't,must,might,,2
+,,dropdown,,I have always __ to tell you that I appreciate your friendship.,want,wants,wanted,,2
+,,dropdown,,"When I'm in trouble with my parents at home, things at school __.",go wrong,will go wrong,goes wrong,,0
+,,dropdown,,"And when I'm not doing well at school, my parents __ happy with me.",are,aren't,isn't,,1
+SBS1M5L24b.json,Choose the best option to complete the sentences,,,,,,,,
+,,dropdown,,Many worldwide care groups ask for donations to help poverty __ other countries. ,in,on,at,,0
+,,dropdown,,"One of these organizations is CARE. It was founded after WWII __ November 27, 1945. ",in,on,at,,1
+,,dropdown,,If you want to find out what they do you __ go to www.care.org,can,will,may,,0
+,,dropdown,,"__ first, CARE sent food packages a day enough for 10 people. ",At,On,In,,0
+,,dropdown,,"On May 11th, 1946 the first CARE package was delivered __ La Havre, France. ",at ,on,in,,2
+,,dropdown,,"Today, CARE __ developed over 800 thousand projects around the world. ",has,have ,had,,0

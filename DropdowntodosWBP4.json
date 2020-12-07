@@ -1,0 +1,228 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Choose the correct category",
+            "Nomenclatura": "WBP4M2L7b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "hands",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "ship",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "berries",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "meat",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "nuts ",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "feet",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "boots",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "leather",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "kayak",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "canoe",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "coach",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "beans",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 3,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "moccasin",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "shoulders",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "tunic",
+                    "options": [
+                        "Transportation",
+                        "Parts of the body",
+                        "Clothes",
+                        "Food"
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Complete the conversation choosing the appropriate adjective from the list",
+            "Nomenclatura": "WBP4M3L12a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Tennis is very__ here.",
+                    "options": [
+                        "popular",
+                        "interesting",
+                        "dangerous",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Kayaking is very",
+                    "options": [
+                        "difficult",
+                        "popular",
+                        "exciting",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Rock climbing is an",
+                    "options": [
+                        "unusual",
+                        "interesting",
+                        "boring",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I think cooking is",
+                    "options": [
+                        "interesting",
+                        "difficult",
+                        "dangerous",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1397 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Is it /ch/ or /sh/?",
+            "Nomenclatura": "WBS1M1L1a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "__eep",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ip",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "wit__",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__eese",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ip",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "ca__",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__icken",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ark",
+                    "options": [
+                        "ch",
+                        "sh",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read the text and answer true or false",
+            "Nomenclatura": "WBS1M1L5a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "It is always safe to surf the net. __",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Sites with a valid security certificate has an 'S' in the address. __",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Click baits tell you if you win a prize online. __",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It is OK to share your password with your friends. __",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "A computer virus can wipe out your operating system. __",
+                    "options": [
+                        "TRUE",
+                        "FALSE",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correctf form of the verb",
+            "Nomenclatura": "WBS1M2L6c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "You __ sick last week. How do you feel now?",
+                    "options": [
+                        "were",
+                        "was",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Tom and I __ at the concert last night.",
+                    "options": [
+                        "were",
+                        "was",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Tania __ sure about the concert tickets.",
+                    "options": [
+                        "wasn't",
+                        "weren't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ home last night. ",
+                    "options": [
+                        "wasn't",
+                        "weren't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ at the movies.",
+                    "options": [
+                        "were",
+                        "was",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ you happy with all your presents?",
+                    "options": [
+                        "Were",
+                        "Was",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct verb to complete the sentences",
+            "Nomenclatura": "WBS1M2L8b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Natalie __ all the way home because she missed the bus.",
+                    "options": [
+                        "ran",
+                        "run",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Yesterday we went to Enrique's and we __ way too much barbecue.",
+                    "options": [
+                        "eat",
+                        "ate",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The teacher was at the door! We all quickly __ down and waited.",
+                    "options": [
+                        "sit",
+                        "sat",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Peter __ the trash out and Dad was mad. ",
+                    "options": [
+                        "didn't take",
+                        "took",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Hey! You __ for me at the end of the school day. ",
+                    "options": [
+                        "waited",
+                        "didn't wait",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Complete the words with ee or ie",
+            "Nomenclatura": "WBS1M2L8c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Tr__",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "F__ld",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Sh__ld",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Kn__",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "T__th",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Bel__f",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Mov__",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "D__r",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Pr__st",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "S__d",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Agr__",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Ch__f",
+                    "options": [
+                        "ee",
+                        "ie",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose can or can't to complete the sentences",
+            "Nomenclatura": "WBS1M2L9c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "My dad only speaks English. He __ speak French.",
+                    "options": [
+                        "can",
+                        "can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There's a party tonight. __ you come?",
+                    "options": [
+                        "can",
+                        "can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It's really dark here, I __ see anything.",
+                    "options": [
+                        "can",
+                        "can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "She's a great singer. She __sing nicely.",
+                    "options": [
+                        "can",
+                        "can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Which sports __ you play?",
+                    "options": [
+                        "can",
+                        "can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose ei or ey to complete the words.",
+            "Nomenclatura": "WBS1M2L9d.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "__ght",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "gr__",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "be__ge",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "ob__",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "h__",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "th__",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "sl__g",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "w__ght",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "pr__",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "v__n",
+                    "options": [
+                        "ei",
+                        "ey",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Complete the sentences. Choose the correct preposition",
+            "Nomenclatura": "WBS1M3L12a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "My sister is __ the kitchen",
+                    "options": [
+                        "in",
+                        "on",
+                        "behind",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I'm waiting for my friend __ her house.",
+                    "options": [
+                        "between",
+                        "under",
+                        "in front of",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I like sitting __ my mom and dad on the couch.",
+                    "options": [
+                        "under",
+                        "between",
+                        "on",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My cat sleeps __ my bed.",
+                    "options": [
+                        "on",
+                        "above",
+                        "in  ",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My uncle specializes __ marine biology.",
+                    "options": [
+                        "on",
+                        "above",
+                        "in  ",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I put my books __ the computer.",
+                    "options": [
+                        "out of",
+                        "under",
+                        "behind",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My brother left his shoes __ the table.",
+                    "options": [
+                        "under",
+                        "above",
+                        "inside",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Gretel sat __ Alex at the party.",
+                    "options": [
+                        "down",
+                        "under",
+                        "near",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The runners went __ the avenue.",
+                    "options": [
+                        "along",
+                        "up",
+                        "in front of",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Our new house is __ the river.",
+                    "options": [
+                        "between",
+                        "across",
+                        "into",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We have a valuable painting __ the couch.",
+                    "options": [
+                        "above",
+                        "along",
+                        "out of",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I saw a big spider __ the bathroom.",
+                    "options": [
+                        "down",
+                        "in",
+                        "on",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct word to complete the article.",
+            "Nomenclatura": "WBS1M3L14a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Last night a fire broke out on Henley Hill at around 6:00 pm. It __.",
+                    "options": [
+                        "started",
+                        "was starting",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "when lightning __ a dead tree.",
+                    "options": [
+                        "struck",
+                        "was striking",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It __ a very dry summer last year.",
+                    "options": [
+                        "was",
+                        "were",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "There __ some campers at the foot of the hill",
+                    "options": [
+                        "was",
+                        "were",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ the lake.",
+                    "options": [
+                        "behind",
+                        "next to",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Two complete teen scout troops __ there too. ",
+                    "options": [
+                        "were camping",
+                        "camped",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Sergeant William Riker, leader of the scout troops, __ the evacuation of the area",
+                    "options": [
+                        "organized",
+                        "was organizing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "as soon as he __ the flames on the hill.",
+                    "options": [
+                        "saw",
+                        "was seeing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"The kids were __ for two weeks now and",
+                    "options": [
+                        "training",
+                        "trained",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ exactly what to do.",
+                    "options": [
+                        "were knowing",
+                        "knew",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ down Left Hand Canyon to the emergency center when he",
+                    "options": [
+                        "were driving",
+                        "drove",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ the firefighters on their way to the fire. ",
+                    "options": [
+                        "were seeing",
+                        "saw",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ our paths!\". ",
+                    "options": [
+                        "crossed",
+                        "were crossing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct verb to complete the sentences",
+            "Nomenclatura": "WBS1M3L15a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "I __ I didn't hear you came in.",
+                    "options": [
+                        "was sleeping",
+                        "slept",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ to see her twice, but she wasn't home.",
+                    "options": [
+                        "was coming",
+                        "came",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "What __ I was watching Tv.",
+                    "options": [
+                        "did you do?",
+                        "were you doing?",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Robin Hood was a character who __ from the rich and gave to the poor.",
+                    "options": [
+                        "stole",
+                        "stealing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ home very late last night.",
+                    "options": [
+                        "came",
+                        "was coming",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "We __ breakfast when she walked into the room.",
+                    "options": [
+                        "had",
+                        "were having",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Complete the following story by choosing the correct words.",
+            "Nomenclatura": "WBS1M3L15b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Last night, Johnny __ through the park.",
+                    "options": [
+                        "was walking",
+                        "walked",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "It __ late and dark.",
+                    "options": [
+                        "was ",
+                        "were",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Just as he passed through the middle of the park, he __ something on his skin.",
+                    "options": [
+                        "was feeling",
+                        "felt",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He __ a shadow, it",
+                    "options": [
+                        "saw",
+                        "was seeing",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ somewhere",
+                    "options": [
+                        "float",
+                        "was floating",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ him.",
+                    "options": [
+                        "above",
+                        "below",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He was very scared. So he __ to run but the shadow just",
+                    "options": [
+                        "started",
+                        "was starting",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ him as he",
+                    "options": [
+                        "followed ",
+                        "follows",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__.",
+                    "options": [
+                        "running ",
+                        "ran",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Finally he screamed out for help. \"Mom! Help!\", he __",
+                    "options": [
+                        "was yelling",
+                        "yelled",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Just as he was about to fall, he __ his Mom at the front door.",
+                    "options": [
+                        "found",
+                        "was finding",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct verb to complete the sentences.",
+            "Nomenclatura": "WBS1M4L16a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "My grandparents __ in Miami since 1998.",
+                    "options": [
+                        "lived",
+                        "have lived",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ to Guanajuato 5 times",
+                    "options": [
+                        "was",
+                        "have been",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Have you ever __ to Coatzacoalcos?",
+                    "options": [
+                        "been",
+                        "be",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Sean __ too much coffee today.",
+                    "options": [
+                        "has drunk",
+                        "drank",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Phillip and Marianne __ their rooms yet.",
+                    "options": [
+                        "haven't cleaned",
+                        "didn't clean",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct word and complete the dialog.",
+            "Nomenclatura": "WBS1M5L24a.json",
+            "header": "Andy: Hello Mr. Jones! How are you today? ",
+            "questions": [
+                {
+                    "question": "Andy: Well, if you want, I __ take Flossy with us. ",
+                    "options": [
+                        "can",
+                        "can't",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Mr. Jones: I don't know, that dog looks awfully big. __ you leave him home? ",
+                    "options": [
+                        "should",
+                        "could",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Andy: Sorry, Mr. Jones. If I __ him home, he will chew up all my shoes. ",
+                    "options": [
+                        "leave",
+                        "left",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Mr. Jones: I guess we __ wait.",
+                    "options": [
+                        "should",
+                        "must",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Andy: Ok, Mr. Jones. I'll come by later.",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct preposition to complete the sentences. ",
+            "Nomenclatura": "WBS1M5L24b.json",
+            "header": "When Susie's grandfather fell and broke his hip, the family took him home to take care of him until he got better.",
+            "questions": [
+                {
+                    "question": "They put him __ one of the downstairs bedrooms. ",
+                    "options": [
+                        "in",
+                        "on",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He had been staying __ the local General Hospital.",
+                    "options": [
+                        "on",
+                        "at",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "He lives __ Toluca but they brought him home to Mexico City.",
+                    "options": [
+                        "at",
+                        "in",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Susie loves her grandpa very much and wants to help __ the care.",
+                    "options": [
+                        "with",
+                        "in",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "",
+                    "options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "correct": "",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct preposition to complete the text.",
+            "Nomenclatura": "WBS1M5L25a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Wings of rescue is an organization that rescues dogs and cats that are __ risk of being euthanized because nobody has adopted them from the shelter. ",
+                    "options": [
+                        "in",
+                        "at",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Cindy Smith started it __ 2012",
+                    "options": [
+                        "in",
+                        "on",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ California.",
+                    "options": [
+                        "in",
+                        "on",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "This little dog was found __ the corner of 13th and Mapleton ",
+                    "options": [
+                        "on ",
+                        "at",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "and he ended up __ a shelter ",
+                    "options": [
+                        "on ",
+                        "at",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "__ a cage. ",
+                    "options": [
+                        "inside",
+                        "outside",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "The shelter was overcrowded and they hope Wings of Rescue can help them move some dogs and cats close __",
+                    "options": [
+                        "to",
+                        "into",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "loving homes __ other parts of the nation. ",
+                    "options": [
+                        "in",
+                        "at",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Volunteer pilots and teams get the dogs and cats to the airport and help put the cages __ of the planes.",
+                    "options": [
+                        "onto",
+                        "out",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}

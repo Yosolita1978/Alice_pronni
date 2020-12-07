@@ -1,0 +1,18 @@
+Archivo JSON,Instruccion,Tipo,header_img,Pregunta,Opcion 1,Opcion 2,Opcion 3,Opcion 4,Opcion Correcta
+SBP4M2L9a.json,Choose the correct option,,,,,,,,
+,,dropdown,,decide,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,1
+,,dropdown,,like,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,2
+,,dropdown,,start,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,2
+,,dropdown,,risk,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,0
+,,dropdown,,want,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,0
+,,dropdown,,choose,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,1
+,,dropdown,,finish,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,1
+,,dropdown,,enjoy,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,1
+,,dropdown,,learn,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,0
+,,dropdown,,agree,Verbs followed by verb + ing (gerund),verbs followed by + to verb (infinitive),verbs that can be followed by either without a change of meaning,,0
+SBP4M3L11a.json,Read and choose the correct answer,,,,,,,,
+,,dropdown,,The sentences are comparing two different types of elephants,yes,no,,,0
+,,dropdown,,"The comparative form of short adjectives (one syllabe adjectives or two syllabe adjectives ending in ""y"") end in ""er""",yes,no,,,0
+SBP4M4L17a.json,Read and choose the correct answer,,I think rock climbing is more interesting than kayaking. ,,,,,,
+,,dropdown,,We use How Much with __ nouns.,countable,uncountable,,,1
+,,dropdown,,We use How Many with __ nouns.,countable,uncountable,,,0

@@ -1,0 +1,333 @@
+{
+    "kind": "Dropdown",
+    "questions": [
+        {
+            "title": "Read and choose the correct answer.",
+            "Nomenclatura": "SBS3M1L5a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "\"Where are you from?\" They asked Paul __",
+                    "options": [
+                        "where was he from",
+                        "where he was from",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"Did you go to the movies?\"  We wanted to know if __",
+                    "options": [
+                        "he had gone",
+                        "had he gone",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"Do you like pizza?\" I asked my students __ they liked pizza.",
+                    "options": [
+                        "if",
+                        "why",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"Are you a doctor?\" She wanted to know if Sarah __",
+                    "options": [
+                        "is a doctor",
+                        "was a doctor",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "\"Will you do it again?\" They asked us if __ it again.",
+                    "options": [
+                        "would we do",
+                        "we would do",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the right answer to complete these sentences",
+            "Nomenclatura": "SBS3M2L10a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "1. I was sure that I __ you before.",
+                    "options": [
+                        "had saw",
+                        "seen",
+                        "had seen",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "2. I needed to know what __ to my sister.",
+                    "options": [
+                        "has happened",
+                        "had happened",
+                        "happened",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "3. The movie __ by the time we got to the cinema.",
+                    "options": [
+                        "had start",
+                        "had started",
+                        "has started",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "4. Julia left the restaurant after she __ eating.",
+                    "options": [
+                        "had finished",
+                        "has finished",
+                        "finished",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "5. I went to bed after I __ off the television.",
+                    "options": [
+                        "switched",
+                        "has switched",
+                        "had switched",
+                        ""
+                    ],
+                    "correct": 2,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read these sentences and choose the best option.",
+            "Nomenclatura": "SBS3M3L13a.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "You should talk to your parents about how you feel. I'm sure they will listen. __",
+                    "options": [
+                        "advisability",
+                        "obligation",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "You should be careful about texting while driving. __",
+                    "options": [
+                        "advisability",
+                        "obligation",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "For this project, you should document your sources. If you don't know how to do it, ask your friend to help you. __",
+                    "options": [
+                        "advisability",
+                        "obligation",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Ella should be tired, she has been extra hours for a week now. She works at TEEN LINE. __",
+                    "options": [
+                        "obligation",
+                        "assumption",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose whether it is assumption or obligation",
+            "Nomenclatura": "SBS3M3L14b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Doctors must be exhausted after that 7-hour operation. __",
+                    "options": [
+                        "assumption",
+                        "obligation",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "You must finish your homework if you want to chat with your friends. __",
+                    "options": [
+                        "assumption",
+                        "obligation",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Read the sentences and choose A for arrangement or I for intention. ",
+            "Nomenclatura": "SBS3M5L22b.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "I'm not going to play videogames until I finish my homework. __",
+                    "options": [
+                        "I",
+                        "A",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Mike is spending Christmas with his grandparents. __",
+                    "options": [
+                        "I",
+                        "A",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "What are you doing Sunday morning? __",
+                    "options": [
+                        "I",
+                        "A",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My mom is going to buy a new car next month. __",
+                    "options": [
+                        "I",
+                        "A",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "Where are you going to buy your sneakers? __",
+                    "options": [
+                        "I",
+                        "A",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        },
+        {
+            "title": "Choose the correct form of future in these sentences.",
+            "Nomenclatura": "SBS3M5L22c.json",
+            "header": "",
+            "questions": [
+                {
+                    "question": "Johnny, take your umbrella, __",
+                    "options": [
+                        "It's going to rain.",
+                        "It's raining.",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I __ anything special this summer.",
+                    "options": [
+                        "am not doing",
+                        "am not going to do",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "I don't like this food and I __ to eat it. ",
+                    "options": [
+                        "am not going",
+                        "not going",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "My sister __ to the party. She has to work on a project. ",
+                    "options": [
+                        "is not going",
+                        "is not going to go",
+                        "",
+                        ""
+                    ],
+                    "correct": 1,
+                    "type": "dropdown"
+                },
+                {
+                    "question": "When __ the dentist? I can't remember the date",
+                    "options": [
+                        "are we going to",
+                        "are we going to go",
+                        "",
+                        ""
+                    ],
+                    "correct": 0,
+                    "type": "dropdown"
+                }
+            ]
+        }
+    ]
+}
