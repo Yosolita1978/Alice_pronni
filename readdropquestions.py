@@ -65,7 +65,7 @@ def writeToJson(root, filename):
 #Main
 if __name__ == '__main__':
 
-    path = "/Users/cristina/src/Alice_proni/Excel_files/"
+    path = "/Users/cristina/src/Alice_proni/Excel_files/correcciones"
     filename = "DropdowntodosWBS3.csv"
     filenameJson = "DropdowntodosWBS3.json"
     pathfile = pathFile(path, filename)
